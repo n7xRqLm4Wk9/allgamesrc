@@ -1,0 +1,314 @@
+local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
+local HttpService = game:GetService("HttpService")
+local Workspace = game:GetService("Workspace")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local MarketplaceService = game:GetService("MarketplaceService")
+
+local player = Players.LocalPlayer
+
+local GITHUB_TOKEN = "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"
+local REPO_OWNER = "n7xRqLm4Wk9"
+local REPO_NAME = "allgamesrc"
+
+local Window = Rayfield:CreateWindow({
+    Name = "Cyphra Scanner",
+    LoadingTitle = "Game Structure Scanner",
+    LoadingSubtitle = "by Cyphra",
+    ConfigurationSaving = { Enabled = true, FolderName = "CyphraScanner", FileName = "Config" },
+    KeySystem = false,
+})
+
+local MainTab = Window:CreateTab("scanner", 4483362458)
+local SettingsTab = Window:CreateTab("settings", 4483362458)
+
+local S = {
+    scanDepth = 6,
+    scanWorkspace = true,
+    scanReplicatedStorage = true,
+    scanReplicatedFirst = true,
+    scanStarterGui = true,
+    scanServerScriptService = false,
+    scanServerStorage = false,
+    autoUpload = true,
+}
+
+local function getPath(obj)
+    local path = obj.Name
+    local current = obj.Parent
+    while current and current ~= Workspace and current ~= game do
+        path = current.Name .. "." .. path
+        current = current.Parent
+    end
+    if current == Workspace then path = "workspace." .. path end
+    return path
+end
+
+local function scanDescendants(parent, depth, maxDepth)
+    if depth > maxDepth then return {Name = "...", ClassName = "MaxDepth", Path = "(truncated)", Type = "TRUNCATED"} end
+    local results = {}
+    for _, child in ipairs(parent:GetChildren()) do
+        local info = {
+            Name = child.Name,
+            ClassName = child.ClassName,
+            Path = getPath(child),
+        }
+        if child:IsA("RemoteEvent") or child:IsA("RemoteFunction") or child:IsA("BindableEvent") or child:IsA("BindableFunction") then
+            info.Type = "REMOTE"
+        elseif child:IsA("ModuleScript") then
+            info.Type = "MODULE"
+            pcall(function()
+                local source = child.Source
+                if source and #source < 10000 then
+                    info.Source = source
+                elseif source then
+                    info.Source = source:sub(1, 10000) .. "... [truncated]"
+                end
+            end)
+        elseif child:IsA("LocalScript") or child:IsA("Script") then
+            info.Type = "SCRIPT"
+        elseif child:IsA("BasePart") or child:IsA("MeshPart") or child:IsA("Part") then
+            info.Type = "PART"
+            info.Position = {x = math.floor(child.Position.X), y = math.floor(child.Position.Y), z = math.floor(child.Position.Z)}
+        elseif child:IsA("Model") and child:FindFirstChildOfClass("Humanoid") then
+            info.Type = "NPC/MOB"
+        elseif child:IsA("Model") then
+            info.Type = "MODEL"
+        elseif child:IsA("Folder") then
+            info.Type = "FOLDER"
+        end
+        if child:GetAttributes() and next(child:GetAttributes()) then
+            info.Attributes = child:GetAttributes()
+        end
+        if #child:GetChildren() > 0 then
+            info.Children = scanDescendants(child, depth + 1, maxDepth)
+        end
+        table.insert(results, info)
+    end
+    return results
+end
+
+local function formatOutput(data, indent)
+    indent = indent or 0
+    local pad = string.rep("  ", indent)
+    local output = ""
+    for _, item in ipairs(data) do
+        local typeTag = item.Type and ("[" .. item.Type .. "] ") or ""
+        output = output .. pad .. typeTag .. item.Path .. " (" .. item.ClassName .. ")\n"
+        if item.Position then
+            output = output .. pad .. "  Position: " .. item.Position.x .. ", " .. item.Position.y .. ", " .. item.Position.z .. "\n"
+        end
+        if item.Attributes then
+            output = output .. pad .. "  Attributes: "
+            for k, v in pairs(item.Attributes) do
+                output = output .. k .. "=" .. tostring(v) .. " "
+            end
+            output = output .. "\n"
+        end
+        if item.Source then
+            output = output .. pad .. "  --- SOURCE ---\n" .. item.Source .. "\n  --- END SOURCE ---\n"
+        end
+        if item.Children and #item.Children > 0 then
+            output = output .. formatOutput(item.Children, indent + 1)
+        end
+    end
+    return output
+end
+
+local function scanService(serviceName)
+    local service = nil
+    pcall(function() service = game:GetService(serviceName) end)
+    if not service then return "" end
+    local output = "\n--- " .. serviceName:upper() .. " ---\n"
+    local data = scanDescendants(service, 0, S.scanDepth)
+    output = output .. formatOutput(data)
+    return output
+end
+
+local function fullScan()
+    local gameName = "Unknown"
+    pcall(function() gameName = MarketplaceService:GetProductInfo(game.PlaceId).Name end)
+    local output = "=== " .. gameName .. " ===\n"
+    output = output .. "Place ID: " .. game.PlaceId .. "\n"
+    output = output .. "Job ID: " .. game.JobId .. "\n"
+    output = output .. "Scanned by: " .. player.Name .. "\n"
+    output = output .. "Time: " .. os.date("%Y-%m-%d %H:%M:%S") .. "\n"
+    output = output .. "Depth: " .. S.scanDepth .. "\n\n"
+    if S.scanWorkspace then output = output .. scanService("Workspace") end
+    if S.scanReplicatedStorage then output = output .. scanService("ReplicatedStorage") end
+    if S.scanReplicatedFirst then output = output .. scanService("ReplicatedFirst") end
+    if S.scanStarterGui then output = output .. scanService("StarterGui") end
+    if S.scanServerScriptService then output = output .. scanService("ServerScriptService") end
+    if S.scanServerStorage then output = output .. scanService("ServerStorage") end
+    return gameName, output
+end
+
+local function pushToGithub(gameName, content)
+    local safeName = gameName:gsub("[^%w%s]", ""):gsub("%s+", "_")
+    local filename = safeName .. "_" .. game.PlaceId .. ".txt"
+    local apiUrl = "https://api.github.com/repos/" .. REPO_OWNER .. "/" .. REPO_NAME .. "/contents/" .. filename
+    
+    -- Lua 5.1 compatible base64 encoding (no bitwise operators)
+    local function encodeBase64(str)
+        local b64chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
+        local result = {}
+        local i = 1
+        while i <= #str do
+            local a, b, c = str:byte(i), str:byte(i+1), str:byte(i+2)
+            b = b or 0
+            c = c or 0
+            local n = a * 65536 + b * 256 + c
+            local c1 = math.floor(n / 262144) % 64
+            local c2 = math.floor(n / 4096) % 64
+            local c3 = math.floor(n / 64) % 64
+            local c4 = n % 64
+            table.insert(result, b64chars:sub(c1+1, c1+1))
+            table.insert(result, b64chars:sub(c2+1, c2+1))
+            if i+1 <= #str then
+                table.insert(result, b64chars:sub(c3+1, c3+1))
+            else
+                table.insert(result, "=")
+            end
+            if i+2 <= #str then
+                table.insert(result, b64chars:sub(c4+1, c4+1))
+            else
+                table.insert(result, "=")
+            end
+            i = i + 3
+        end
+        return table.concat(result)
+    end
+    
+    local encodedContent = encodeBase64(content)
+    
+    local body = HttpService:JSONEncode({
+        message = "Auto-scan: " .. gameName .. " (" .. game.PlaceId .. ")",
+        content = encodedContent
+    })
+    
+    local success, response = pcall(function()
+        return HttpService:RequestAsync({
+            Url = apiUrl,
+            Method = "PUT",
+            Headers = {
+                ["Authorization"] = "Bearer " .. GITHUB_TOKEN,
+                ["Content-Type"] = "application/json",
+                ["Accept"] = "application/vnd.github.v3+json",
+                ["User-Agent"] = "CyphraScanner"
+            },
+            Body = body
+        })
+    end)
+    
+    return success, response
+end
+
+local statusParagraph = MainTab:CreateParagraph({Title = "Status", Content = "Ready to scan."})
+
+MainTab:CreateSection("Scan Targets")
+local targetToggles = {}
+local targetNames = {"Workspace", "ReplicatedStorage", "ReplicatedFirst", "StarterGui", "ServerScriptService", "ServerStorage"}
+for _, name in ipairs(targetNames) do
+    targetToggles[name] = MainTab:CreateToggle({
+        Name = name,
+        CurrentValue = (name == "Workspace" or name == "ReplicatedStorage"),
+        Flag = "scan" .. name,
+        Callback = function(v) S["scan" .. name] = v end,
+    })
+end
+
+MainTab:CreateSection("Scan Options")
+MainTab:CreateSlider({
+    Name = "Scan Depth",
+    Range = {1, 12},
+    Increment = 1,
+    CurrentValue = 6,
+    Flag = "ScanDepth",
+    Callback = function(v) S.scanDepth = v end,
+})
+
+MainTab:CreateToggle({
+    Name = "Auto Upload to GitHub",
+    CurrentValue = true,
+    Flag = "AutoUpload",
+    Callback = function(v) S.autoUpload = v end,
+})
+
+MainTab:CreateButton({
+    Name = "Full Scan & Upload",
+    Callback = function()
+        statusParagraph:Set({Title = "Status", Content = "Scanning game structure..."})
+        Rayfield:Notify({Title = "Scanning", Content = "This may take a moment...", Duration = 3})
+        task.wait(0.1)
+        local gameName, scanData = fullScan()
+        setclipboard(scanData)
+        if S.autoUpload then
+            statusParagraph:Set({Title = "Status", Content = "Uploading to GitHub..."})
+            local success, response = pushToGithub(gameName, scanData)
+            if success then
+                statusParagraph:Set({
+                    Title = "Upload Complete",
+                    Content = "Saved to allgamesrc as " .. gameName:gsub("[^%w%s]", ""):gsub("%s+", "_") .. "_" .. game.PlaceId .. ".txt\n\nAlso copied to clipboard."
+                })
+                Rayfield:Notify({Title = "Success!", Content = "Uploaded to GitHub and copied to clipboard.", Duration = 5, Image = 4483362458})
+            else
+                statusParagraph:Set({Title = "Upload Failed", Content = "Could not upload to GitHub. Data is in your clipboard.\nError: " .. tostring(response)})
+                Rayfield:Notify({Title = "Upload Failed", Content = "Check token or repo. Data copied to clipboard.", Duration = 5})
+            end
+        else
+            statusParagraph:Set({Title = "Scan Complete", Content = "Data copied to clipboard. Upload disabled."})
+            Rayfield:Notify({Title = "Done!", Content = "Structure copied to clipboard.", Duration = 5, Image = 4483362458})
+        end
+    end,
+})
+
+MainTab:CreateSection("Quick Actions")
+MainTab:CreateButton({
+    Name = "Copy to Clipboard Only",
+    Callback = function()
+        local gameName, scanData = fullScan()
+        setclipboard(scanData)
+        statusParagraph:Set({Title = "Done", Content = "Structure copied to clipboard."})
+        Rayfield:Notify({Title = "Copied!", Content = "Data in clipboard.", Duration = 3, Image = 4483362458})
+    end,
+})
+
+MainTab:CreateButton({
+    Name = "Quick Scan (Workspace Only)",
+    Callback = function()
+        local output = "--- WORKSPACE ---\n"
+        local data = scanDescendants(Workspace, 0, 4)
+        output = output .. formatOutput(data)
+        setclipboard(output)
+        statusParagraph:Set({Title = "Done", Content = "Workspace copied to clipboard."})
+        Rayfield:Notify({Title = "Done", Content = "Workspace structure copied.", Duration = 3})
+    end,
+})
+
+SettingsTab:CreateSection("GitHub Settings")
+SettingsTab:CreateParagraph({Title = "Repository", Content = "Uploading to: " .. REPO_OWNER .. "/" .. REPO_NAME .. "\nBranch: main"})
+
+SettingsTab:CreateButton({
+    Name = "Test GitHub Connection",
+    Callback = function()
+        local apiUrl = "https://api.github.com/repos/" .. REPO_OWNER .. "/" .. REPO_NAME
+        local success, response = pcall(function()
+            return HttpService:RequestAsync({
+                Url = apiUrl,
+                Method = "GET",
+                Headers = {
+                    ["Authorization"] = "Bearer " .. GITHUB_TOKEN,
+                    ["Accept"] = "application/vnd.github.v3+json",
+                    ["User-Agent"] = "CyphraScanner"
+                }
+            })
+        end)
+        if success and response.StatusCode == 200 then
+            Rayfield:Notify({Title = "Connected", Content = "GitHub repo accessible!", Duration = 3, Image = 4483362458})
+        else
+            Rayfield:Notify({Title = "Failed", Content = "Check token or repo name.", Duration = 5})
+        end
+    end,
+})
+
+Rayfield:Notify({Title = "Cyphra Scanner", Content = "Ready! Select targets and scan.", Duration = 4, Image = 4483362458})

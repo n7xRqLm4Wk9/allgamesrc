@@ -1,0 +1,1499 @@
+=== Pick A Side ===
+PlaceID : 663655429
+JobID   : f05caa72-ee24-4654-a3d7-508fe140c119
+Player  : noob64ha
+Time    : 2026-06-25 21:50:55
+Entries : 1479
+
+══ DISCOVERED INSTANCES ══
+
+── REMOTES (104) ──
+  [BINDABLEFUNCTION] Workspace.Artiompatrashko.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.CDBjongen.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Chicken_little2678.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Deku_kamil.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Flaxer_best.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.LeeDanyi_7.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Longcat119.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.LuvsCooki.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Martyna20122.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.dogwillruleroblx.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.dwdwdwd21wdas.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.gekhekhelo.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.ji9starso.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.kittiblesss.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.mahadgmer6.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.minte442.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.noob64ha.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.sin2uu.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.volcanic_shrimpy.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.xxAwsomeContentxx.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.zygispro900.Animate.PlayEmote (BindableFunction)
+  [REMOTEEVENT] ReplicatedStorage.Events.Camera (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Chat (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Custom (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Death (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Display (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Friends (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Message (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Moderation (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Radio (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Report (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Weapons (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Signals.ClaimLike (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Signals.CompleteQuest (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Signals.EquipAura (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Signals.LogError (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Signals.LogFunnel (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Signals.PurchaseAura (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Signals.Revive (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Signals.Roll (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.10.Remote (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.103359953.Event (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.139578136.SoSScript.AbilityRemoteEvent (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.147143848.Event (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.155661985.Event (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.172246669.WeaponEvent (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.20.Remote (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.208659586.Remote (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.208659734.Remote (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.218631128.Remote (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.221173389.Remote (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.228589017.Remote (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.23.Remote (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.49052686.Input (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.5.Remote (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.51346471.Input (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.54130559.ActivateQuake (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.54130559.QuakePartRemote (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.54130559.QuakeRemote (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.66416616.Event (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.68603324.RemoteClick (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.69210321.Event (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.69947367.Event (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.7.Remote (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.77443704.RemoteClick (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Weapons.9.Remote (RemoteEvent)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.181550181.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.181550181.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.243007180.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.243007180.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.244081145.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.244081145.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.283756680.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.283756680.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.306971294.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.306971294.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.336370943.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.336370943.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.343586214.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.343586214.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.365642352.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.365642352.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.395205750.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.395205750.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.517827255.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.517827255.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.522587921.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.522587921.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.542755101.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.542755101.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.639345143.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Weapons.639345143.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] Workspace.ji9starso.W.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] Workspace.ji9starso.W.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] Workspace.kittiblesss.W.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] Workspace.kittiblesss.W.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] Workspace.mahadgmer6.W.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] Workspace.mahadgmer6.W.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] Workspace.minte442.W.Remotes.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] Workspace.minte442.W.Remotes.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] Workspace.sin2uu.W.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] Workspace.sin2uu.W.ServerControl (RemoteFunction)
+  [REMOTEFUNCTION] Workspace.zygispro900.W.ClientControl (RemoteFunction)
+  [REMOTEFUNCTION] Workspace.zygispro900.W.ServerControl (RemoteFunction)
+
+── SCRIPTS (467) ──
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.10.Local (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.10.Mouse (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.103359953.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.103359953.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.10758456.Local Gui (LocalScript) OldLinkedSource=http://www.roblox.com/asset/?id=1014476
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.10831489.Local Gui (LocalScript) OldLinkedSource=http://www.roblox.com/asset/?id=1014476
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.11452821.Local Gui (LocalScript) OldLinkedSource=http://www.roblox.com/asset/?id=1014476
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.11453385.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.11885154.Local Gui (LocalScript) OldLinkedSource=http://www.roblox.com/asset/?id=1014476
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.120749528.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.120749528.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.120749528.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.127506105.AnimationScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.127506105.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.139578136.SoSGui.SoSGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.139578136.SoSLocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.14131296.Local Gui (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.147143848.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.147143848.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.14719505.Local Gui (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.155661985.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.155661985.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.155661985.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.160189476.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.172246669.LocalGuiFiltered (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.181550181.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.181550181.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.20.Local (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.20.Mouse (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.204485737.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.204485737.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.208659586.Client (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.208659734.Client (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.218631128.Client (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.221173389.Client (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.221181437.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.221181437.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.226205948.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.226205948.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.226205948.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.228589017.Client (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.23.Local (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.233520425.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.233520425.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.241017568.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.241017568.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.241017568.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.241511828.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.241511828.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.243007180.CastLaser (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.243007180.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.244081145.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.244081145.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.254608905.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.254608905.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.254608905.Script.StunScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.255800146.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.255800146.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.255800146.Script.StunScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.280662667.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.280662667.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.280662903.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.280662903.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.280662903.Script.BlizzardGui.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.283756680.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.283756680.LocalScript.ScopeGui.ScopeManager (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.283756680.Script.CameraFixer.CameraFixScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.286526176.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.287425246.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.287425246.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.287425246.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.295460073.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.295460073.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.295461517.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.304720496.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.304720496.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.304720496.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.306971294.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.306971294.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.306971294.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.315617026.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.315617026.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.315617026.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.336370943.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.336370943.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.341110180.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.343586214.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.343586214.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.346686597.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.346686597.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.356212933.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.356212933.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.356213216.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.356213216.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.361950297.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.365642352.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.365642352.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.365674685.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.365674685.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.365674685.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.380204314.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.380204314.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.380204314.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.395205750.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.395205750.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.402304782.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.402304782.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.409745306.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.409745306.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.409745306.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.46846024.Local Gui (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.46846024.LocalKatanaScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.49052686.Local Gui (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.49052686.PistolScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.49052686.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.5.Local (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.503957396.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.503957396.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.51346471.Local Gui (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.51346471.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.51346471.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.517827255.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.517827255.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.522587921.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.522587921.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.522587921.Script.StunScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.532254782.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.532254782.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.532254782.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.54130559.Local Gui (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.54130559.LocalTridentScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.54130559.Quake.QuakeScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.54130559.QuakeEnabler (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.54130559.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.542755101.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.542755101.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.629893424.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.629893424.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.639345143.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.639345143.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.64220933.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.64220933.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.66416616.AnimateScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.66416616.Local Gui (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.66416616.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.68603324.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.69210321.AnimateScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.69210321.Local Gui (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.69210321.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.69210321.StaffScript.DarknessScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.69947367.Local Gui (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.69947367.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.7.Local (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.7.Mouse (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.72069888.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.72069888.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.72644629.Local Gui (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.77443704.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.83704154.AnimateScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.83704154.Local Gui (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.86494893.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.86494893.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.86494893.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.9.Local (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.93136746.LocalScript (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.93136746.MouseIcon (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Weapons.93136746.SpecialGui.SpecialGuiScript (LocalScript)
+  [LOCALSCRIPT] StarterGui.Client.L_Data (LocalScript)
+  [LOCALSCRIPT] StarterGui.Client.L_Display (LocalScript)
+  [LOCALSCRIPT] StarterGui.Client.L_Init (LocalScript)
+  [LOCALSCRIPT] StarterGui.Client.L_Monocyte (LocalScript)
+  [LOCALSCRIPT] StarterGui.Client.L_Pass (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Auras.L_Weapons (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Auras.Windows.Orig.Auras (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Chat.M_Chat (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Custom.L_Custom (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Custom.L_Money (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Friends.L_Friends (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.L_Master (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Level.L_Level (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Like.L_Friends (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Like.Like (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Messages.L_Messages (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Quests.Windows.Orig.Quests (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Radio.L_Radio (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Report.L_Report (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Revives.L_Revives (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Status.L_Status (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Weapons.L_Money (LocalScript)
+  [LOCALSCRIPT] StarterGui.Gui.Weapons.L_Weapons (LocalScript)
+  [LOCALSCRIPT] StarterGui.MobileShiftLock.L_MobileShiftLock (LocalScript)
+  [LOCALSCRIPT] StarterGui.Popups.Rolling.Rolling (LocalScript)
+  [LOCALSCRIPT] StarterGui.Topbar.Holder.Like.Like (LocalScript)
+  [LOCALSCRIPT] StarterGui.Topbar.Holder.Quests.Quests (LocalScript)
+  [LOCALSCRIPT] StarterGui.Topbar.Topbar (LocalScript)
+  [LOCALSCRIPT] Workspace.Artiompatrashko.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.CDBjongen.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.CDBjongen.W.Local Gui (LocalScript) OldLinkedSource=http://www.roblox.com/asset/?id=1014476
+  [LOCALSCRIPT] Workspace.Chicken_little2678.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.Deku_kamil.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.Flaxer_best.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.Flaxer_best.W.Local Gui (LocalScript) OldLinkedSource=http://www.roblox.com/asset/?id=1014476
+  [LOCALSCRIPT] Workspace.LeeDanyi_7.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.Longcat119.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.Longcat119.W.MouseIcon (LocalScript)
+  [LOCALSCRIPT] Workspace.LuvsCooki.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.Martyna20122.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.dogwillruleroblx.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.dwdwdwd21wdas.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.dwdwdwd21wdas.W.Local Gui (LocalScript) OldLinkedSource=http://www.roblox.com/asset/?id=1014476
+  [LOCALSCRIPT] Workspace.gekhekhelo.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.ji9starso.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.ji9starso.W.LocalScript (LocalScript)
+  [LOCALSCRIPT] Workspace.ji9starso.W.MouseIcon (LocalScript)
+  [LOCALSCRIPT] Workspace.kittiblesss.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.kittiblesss.W.LocalScript (LocalScript)
+  [LOCALSCRIPT] Workspace.kittiblesss.W.MouseIcon (LocalScript)
+  [LOCALSCRIPT] Workspace.mahadgmer6.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.mahadgmer6.W.LocalScript (LocalScript)
+  [LOCALSCRIPT] Workspace.mahadgmer6.W.MouseIcon (LocalScript)
+  [LOCALSCRIPT] Workspace.minte442.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.minte442.W.LocalScript (LocalScript)
+  [LOCALSCRIPT] Workspace.minte442.W.MouseIcon (LocalScript)
+  [LOCALSCRIPT] Workspace.noob64ha.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.sin2uu.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.sin2uu.W.LocalScript (LocalScript)
+  [LOCALSCRIPT] Workspace.sin2uu.W.MouseIcon (LocalScript)
+  [LOCALSCRIPT] Workspace.volcanic_shrimpy.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.volcanic_shrimpy.W.Local Gui (LocalScript) OldLinkedSource=http://www.roblox.com/asset/?id=1014476
+  [LOCALSCRIPT] Workspace.xxAwsomeContentxx.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.zygispro900.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.zygispro900.W.LocalScript (LocalScript)
+  [LOCALSCRIPT] Workspace.zygispro900.W.MouseIcon (LocalScript)
+  [MODULESCRIPT] ReplicatedStorage.GLib (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.GLib.FastSpawn (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.GLib.FullMeta (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.GLib.GetCharacter (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.GLib.GetCharacterFromPart (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.GLib.GetDescendants (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.GLib.GetHumanoid (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.GLib.GetPlayerFromPart (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.GLib.IsProtected (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.GLib.IsTeammate (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.GLib.SetButtonCooldown (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.GLib.TagHumanoid (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.AurasByRarity (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.CameraShaker (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.CameraShaker.CameraShakeInstance (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.CameraShaker.CameraShakePresets (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.ChinaPolicyService (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.GetModelMass (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.GetPlatform (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.GoodSignal (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.GoodSignalsClient (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.Knockback (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.Pick (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.RaycastForward (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.ToolHold (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Modules.WeldBetween (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Questions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Settings.Auras (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Settings.Quests (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Settings.Rarity (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Settings.Songs (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.168140516.Script.b (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.168140516.Script.e (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.243007180.Modules.Functions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.283756680.Script.Functions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.304720496.Script.ZombieScript (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.306971294.Script.BatManagement.Functions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.306971294.Script.Functions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.315617026.Script.Functions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.336370943.Script2.Functions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.343586214.Script3.Functions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.365642352.Script4.Functions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.380204314.Script.HitScript.Functions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.395205750.Script.HitScript.Functions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.409745306.Script.OrbExplosion.Functions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.503957396.Script.LightningFunctions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.542755101.Script6.Functions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.639345143.Script5.Functions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.68603324.Sword (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.77443704.Sword (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Weapons.93136746.SwordScript.FlyCheckScript (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.XP (ModuleScript)
+  [MODULESCRIPT] Workspace.mahadgmer6.W.Script4.Functions (ModuleScript)
+  [SCRIPT] ReplicatedStorage.Weapons.10.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.103359953.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.10758456.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.10831489.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.11452821.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.11453385.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.11885154.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.120749528.MotorizeRightGrip (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.120749528.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.127506105.Handle.Effect.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.127506105.KorbloxStaffScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.139578136.SoSScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.14131296.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.147143848.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.147143848.Script.DamageScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.147143848.SpecialHandler (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.14719505.Old (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.14719505.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.155661985.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.155661985.SoundManager (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.160189476.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.168140516.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.168140516.Script.fireDeath (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.172246669.LauncherFiltered (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.172246669.ProjectileScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.172246669.WeldArm (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.172246669.WeldScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.172246669.Welding (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.181550181.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.181550181.Script.DeathEffect (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.20.Projectile (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.20.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.204485737.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.204485737.Script.Goldify (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.208659586.Projectile (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.208659586.Server (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.208659734.Server (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.218631128.Server (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.221173389.Projectile (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.221173389.Server (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.221181437.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.226205948.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.226205948.Script.FlowerScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.228589017.Projectile (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.228589017.Server (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.23.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.233520425.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.233520425.Script.DamageScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.241017568.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.241511828.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.243007180.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.244081145.MotorizeGrip (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.244081145.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.254608905.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.255800146.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.280662667.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.280662903.Handle.ParticleFix (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.280662903.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.280662903.Script.BlizzardGui.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.280662903.Script.FreezeScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.283756680.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.283756680.Script.CameraFixer (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.283756680.Script.Sparks.ParticleScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.286526176.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.287425246.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.295460073.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.295460073.Script.ProjectileScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.295461517.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.304720496.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.304720496.Script.DeathWarning.GuiManager (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.304720496.Script.PermenantPoisonScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.304720496.Script.PoisonScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.306971294.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.306971294.Script.BatManagement (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.306971294.Script.ParticleScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.315617026.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.336370943.Script2 (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.336370943.Script2.Sparks.ParticleScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.341110180.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.343586214.Script3 (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.343586214.Script3.Sparks.ParticleScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.346686597.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.356212933.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.356213216.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.361950297.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.361950297.Script.DeathEffect (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.365642352.Script4 (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.365642352.Script4.Sparks.ParticleScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.365674685.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.365674685.Script.HitScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.380204314.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.380204314.Script.HitScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.380204314.Script.Throw (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.395205750.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.395205750.Script.HitScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.402304782.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.402304782.Script.DeathEffect (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.409745306.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.409745306.Script.HitScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.409745306.Script.HitScript.FirePoison (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.409745306.Script.OrbExplosion (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.46846024.KatanaScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.49052686.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.5.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.503957396.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.503957396.Script.LightningFunctions.LightningModelRemoval (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.503957396.Script.StunScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.51346471.AnimateScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.51346471.KodachiScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.517827255.MotorizeGrip (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.517827255.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.522587921.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.532254782.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.532254782.Script.DeathEffect (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.54130559.Quake (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.54130559.TridentScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.542755101.Script6 (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.542755101.Script6.Sparks.ParticleScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.629893424.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.639345143.Script5 (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.64220933.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.64220933.SwordScript.DecimateScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.66416616.ThunderScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.68603324.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.69210321.StaffScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.69947367.AxeScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.69947367.ThrowAxeScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.7.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.72069888.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.72069888.SwordScript.DecimateScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.72644629.OrbScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.77443704.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.83704154.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.86494893.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.9.Script (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.93136746.SwordScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.93136746.SwordScript.ParticleScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.93136746.SwordScript.TelaPwnedScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.93136746.SwordScript.TelaThornScript (Script)
+  [SCRIPT] ReplicatedStorage.Weapons.93136746.SwordScript.UnwingScript (Script)
+  [SCRIPT] Workspace.Artiompatrashko.Health (Script)
+  [SCRIPT] Workspace.CDBjongen.Health (Script)
+  [SCRIPT] Workspace.CDBjongen.W.SwordScript (Script)
+  [SCRIPT] Workspace.Chicken_little2678.Health (Script)
+  [SCRIPT] Workspace.Deku_kamil.Health (Script)
+  [SCRIPT] Workspace.Flaxer_best.Health (Script)
+  [SCRIPT] Workspace.Flaxer_best.W.SwordScript (Script)
+  [SCRIPT] Workspace.Lava.Script (Script)
+  [SCRIPT] Workspace.LeeDanyi_7.Health (Script)
+  [SCRIPT] Workspace.Longcat119.Health (Script)
+  [SCRIPT] Workspace.Longcat119.W.SwordScript (Script)
+  [SCRIPT] Workspace.LuvsCooki.Health (Script)
+  [SCRIPT] Workspace.Martyna20122.Health (Script)
+  [SCRIPT] Workspace.Passes.Screen.Gui.Script (Script)
+  [SCRIPT] Workspace.Portals.Portals (Script)
+  [SCRIPT] Workspace.Scoreboard.Screen.Script (Script)
+  [SCRIPT] Workspace.dogwillruleroblx.Health (Script)
+  [SCRIPT] Workspace.dwdwdwd21wdas.Health (Script)
+  [SCRIPT] Workspace.dwdwdwd21wdas.W.SwordScript (Script)
+  [SCRIPT] Workspace.gekhekhelo.Health (Script)
+  [SCRIPT] Workspace.ji9starso.Health (Script)
+  [SCRIPT] Workspace.ji9starso.W.Script (Script)
+  [SCRIPT] Workspace.kittiblesss.Health (Script)
+  [SCRIPT] Workspace.kittiblesss.W.Script (Script)
+  [SCRIPT] Workspace.mahadgmer6.DeathEffect (Script)
+  [SCRIPT] Workspace.mahadgmer6.Health (Script)
+  [SCRIPT] Workspace.mahadgmer6.W.Script4 (Script)
+  [SCRIPT] Workspace.mahadgmer6.W.Script4.Sparks.ParticleScript (Script)
+  [SCRIPT] Workspace.minte442.Health (Script)
+  [SCRIPT] Workspace.minte442.W.Script (Script)
+  [SCRIPT] Workspace.minte442.W.Script.DeathEffect (Script)
+  [SCRIPT] Workspace.noob64ha.Health (Script)
+  [SCRIPT] Workspace.sin2uu.Health (Script)
+  [SCRIPT] Workspace.sin2uu.W.Script (Script)
+  [SCRIPT] Workspace.volcanic_shrimpy.Health (Script)
+  [SCRIPT] Workspace.volcanic_shrimpy.W.SwordScript (Script)
+  [SCRIPT] Workspace.xxAwsomeContentxx.Health (Script)
+  [SCRIPT] Workspace.zygispro900.Health (Script)
+  [SCRIPT] Workspace.zygispro900.W.Script (Script)
+  [SCRIPT] Workspace.zygispro900.W.Script.DeathEffect (Script)
+
+── PROMPTS (4) ──
+  [INTERACTIVE] Workspace.Auras.Normal.Box (MeshPart)
+  [INTERACTIVE] Workspace.Auras.Premium.Box (MeshPart)
+  [PROXIMITYPROMPT] Workspace.Auras.Normal.Box.ProximityPrompt (ProximityPrompt)
+  [PROXIMITYPROMPT] Workspace.Auras.Premium.Box.ProximityPrompt (ProximityPrompt)
+
+── NPCS (20) ──
+  [NPC] Workspace.Artiompatrashko (Model)
+  [NPC] Workspace.CDBjongen (Model)
+  [NPC] Workspace.Chicken_little2678 (Model)
+  [NPC] Workspace.Deku_kamil (Model)
+  [NPC] Workspace.Flaxer_best (Model)
+  [NPC] Workspace.Longcat119 (Model)
+  [NPC] Workspace.LuvsCooki (Model)
+  [NPC] Workspace.Martyna20122 (Model)
+  [NPC] Workspace.dogwillruleroblx (Model)
+  [NPC] Workspace.dwdwdwd21wdas (Model)
+  [NPC] Workspace.gekhekhelo (Model)
+  [NPC] Workspace.ji9starso (Model)
+  [NPC] Workspace.kittiblesss (Model)
+  [NPC] Workspace.mahadgmer6 (Model)
+  [NPC] Workspace.minte442 (Model)
+  [NPC] Workspace.noob64ha (Model)
+  [NPC] Workspace.sin2uu (Model)
+  [NPC] Workspace.volcanic_shrimpy (Model)
+  [NPC] Workspace.xxAwsomeContentxx (Model)
+  [NPC] Workspace.zygispro900 (Model)
+
+── VALUES (720) ──
+  [BOOLVALUE] ReplicatedStorage.Modules.ChinaPolicyService.DisableGroupCheck (BoolValue) = false
+  [BOOLVALUE] ReplicatedStorage.Modules.ChinaPolicyService.Forced (BoolValue) = false
+  [BOOLVALUE] ReplicatedStorage.Weapons.103359953.Handle.Blockable (BoolValue) = true
+  [BOOLVALUE] ReplicatedStorage.Weapons.103359953.Handle.CanBlock (BoolValue) = true
+  [BOOLVALUE] ReplicatedStorage.Weapons.147143848.SpecialEnabled (BoolValue) = true
+  [BOOLVALUE] ReplicatedStorage.Weapons.243007180.Configuration.Automatic (BoolValue) = true
+  [BOOLVALUE] ReplicatedStorage.Weapons.54130559.QuakeEnabled (BoolValue) = true
+  [BOOLVALUE] ReplicatedStorage.Weapons.68603324.Configurations.CanKillWithForceField (BoolValue) = false
+  [BOOLVALUE] ReplicatedStorage.Weapons.68603324.Configurations.CanTeamkill (BoolValue) = false
+  [BOOLVALUE] ReplicatedStorage.Weapons.68603324.Configurations.PoisonBlockedByForceField (BoolValue) = true
+  [BOOLVALUE] ReplicatedStorage.Weapons.69947367.ThrowAxes (BoolValue) = false
+  [BOOLVALUE] ReplicatedStorage.Weapons.77443704.Configurations.CanKillWithForceField (BoolValue) = true
+  [BOOLVALUE] ReplicatedStorage.Weapons.77443704.Configurations.CanTeamkill (BoolValue) = false
+  [INTCONSTRAINEDVALUE] ReplicatedStorage.Weapons.243007180.Configuration.Ammo.ClipSize (IntConstrainedValue) = 0
+  [INTCONSTRAINEDVALUE] ReplicatedStorage.Weapons.243007180.Configuration.Ammo.Magazines (IntConstrainedValue) = 35
+  [INTCONSTRAINEDVALUE] ReplicatedStorage.Weapons.243007180.Configuration.Burst.Bullets (IntConstrainedValue) = 1
+  [INTCONSTRAINEDVALUE] ReplicatedStorage.Weapons.304720496.Script.DeathWarning.Count (IntConstrainedValue) = 0
+  [INTVALUE] ReplicatedStorage.Auras.Corruption.Price (IntValue) = 0
+  [INTVALUE] ReplicatedStorage.Auras.Eldritch.AnimSaves.ELDRITCH(OLD).Keyframe.HumanoidRootPart.Null (IntValue) = 0
+  [INTVALUE] ReplicatedStorage.Auras.Heavenbound.AnimSaves.HellBound Anim.Keyframe.HumanoidRootPart.Null (IntValue) = 0
+  [INTVALUE] ReplicatedStorage.Auras.Heavenbound.AnimSaves.HellBound Anim.Keyframe.HumanoidRootPart.Torso.Null (IntValue) = 0
+  [INTVALUE] ReplicatedStorage.Auras.Heavenbound.AnimSaves.HellBoundAnim.Keyframe.HumanoidRootPart.Null (IntValue) = 0
+  [INTVALUE] ReplicatedStorage.Auras.Heavenbound.AnimSaves.HellBoundAnim.Keyframe.HumanoidRootPart.Torso.Null (IntValue) = 0
+  [INTVALUE] ReplicatedStorage.Status.Timer (IntValue) = 19
+  [INTVALUE] ReplicatedStorage.Weapons.10.Damage (IntValue) = 100
+  [INTVALUE] ReplicatedStorage.Weapons.10.Price (IntValue) = 4000
+  [INTVALUE] ReplicatedStorage.Weapons.103359953.Price (IntValue) = 1750
+  [INTVALUE] ReplicatedStorage.Weapons.10758456.Price (IntValue) = 125
+  [INTVALUE] ReplicatedStorage.Weapons.10831489.Price (IntValue) = 125
+  [INTVALUE] ReplicatedStorage.Weapons.11452821.Price (IntValue) = 140
+  [INTVALUE] ReplicatedStorage.Weapons.11453385.Price (IntValue) = 150
+  [INTVALUE] ReplicatedStorage.Weapons.11885154.Price (IntValue) = 0
+  [INTVALUE] ReplicatedStorage.Weapons.120749528.Price (IntValue) = 10000
+  [INTVALUE] ReplicatedStorage.Weapons.127506105.Price (IntValue) = 4000
+  [INTVALUE] ReplicatedStorage.Weapons.139578136.Price (IntValue) = 10000
+  [INTVALUE] ReplicatedStorage.Weapons.14131296.Price (IntValue) = 163
+  [INTVALUE] ReplicatedStorage.Weapons.147143848.Price (IntValue) = 2100
+  [INTVALUE] ReplicatedStorage.Weapons.14719505.Price (IntValue) = 200
+  [INTVALUE] ReplicatedStorage.Weapons.155661985.Price (IntValue) = 4000
+  [INTVALUE] ReplicatedStorage.Weapons.160189476.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.168140516.Price (IntValue) = 2500
+  [INTVALUE] ReplicatedStorage.Weapons.172246669.Price (IntValue) = 1250
+  [INTVALUE] ReplicatedStorage.Weapons.181550181.Price (IntValue) = 650
+  [INTVALUE] ReplicatedStorage.Weapons.20.Damage (IntValue) = 5
+  [INTVALUE] ReplicatedStorage.Weapons.20.Price (IntValue) = 6000
+  [INTVALUE] ReplicatedStorage.Weapons.204485737.Price (IntValue) = 1750
+  [INTVALUE] ReplicatedStorage.Weapons.208659586.Price (IntValue) = 250
+  [INTVALUE] ReplicatedStorage.Weapons.208659734.Price (IntValue) = 3500
+  [INTVALUE] ReplicatedStorage.Weapons.218631128.Price (IntValue) = 2500
+  [INTVALUE] ReplicatedStorage.Weapons.221173389.Price (IntValue) = 1750
+  [INTVALUE] ReplicatedStorage.Weapons.221181437.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.226205948.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.228589017.Price (IntValue) = 300
+  [INTVALUE] ReplicatedStorage.Weapons.23.Price (IntValue) = 10000
+  [INTVALUE] ReplicatedStorage.Weapons.233520425.Price (IntValue) = 1750
+  [INTVALUE] ReplicatedStorage.Weapons.241017568.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.241511828.Price (IntValue) = 3750
+  [INTVALUE] ReplicatedStorage.Weapons.243007180.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.244081145.Price (IntValue) = 2000
+  [INTVALUE] ReplicatedStorage.Weapons.254608905.Price (IntValue) = 250
+  [INTVALUE] ReplicatedStorage.Weapons.255800146.Price (IntValue) = 300
+  [INTVALUE] ReplicatedStorage.Weapons.280662667.Price (IntValue) = 2250
+  [INTVALUE] ReplicatedStorage.Weapons.280662903.Price (IntValue) = 10000
+  [INTVALUE] ReplicatedStorage.Weapons.283756680.Price (IntValue) = 1000
+  [INTVALUE] ReplicatedStorage.Weapons.286526176.Price (IntValue) = 200
+  [INTVALUE] ReplicatedStorage.Weapons.287425246.Price (IntValue) = 1750
+  [INTVALUE] ReplicatedStorage.Weapons.295460073.Price (IntValue) = 250
+  [INTVALUE] ReplicatedStorage.Weapons.295461517.Price (IntValue) = 200
+  [INTVALUE] ReplicatedStorage.Weapons.304720496.Price (IntValue) = 2000
+  [INTVALUE] ReplicatedStorage.Weapons.306971294.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.315617026.Price (IntValue) = 3500
+  [INTVALUE] ReplicatedStorage.Weapons.336370943.Price (IntValue) = 750
+  [INTVALUE] ReplicatedStorage.Weapons.341110180.Price (IntValue) = 600
+  [INTVALUE] ReplicatedStorage.Weapons.343586214.Price (IntValue) = 3000
+  [INTVALUE] ReplicatedStorage.Weapons.346686597.Price (IntValue) = 3900
+  [INTVALUE] ReplicatedStorage.Weapons.356212933.Price (IntValue) = 2000
+  [INTVALUE] ReplicatedStorage.Weapons.356213216.Price (IntValue) = 400
+  [INTVALUE] ReplicatedStorage.Weapons.361950297.Price (IntValue) = 400
+  [INTVALUE] ReplicatedStorage.Weapons.365642352.Price (IntValue) = 1500
+  [INTVALUE] ReplicatedStorage.Weapons.365674685.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.380204314.Price (IntValue) = 389
+  [INTVALUE] ReplicatedStorage.Weapons.395205750.Price (IntValue) = 10000
+  [INTVALUE] ReplicatedStorage.Weapons.402304782.Price (IntValue) = 700
+  [INTVALUE] ReplicatedStorage.Weapons.409745306.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.46846024.Price (IntValue) = 2000
+  [INTVALUE] ReplicatedStorage.Weapons.49052686.Price (IntValue) = 500
+  [INTVALUE] ReplicatedStorage.Weapons.5.Damage (IntValue) = 20
+  [INTVALUE] ReplicatedStorage.Weapons.5.Price (IntValue) = 2800
+  [INTVALUE] ReplicatedStorage.Weapons.503957396.Price (IntValue) = 3500
+  [INTVALUE] ReplicatedStorage.Weapons.51346471.Price (IntValue) = 3500
+  [INTVALUE] ReplicatedStorage.Weapons.517827255.Price (IntValue) = 1250
+  [INTVALUE] ReplicatedStorage.Weapons.522587921.Price (IntValue) = 1000
+  [INTVALUE] ReplicatedStorage.Weapons.532254782.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.54130559.Price (IntValue) = 10000
+  [INTVALUE] ReplicatedStorage.Weapons.542755101.Price (IntValue) = 650
+  [INTVALUE] ReplicatedStorage.Weapons.629893424.Price (IntValue) = 250
+  [INTVALUE] ReplicatedStorage.Weapons.639345143.Price (IntValue) = 750
+  [INTVALUE] ReplicatedStorage.Weapons.64220933.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.66416616.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.68603324.Configurations.IdleDamage (IntValue) = 5
+  [INTVALUE] ReplicatedStorage.Weapons.68603324.Configurations.LungeDamage (IntValue) = 20
+  [INTVALUE] ReplicatedStorage.Weapons.68603324.Configurations.SlashDamage (IntValue) = 10
+  [INTVALUE] ReplicatedStorage.Weapons.68603324.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.69210321.Price (IntValue) = 4500
+  [INTVALUE] ReplicatedStorage.Weapons.69947367.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.7.Damage (IntValue) = 25
+  [INTVALUE] ReplicatedStorage.Weapons.7.Price (IntValue) = 2000
+  [INTVALUE] ReplicatedStorage.Weapons.72069888.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.72644629.Price (IntValue) = 10000
+  [INTVALUE] ReplicatedStorage.Weapons.77443704.Configurations.IdleDamage (IntValue) = 10
+  [INTVALUE] ReplicatedStorage.Weapons.77443704.Configurations.LungeDamage (IntValue) = 32
+  [INTVALUE] ReplicatedStorage.Weapons.77443704.Configurations.SlashDamage (IntValue) = 16
+  [INTVALUE] ReplicatedStorage.Weapons.77443704.Price (IntValue) = 5000
+  [INTVALUE] ReplicatedStorage.Weapons.83704154.Price (IntValue) = 3500
+  [INTVALUE] ReplicatedStorage.Weapons.86494893.Price (IntValue) = 1875
+  [INTVALUE] ReplicatedStorage.Weapons.9.Damage (IntValue) = 8
+  [INTVALUE] ReplicatedStorage.Weapons.9.Price (IntValue) = 3300
+  [INTVALUE] ReplicatedStorage.Weapons.93136746.Price (IntValue) = 10000
+  [INTVALUE] Workspace.CDBjongen.W.Price (IntValue) = 0
+  [INTVALUE] Workspace.Flaxer_best.W.Price (IntValue) = 0
+  [INTVALUE] Workspace.Longcat119.W.Price (IntValue) = 200
+  [INTVALUE] Workspace.dwdwdwd21wdas.W.Price (IntValue) = 0
+  [INTVALUE] Workspace.ji9starso.W.Price (IntValue) = 3750
+  [INTVALUE] Workspace.kittiblesss.W.Price (IntValue) = 250
+  [INTVALUE] Workspace.mahadgmer6.W.Price (IntValue) = 1500
+  [INTVALUE] Workspace.minte442.W.Price (IntValue) = 650
+  [INTVALUE] Workspace.sin2uu.W.Price (IntValue) = 3750
+  [INTVALUE] Workspace.volcanic_shrimpy.W.Price (IntValue) = 0
+  [INTVALUE] Workspace.zygispro900.W.Price (IntValue) = 700
+  [NUMBERVALUE] ReplicatedStorage.Custom_Multiplier (NumberValue) = 1
+  [NUMBERVALUE] ReplicatedStorage.Weapons.10.Reload (NumberValue) = 3
+  [NUMBERVALUE] ReplicatedStorage.Weapons.147143848.Script.DamageScript.Damage (NumberValue) = 0
+  [NUMBERVALUE] ReplicatedStorage.Weapons.20.Reload (NumberValue) = 1
+  [NUMBERVALUE] ReplicatedStorage.Weapons.23.Reload (NumberValue) = 1
+  [NUMBERVALUE] ReplicatedStorage.Weapons.243007180.Configuration.FireRate (NumberValue) = 0.09
+  [NUMBERVALUE] ReplicatedStorage.Weapons.243007180.Configuration.Range (NumberValue) = 100
+  [NUMBERVALUE] ReplicatedStorage.Weapons.243007180.Configuration.ReloadTime (NumberValue) = 1.5
+  [NUMBERVALUE] ReplicatedStorage.Weapons.280662903.Script.BlizzardGui.Timer (NumberValue) = 0
+  [NUMBERVALUE] ReplicatedStorage.Weapons.49052686.DualActive (NumberValue) = 0
+  [NUMBERVALUE] ReplicatedStorage.Weapons.5.Reload (NumberValue) = 1.4
+  [NUMBERVALUE] ReplicatedStorage.Weapons.51346471.Batto (NumberValue) = 0
+  [NUMBERVALUE] ReplicatedStorage.Weapons.51346471.HiddenBladeActive (NumberValue) = 0
+  [NUMBERVALUE] ReplicatedStorage.Weapons.51346471.SwordActive (NumberValue) = 0
+  [NUMBERVALUE] ReplicatedStorage.Weapons.68603324.Configurations.PoisonDamageRatio (NumberValue) = 0.05
+  [NUMBERVALUE] ReplicatedStorage.Weapons.68603324.Configurations.PoisonDuration (NumberValue) = 10
+  [NUMBERVALUE] ReplicatedStorage.Weapons.68603324.Configurations.PoisonRate (NumberValue) = 2
+  [NUMBERVALUE] ReplicatedStorage.Weapons.7.Reload (NumberValue) = 2
+  [NUMBERVALUE] ReplicatedStorage.Weapons.9.Reload (NumberValue) = 0.2
+  [NUMBERVALUE] Workspace.Artiompatrashko.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Artiompatrashko.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.Artiompatrashko.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.CDBjongen.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.CDBjongen.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.CDBjongen.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Chicken_little2678.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Chicken_little2678.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.Chicken_little2678.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Deku_kamil.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Deku_kamil.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.Deku_kamil.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Flaxer_best.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Flaxer_best.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.Flaxer_best.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.LeeDanyi_7.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.LeeDanyi_7.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.LeeDanyi_7.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Longcat119.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Longcat119.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.Longcat119.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.LuvsCooki.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.LuvsCooki.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.LuvsCooki.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Martyna20122.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Martyna20122.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.Martyna20122.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.dogwillruleroblx.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.dogwillruleroblx.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.dogwillruleroblx.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.dwdwdwd21wdas.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.dwdwdwd21wdas.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.dwdwdwd21wdas.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.gekhekhelo.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.gekhekhelo.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.gekhekhelo.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.ji9starso.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.ji9starso.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.ji9starso.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.kittiblesss.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.kittiblesss.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.kittiblesss.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.mahadgmer6.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.mahadgmer6.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.mahadgmer6.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.minte442.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.minte442.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.minte442.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.noob64ha.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.noob64ha.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.noob64ha.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.sin2uu.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.sin2uu.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.sin2uu.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.volcanic_shrimpy.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.volcanic_shrimpy.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.volcanic_shrimpy.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.xxAwsomeContentxx.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.xxAwsomeContentxx.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.xxAwsomeContentxx.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.zygispro900.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.zygispro900.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.zygispro900.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [OBJECTVALUE] ReplicatedStorage.Auras.Eldritch.AnimSaves (ObjectValue) = nil
+  [OBJECTVALUE] ReplicatedStorage.Auras.Faithworthy.AnimSaves (ObjectValue) = nil
+  [OBJECTVALUE] ReplicatedStorage.Auras.Heavenbound.AnimSaves (ObjectValue) = nil
+  [OBJECTVALUE] ReplicatedStorage.Auras.Matrix.AnimSaves (ObjectValue) = nil
+  [OBJECTVALUE] ReplicatedStorage.Auras.Neutronic.AnimSaves (ObjectValue) = nil
+  [OBJECTVALUE] ReplicatedStorage.Auras.Undefined.AnimSaves (ObjectValue) = nil
+  [OBJECTVALUE] ReplicatedStorage.Weapons.147143848.Script.DamageScript.creator (ObjectValue) = nil
+  [OBJECTVALUE] ReplicatedStorage.Weapons.168140516.Script.fireDeath.creator (ObjectValue) = nil
+  [OBJECTVALUE] Workspace.CDBjongen.Humanoid.creator (ObjectValue) = ji9starso
+  [OBJECTVALUE] Workspace.Flaxer_best.Humanoid.creator (ObjectValue) = mahadgmer6
+  [OBJECTVALUE] Workspace.Longcat119.Humanoid.creator (ObjectValue) = mahadgmer6
+  [OBJECTVALUE] Workspace.dwdwdwd21wdas.Humanoid.creator (ObjectValue) = kittiblesss
+  [OBJECTVALUE] Workspace.ji9starso.Humanoid.creator (ObjectValue) = mahadgmer6
+  [OBJECTVALUE] Workspace.mahadgmer6.Humanoid.creator (ObjectValue) = sin2uu
+  [OBJECTVALUE] Workspace.minte442.Humanoid.creator (ObjectValue) = mahadgmer6
+  [OBJECTVALUE] Workspace.sin2uu.Humanoid.creator (ObjectValue) = mahadgmer6
+  [OBJECTVALUE] Workspace.volcanic_shrimpy.Humanoid.creator (ObjectValue) = ji9starso
+  [OBJECTVALUE] Workspace.zygispro900.Humanoid.creator (ObjectValue) = mahadgmer6
+  [OBJECTVALUE] creator (ObjectValue) = mahadgmer6
+  [STRINGVALUE] ReplicatedStorage.Auras.Corruption.Description (StringValue) = 
+  [STRINGVALUE] ReplicatedStorage.Auras.Evil.Description (StringValue) = 
+  [STRINGVALUE] ReplicatedStorage.Auras.X-Ray.Description (StringValue) = 
+  [STRINGVALUE] ReplicatedStorage.Status.Mode (StringValue) = 
+  [STRINGVALUE] ReplicatedStorage.Status.Title (StringValue) = Pick a Side!
+  [STRINGVALUE] ReplicatedStorage.Weapons.10.Title (StringValue) = Grappling Hook
+  [STRINGVALUE] ReplicatedStorage.Weapons.103359953.RunAnim (StringValue) = LeftSwingFast
+  [STRINGVALUE] ReplicatedStorage.Weapons.139578136.Anim (StringValue) = 
+  [STRINGVALUE] ReplicatedStorage.Weapons.155661985.PlaySound (StringValue) = 
+  [STRINGVALUE] ReplicatedStorage.Weapons.20.Title (StringValue) = Shark Launcher
+  [STRINGVALUE] ReplicatedStorage.Weapons.23.Title (StringValue) = Big Stick
+  [STRINGVALUE] ReplicatedStorage.Weapons.243007180.Configuration.ToolName (StringValue) = Hex Spitter
+  [STRINGVALUE] ReplicatedStorage.Weapons.5.Title (StringValue) = Hammer
+  [STRINGVALUE] ReplicatedStorage.Weapons.7.Title (StringValue) = Piano
+  [STRINGVALUE] ReplicatedStorage.Weapons.9.Title (StringValue) = Saw
+  [STRINGVALUE] Workspace.Artiompatrashko.Accessory (MeshPart).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Artiompatrashko.Accessory (MeshPartAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Artiompatrashko.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Artiompatrashko.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Artiompatrashko.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Artiompatrashko.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Artiompatrashko.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.Artiompatrashko.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Artiompatrashko.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Artiompatrashko.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.CDBjongen.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.CDBjongen.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.CDBjongen.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.CDBjongen.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.CDBjongen.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.CDBjongen.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.CDBjongen.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.CDBjongen.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.CDBjongen.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.CDBjongen.MSN_MaleRthroHair_AccAccessory.Handle.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.CDBjongen.W.toolanim (StringValue) = Slash
+  [STRINGVALUE] Workspace.Chicken_little2678.Accessory (KawaiiAngelWings).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Chicken_little2678.Accessory (belts).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Chicken_little2678.Accessory (defaultAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Chicken_little2678.Accessory (punk pigtails1Accessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Chicken_little2678.Accessory (r).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Chicken_little2678.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Chicken_little2678.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Chicken_little2678.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Chicken_little2678.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Chicken_little2678.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.Chicken_little2678.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Chicken_little2678.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Chicken_little2678.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Deku_kamil.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Deku_kamil.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Deku_kamil.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Deku_kamil.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Deku_kamil.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.Deku_kamil.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Deku_kamil.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Deku_kamil.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Deku_kamil.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Flaxer_best.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Flaxer_best.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Flaxer_best.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Flaxer_best.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Flaxer_best.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.Flaxer_best.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Flaxer_best.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Flaxer_best.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Flaxer_best.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Flaxer_best.W.toolanim (StringValue) = Slash
+  [STRINGVALUE] Workspace.LeeDanyi_7.Accessory (PixieSwirlyHalfUpHair).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.LeeDanyi_7.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.LeeDanyi_7.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.LeeDanyi_7.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.LeeDanyi_7.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.LeeDanyi_7.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.LeeDanyi_7.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.LeeDanyi_7.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.LeeDanyi_7.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Longcat119.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Longcat119.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Longcat119.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Longcat119.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Longcat119.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.Longcat119.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Longcat119.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Longcat119.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Longcat119.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Longcat119.W.toolanim (StringValue) = Lunge
+  [STRINGVALUE] Workspace.LuvsCooki.Accessory (Long Sleek Curled Hair w/ Bangs (x)).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.LuvsCooki.Accessory (n).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.LuvsCooki.Accessory.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.LuvsCooki.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.LuvsCooki.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.LuvsCooki.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.LuvsCooki.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.LuvsCooki.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.LuvsCooki.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.LuvsCooki.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.LuvsCooki.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.LuvsCooki.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.LuvsCooki.Hello Kitty Backpack.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Martyna20122.Accessory ((Low) Eyeglasses).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Martyna20122.Accessory (Grommet Belt With Chain 3.0).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Martyna20122.Accessory (Meshes/sharkbeanie (1)Accessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Martyna20122.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Martyna20122.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Martyna20122.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Martyna20122.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Martyna20122.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.Martyna20122.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Martyna20122.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Martyna20122.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Martyna20122.MeshPartAccessory.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Profiles.10071949914 (StringValue) = {"last_name":"Flaxer_best","exp":0,"money":75,"revives":0,"auras":[],"daily":1782416159,"wins":0,"kills":0,"last_login":1782416159,"level":1,"quests":{"Deal":52,"Login":2,"Win":0},"weapons":{"equipped":"11885154","owned":{"11885154":true}}}
+  [STRINGVALUE] Workspace.Profiles.1030870990 (StringValue) = {"last_name":"xxAwsomeContentxx","last_login":1557872987,"money":7468,"wins":1213,"auras":{"Flame":true,"Darkness":true,"Fire":true,"X-Ray":true,"Evil":true},"revives":0,"daily":1782334319,"kills":1480,"level":55,"exp":336,"weapons":{"owned":{"402304782":true,"93136746":true,"532254782":true,"68603324":true,"120749528":true,"280662903":true,"346686597":true,"255800146":true,"77443704":true,"11885154":true,"522587921":true,"64220933":true,"86494893":true,"181550181":true,"361950297":true,"14719505":true,"226205948":true},"equipped":"280662903"},"quests":{"Deal":102,"Login":2,"Win":0},"claimedLike":true}
+  [STRINGVALUE] Workspace.Profiles.11119748614 (StringValue) = {"last_name":"dwdwdwd21wdas","exp":30,"money":1050,"revives":0,"auras":{"Debuff":true,"Darkness":true},"kills":21,"daily":1782414902,"wins":11,"aura":"Darkness","weapons":{"equipped":"11885154","owned":{"11885154":true}},"level":6,"quests":{"Deal":501,"Login":2,"Win":4},"last_login":1782414902}
+  [STRINGVALUE] Workspace.Profiles.1502770683 (StringValue) = {"last_name":"minte442","last_login":1645816796,"money":4706,"wins":41,"auras":[],"reported":1670179424.842511,"kills":45,"exp":453,"revives":0,"level":17,"weapons":{"owned":{"380204314":true,"11885154":true,"402304782":true,"295461517":true,"181550181":true,"10758456":true,"361950297":true,"356213216":true},"equipped":"181550181"},"quests":{"Deal":501,"Login":2,"Win":4},"daily":1782415340}
+  [STRINGVALUE] Workspace.Profiles.1878808498 (StringValue) = {"last_name":"dogwillruleroblx","exp":526,"money":4430,"wins":100,"auras":[],"kills":128,"last_login":1659207963,"revives":0,"level":14,"weapons":{"owned":{"402304782":true,"522587921":true,"356213216":true,"11885154":true,"103359953":true,"49052686":true},"equipped":"522587921"},"quests":{"Deal":0,"Login":2,"Win":0},"daily":1782416615}
+  [STRINGVALUE] Workspace.Profiles.2388834630 (StringValue) = {"last_name":"zygispro900","exp":107,"money":2255,"wins":16,"auras":[],"reported":1659819385.18134,"kills":9,"last_login":1659302392,"revives":0,"weapons":{"owned":{"11885154":true,"255800146":true,"402304782":true,"11452821":true},"equipped":"402304782"},"level":11,"quests":{"Deal":501,"Login":2,"Win":4},"daily":1782415356}
+  [STRINGVALUE] Workspace.Profiles.2466001266 (StringValue) = {"last_name":"gekhekhelo","last_login":1658515291,"money":7090,"wins":479,"kills":681,"auras":[],"reported":1749408514.7497619,"daily":1782391281,"exp":1260,"level":36,"revives":0,"weapons":{"owned":{"168140516":true,"517827255":true,"11885154":true,"286526176":true,"283756680":true,"243007180":true,"542755101":true,"93136746":true,"226205948":true},"equipped":"93136746"},"quests":{"Deal":501,"Login":2,"Win":4},"claimedLike":true}
+  [STRINGVALUE] Workspace.Profiles.2571435836 (StringValue) = {"last_name":"CDBjongen","exp":56,"money":400,"revives":0,"auras":[],"daily":1782416803,"weapons":{"equipped":"11885154","owned":{"11885154":true}},"kills":1,"last_login":1737552402,"level":3,"quests":{"Deal":167,"Login":1,"Win":1},"wins":2}
+  [STRINGVALUE] Workspace.Profiles.2679631934 (StringValue) = {"last_name":"mahadgmer6","exp":38,"money":1932,"wins":49,"last_login":1658951663,"auras":[],"reported":1776972809.7704993,"kills":24,"daily":1782416547,"weapons":{"owned":{"11885154":true,"365642352":true,"639345143":true},"equipped":"639345143"},"revives":0,"level":10,"quests":{"Deal":0,"Login":2,"Win":0},"claimedLike":true}
+  [STRINGVALUE] Workspace.Profiles.2825155349 (StringValue) = {"last_name":"LuvsCooki","exp":588,"money":5717,"wins":540,"revives":0,"auras":{"Chakra":true,"Flame":true,"Love":true,"Calm":true,"Electro":true,"Evil":true,"Butterfly":true,"Wave":true,"Exorcist":true,"Debuff":true,"Hearts":true,"Darkness":true,"Water":true,"Fire":true,"Healing":true,"Dimension":true},"reported":1782235393.74686,"daily":1782413466,"kills":355,"level":43,"last_login":1638679741,"weapons":{"owned":{"77443704":true,"402304782":true,"14719505":true,"93136746":true,"11885154":true,"7":true,"218631128":true,"172246669":true,"228589017":true,"341110180":true,"336370943":true,"168140516":true,"361950297":true,"243007180":true,"10":true},"equipped":"243007180"},"quests":{"Deal":501,"Login":2,"Win":4},"claimedLike":true}
+  [STRINGVALUE] Workspace.Profiles.2914502031 (StringValue) = {"last_name":"ji9starso","last_login":1658672854,"money":12091,"wins":555,"revives":0,"auras":{"Flame":true,"Love":true,"Energy":true,"Calm":true,"Roar":true,"Electro":true,"Exorcist":true,"Debuff":true,"Thunder":true,"Darkness":true,"Water":true,"Fire":true,"X-Ray":true,"Evil":true},"reported":1699907092.1574929,"kills":879,"daily":1782416876,"aura":"Love","level":51,"weapons":{"owned":{"402304782":true,"168140516":true,"93136746":true,"11885154":true,"629893424":true,"69947367":true,"315617026":true,"218631128":true,"11452821":true,"9":true,"241511828":true,"346686597":true,"243007180":true,"10758456":true,"181550181":true,"361950297":true,"103359953":true,"77443704":true},"equipped":"241511828"},"quests":{"Deal":0,"Login":1,"Win":0},"exp":1588}
+  [STRINGVALUE] Workspace.Profiles.3200542565 (StringValue) = {"last_name":"sin2uu","last_login":1668209421,"money":945,"wins":12,"auras":[],"kills":10,"daily":1782416906,"revives":0,"level":16,"weapons":{"owned":{"181550181":true,"11885154":true,"241511828":true,"336370943":true},"equipped":"241511828"},"quests":{"Deal":0,"Login":1,"Win":0},"exp":32}
+  [STRINGVALUE] Workspace.Profiles.3398747964 (StringValue) = {"last_name":"Artiompatrashko","exp":0,"money":0,"revives":0,"auras":[],"daily":1782416380,"wins":0,"last_login":1735585497,"level":1,"weapons":{"equipped":"11885154","owned":{"11885154":true,"11453385":true}},"quests":{"Deal":67,"Login":2,"Win":0},"kills":0}
+  [STRINGVALUE] Workspace.Profiles.3600466519 (StringValue) = {"last_name":"HelloKitty_NUTTS","last_login":1655687145,"money":2365,"wins":88,"auras":[],"kills":72,"exp":156,"revives":0,"level":14,"weapons":{"owned":{"522587921":true,"356213216":true,"517827255":true,"11885154":true,"10758456":true,"254608905":true},"equipped":"522587921"},"quests":{"Deal":244,"Login":2,"Win":2},"daily":1782397661}
+  [STRINGVALUE] Workspace.Profiles.3615417944 (StringValue) = {"last_name":"noob64ha","exp":92,"money":384,"revives":0,"auras":[],"daily":1782416185,"wins":10,"last_login":1748457469,"level":4,"weapons":{"equipped":"255800146","owned":{"11885154":true,"255800146":true,"295461517":true}},"quests":{"Deal":0,"Login":2,"Win":0},"kills":4}
+  [STRINGVALUE] Workspace.Profiles.3848175026 (StringValue) = {"last_name":"OakStoke2011","last_login":1663362943,"money":8905.5,"wins":181,"auras":[],"kills":230,"exp":441,"revives":0,"weapons":{"owned":{"10831489":true,"402304782":true,"14719505":true,"11452821":true,"10758456":true,"11885154":true,"11453385":true,"241511828":true,"629893424":true,"286526176":true,"295461517":true,"54130559":true,"361950297":true,"14131296":true,"10":true},"equipped":"54130559"},"level":29,"quests":{"Deal":304,"Login":2,"Win":4},"daily":1782405893}
+  [STRINGVALUE] Workspace.Profiles.4311837599 (StringValue) = {"last_name":"volcanic_shrimpy","exp":42,"money":240,"wins":2,"auras":[],"kills":1,"last_login":1719854995,"revives":0,"level":2,"weapons":{"equipped":"11885154","owned":{"11885154":true}},"quests":{"Deal":370,"Login":1,"Win":0},"daily":1782416807}
+  [STRINGVALUE] Workspace.Profiles.5137474652 (StringValue) = {"last_name":"Deku_kamil","exp":0,"money":50,"revives":0,"auras":[],"daily":1782416699,"wins":0,"kills":0,"last_login":1782416699,"level":1,"quests":{"Deal":0,"Login":2,"Win":0},"weapons":{"equipped":"11885154","owned":{"11885154":true}}}
+  [STRINGVALUE] Workspace.Profiles.5141250067 (StringValue) = {"last_name":"Chicken_little2678","last_login":1704326964,"money":3997,"wins":500,"revives":0,"auras":{"Evil":true,"Water":true,"Debuff":true,"Hearts":true,"Darkness":true,"Chakra":true,"Flame":true,"X-Ray":true,"Electro":true,"Healing":true,"Butterfly":true,"Roar":true,"Exorcist":true,"Love":true,"Thunder":true,"Calm":true,"Lightning":true,"Fire":true,"Energy":true,"Dimension":true},"reported":1710038078.902729,"kills":530,"exp":890,"aura":"Butterfly","level":36,"weapons":{"equipped":"532254782","owned":{"402304782":true,"168140516":true,"517827255":true,"532254782":true,"139578136":true,"315617026":true,"218631128":true,"10758456":true,"11885154":true}},"quests":{"Deal":501,"Login":2,"Win":4},"daily":1782390315}
+  [STRINGVALUE] Workspace.Profiles.5202112006 (StringValue) = {"last_name":"imabrokeassorphan","exp":10,"money":1047,"revives":0,"auras":[],"daily":1782401587,"kills":5,"last_login":1759773434,"weapons":{"equipped":"14131296","owned":{"11885154":true,"14131296":true,"11452821":true}},"level":6,"quests":{"Deal":24,"Login":1,"Win":1},"wins":11}
+  [STRINGVALUE] Workspace.Profiles.619735459 (StringValue) = {"last_name":"Martyna20122","exp":0,"money":0,"revives":0,"auras":[],"daily":1782416736,"wins":0,"kills":0,"last_login":1782416736,"level":1,"quests":{"Deal":0,"Login":1,"Win":0},"weapons":{"equipped":"11885154","owned":{"11885154":true}}}
+  [STRINGVALUE] Workspace.Profiles.6217803876 (StringValue) = {"last_name":"kittiblesss","exp":2,"money":125,"revives":0,"auras":[],"daily":1782415935,"kills":0,"last_login":1782415935,"weapons":{"equipped":"629893424","owned":{"629893424":true,"11885154":true}},"level":2,"quests":{"Deal":209,"Login":2,"Win":1},"wins":1}
+  [STRINGVALUE] Workspace.Profiles.8190388720 (StringValue) = {"last_name":"Longcat119","exp":142,"money":2350,"revives":0,"auras":[],"daily":1782333142,"wins":34,"last_login":1764558866,"level":7,"weapons":{"equipped":"295461517","owned":{"11885154":true,"295461517":true}},"quests":{"Deal":501,"Login":2,"Win":4},"kills":14}
+  [STRINGVALUE] Workspace.Profiles.8339324449 (StringValue) = {"last_name":"LeeDanyi_7","exp":30,"money":50,"revives":0,"auras":[],"daily":1782417045,"weapons":{"equipped":"11885154","owned":{"11885154":true}},"kills":2,"last_login":1768436372,"level":1,"quests":{"Deal":0,"Login":1,"Win":0},"wins":1}
+  [STRINGVALUE] Workspace.dogwillruleroblx.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.dogwillruleroblx.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.dogwillruleroblx.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.dogwillruleroblx.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.dogwillruleroblx.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.dogwillruleroblx.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.dogwillruleroblx.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.dogwillruleroblx.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.dogwillruleroblx.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.dogwillruleroblx.InternationalFedora.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.dwdwdwd21wdas.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.dwdwdwd21wdas.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.dwdwdwd21wdas.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.dwdwdwd21wdas.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.dwdwdwd21wdas.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.dwdwdwd21wdas.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.dwdwdwd21wdas.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.dwdwdwd21wdas.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.dwdwdwd21wdas.W.toolanim (StringValue) = Slash
+  [STRINGVALUE] Workspace.gekhekhelo.Accessory (thorn crownAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.gekhekhelo.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.gekhekhelo.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.gekhekhelo.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.gekhekhelo.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.gekhekhelo.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.gekhekhelo.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.gekhekhelo.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.gekhekhelo.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.gekhekhelo.Blonde.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.ji9starso.Accessory (021_NyanCatOnHead).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.ji9starso.Accessory (AnimalNose).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.ji9starso.Accessory (Cube.473Accessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.ji9starso.Accessory (MeshPartAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.ji9starso.Accessory (a).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.ji9starso.Accessory (g).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.ji9starso.Accessory (wadwdwd).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.ji9starso.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.ji9starso.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.ji9starso.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.ji9starso.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.ji9starso.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.ji9starso.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.ji9starso.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.ji9starso.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.kittiblesss.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.kittiblesss.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.kittiblesss.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.kittiblesss.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.kittiblesss.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.kittiblesss.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.kittiblesss.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.kittiblesss.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.kittiblesss.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.mahadgmer6.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.mahadgmer6.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.mahadgmer6.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.mahadgmer6.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.mahadgmer6.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.mahadgmer6.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.mahadgmer6.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.mahadgmer6.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.mahadgmer6.Void Head.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.mahadgmer6.bloxcxy.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.minte442.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.minte442.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.minte442.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.minte442.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.minte442.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.minte442.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.minte442.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.minte442.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.minte442.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.sin2uu.Accessory (Billie_Bandada_PBR).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.sin2uu.Accessory (Billie_Cap_Backwards).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.sin2uu.Accessory (Handle1Accessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.sin2uu.Accessory (MeshPartAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.sin2uu.Accessory (Meshes/Gis1Accessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.sin2uu.Accessory (Meshes/happy (1)Accessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.sin2uu.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.sin2uu.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.sin2uu.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.sin2uu.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.sin2uu.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.sin2uu.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.sin2uu.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.sin2uu.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.sin2uu.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.sin2uu.SPLesbianR.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.volcanic_shrimpy.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.volcanic_shrimpy.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.volcanic_shrimpy.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.volcanic_shrimpy.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.volcanic_shrimpy.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.volcanic_shrimpy.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.volcanic_shrimpy.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.volcanic_shrimpy.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.volcanic_shrimpy.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.volcanic_shrimpy.RIA_Headphones_Hat.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.volcanic_shrimpy.W.toolanim (StringValue) = Slash
+  [STRINGVALUE] Workspace.volcanic_shrimpy.a fancy hat.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.xxAwsomeContentxx.Accessory (Freak Cap).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.xxAwsomeContentxx.Accessory (The Bob Sponge Backpack).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.xxAwsomeContentxx.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.xxAwsomeContentxx.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.xxAwsomeContentxx.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.xxAwsomeContentxx.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.xxAwsomeContentxx.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.xxAwsomeContentxx.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.xxAwsomeContentxx.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.xxAwsomeContentxx.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.xxAwsomeContentxx.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.xxAwsomeContentxx.Meshes/nerdglasses_Cube.001 (1)Accessory.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.zygispro900.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.zygispro900.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.zygispro900.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.zygispro900.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.zygispro900.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.zygispro900.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.zygispro900.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.zygispro900.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.zygispro900.W.toolanim (StringValue) = Lunge
+  [VECTOR3VALUE] ReplicatedStorage.Auras.Lightbringer.Head.Mesh.FaceCenterAttachment (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] ReplicatedStorage.Auras.Lightbringer.Head.Mesh.FaceFrontAttachment (Vector3Value) = 0, 0, -0.6000000238418579
+  [VECTOR3VALUE] ReplicatedStorage.Auras.Lightbringer.Head.Mesh.HairAttachment (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] ReplicatedStorage.Auras.Lightbringer.Head.Mesh.HatAttachment (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] ReplicatedStorage.Auras.Lightbringer.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.468343740851881e-16, -0.48444342613220215, -2.8498092774498218e-08
+  [VECTOR3VALUE] ReplicatedStorage.Weapons.181550181.Script.DeathEffect.Force (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] ReplicatedStorage.Weapons.181550181.Script.DeathEffect.WindDirection (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] ReplicatedStorage.Weapons.243007180.Configuration.Accuracy (Vector3Value) = 0.5, 0.5, 0.5
+  [VECTOR3VALUE] ReplicatedStorage.Weapons.243007180.Configuration.Burst.Offset (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] ReplicatedStorage.Weapons.402304782.Script.DeathEffect.Force (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] ReplicatedStorage.Weapons.402304782.Script.DeathEffect.WindDirection (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] ReplicatedStorage.Weapons.532254782.Script.DeathEffect.Force (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] ReplicatedStorage.Weapons.532254782.Script.DeathEffect.WindDirection (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.Artiompatrashko.Accessory (MeshPart).Handle.OriginalSize (Vector3Value) = 1.5469970703125, 0.5050699710845947, 0.04302978515625
+  [VECTOR3VALUE] Workspace.Artiompatrashko.Accessory (MeshPart).Handle.RightShoulderAttachment.OriginalPosition (Vector3Value) = 0.5634008646011353, -0.7567405700683594, 0.000005306676030158997
+  [VECTOR3VALUE] Workspace.Artiompatrashko.Accessory (MeshPartAccessory).Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.020780563354492188, 0.3368191719055176, 0.009073257446289062
+  [VECTOR3VALUE] Workspace.Artiompatrashko.Accessory (MeshPartAccessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Artiompatrashko.Head.Mesh.FaceCenterAttachment (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.Artiompatrashko.Head.Mesh.FaceFrontAttachment (Vector3Value) = 0, 0, -0.5899999737739563
+  [VECTOR3VALUE] Workspace.Artiompatrashko.Head.Mesh.HairAttachment (Vector3Value) = 0, 0.5899999737739563, -0
+  [VECTOR3VALUE] Workspace.Artiompatrashko.Head.Mesh.HatAttachment (Vector3Value) = 0, 0.5899999737739563, -0
+  [VECTOR3VALUE] Workspace.Artiompatrashko.Head.Mesh.NeckRigAttachment (Vector3Value) = 0, -0.4909999966621399, -0
+  [VECTOR3VALUE] Workspace.CDBjongen.Head.Mesh.FaceCenterAttachment (Vector3Value) = 3.050594188794487e-16, 0.02475738525390625, 0.0022290945053100586
+  [VECTOR3VALUE] Workspace.CDBjongen.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.050594188794487e-16, 0.02475738525390625, -0.5877708792686462
+  [VECTOR3VALUE] Workspace.CDBjongen.Head.Mesh.HairAttachment (Vector3Value) = 3.7731357921150666e-16, 0.6147572994232178, 0.0022290945053100586
+  [VECTOR3VALUE] Workspace.CDBjongen.Head.Mesh.HatAttachment (Vector3Value) = 3.7731357921150666e-16, 0.6147572994232178, 0.0022290945053100586
+  [VECTOR3VALUE] Workspace.CDBjongen.Head.Mesh.NeckRigAttachment (Vector3Value) = 4.898584763362711e-16, -0.4662435054779053, 0.002229928970336914
+  [VECTOR3VALUE] Workspace.CDBjongen.MSN_MaleRthroHair_AccAccessory.Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.000002445096697556437, 0.2781500816345215, -0.0049943518824875355
+  [VECTOR3VALUE] Workspace.CDBjongen.MSN_MaleRthroHair_AccAccessory.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Accessory (KawaiiAngelWings).Handle.BodyBackAttachment.OriginalPosition (Vector3Value) = 0.0017671585083007812, -0.5032196044921875, -0.5067138671875
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Accessory (KawaiiAngelWings).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Accessory (belts).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Accessory (belts).Handle.WaistCenterAttachment.OriginalPosition (Vector3Value) = 0.046199798583984375, -0.1786632537841797, 0.0309906005859375
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Accessory (defaultAccessory).Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.001068115234375, -0.09907913208007812, 0.306121826171875
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Accessory (defaultAccessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Accessory (punk pigtails1Accessory).Handle.HairAttachment.OriginalPosition (Vector3Value) = -0.000080108642578125, 0.8571567535400391, 0.05064964294433594
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Accessory (punk pigtails1Accessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Accessory (r).Handle.NeckAttachment.OriginalPosition (Vector3Value) = 0.0061588287353515625, 0.2171187400817871, 0.12141549587249756
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Accessory (r).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Head.Mesh.FaceCenterAttachment (Vector3Value) = -0.0030618906021118164, 0.014251470565795898, -0.16079898178577423
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Head.Mesh.FaceFrontAttachment (Vector3Value) = -0.0030618906021118164, -0.016939163208007812, -0.5357695817947388
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Head.Mesh.HairAttachment (Vector3Value) = -0.0030618906021118164, 0.5957791805267334, -0.03986653685569763
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Head.Mesh.HatAttachment (Vector3Value) = -0.0030618906021118164, 0.5957791805267334, -0.03986653685569763
+  [VECTOR3VALUE] Workspace.Chicken_little2678.Head.Mesh.NeckRigAttachment (Vector3Value) = -0.0030618906021118164, -0.5090395212173462, -0.01645859330892563
+  [VECTOR3VALUE] Workspace.Deku_kamil.Head.Mesh.FaceCenterAttachment (Vector3Value) = 0.0000019073486328125, 0.08394670486450195, 0.003101825714111328
+  [VECTOR3VALUE] Workspace.Deku_kamil.Head.Mesh.FaceFrontAttachment (Vector3Value) = 0.0000019073486328125, 0.08394670486450195, -0.5968981981277466
+  [VECTOR3VALUE] Workspace.Deku_kamil.Head.Mesh.HairAttachment (Vector3Value) = 0.0000019073486328125, 0.6839466094970703, 0.003101825714111328
+  [VECTOR3VALUE] Workspace.Deku_kamil.Head.Mesh.HatAttachment (Vector3Value) = 0.0000019073486328125, 0.6839466094970703, 0.003101825714111328
+  [VECTOR3VALUE] Workspace.Deku_kamil.Head.Mesh.NeckRigAttachment (Vector3Value) = 0.0000019073486328125, -0.41605329513549805, 0.003101825714111328
+  [VECTOR3VALUE] Workspace.Deku_kamil.Necklace.Handle.BodyFrontAttachment.OriginalPosition (Vector3Value) = 0, -1.0200002193450928, -0.5002722144126892
+  [VECTOR3VALUE] Workspace.Deku_kamil.Necklace.Handle.OriginalSize (Vector3Value) = 1, 1, 2
+  [VECTOR3VALUE] Workspace.Deku_kamil.Pal Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.34999990463256836, 0.2497277557849884
+  [VECTOR3VALUE] Workspace.Deku_kamil.Pal Hair.Handle.OriginalSize (Vector3Value) = 1, 1, 2
+  [VECTOR3VALUE] Workspace.Flaxer_best.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.940733750837808e-16, -0.09522533416748047, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.Flaxer_best.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.03810283510265e-16, -0.015717506408691406, -0.5946589112281799
+  [VECTOR3VALUE] Workspace.Flaxer_best.Head.Mesh.HairAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.Flaxer_best.Head.Mesh.HatAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.Flaxer_best.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5452252626419067, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.Flaxer_best.Pal Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.34999990463256836, 0.2497277557849884
+  [VECTOR3VALUE] Workspace.Flaxer_best.Pal Hair.Handle.OriginalSize (Vector3Value) = 1, 1, 2
+  [VECTOR3VALUE] Workspace.LeeDanyi_7.Accessory (PixieSwirlyHalfUpHair).Handle.HairAttachment.OriginalPosition (Vector3Value) = -0.1427745819091797, 0.5999999046325684, 0
+  [VECTOR3VALUE] Workspace.LeeDanyi_7.Accessory (PixieSwirlyHalfUpHair).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.LeeDanyi_7.Head.Mesh.FaceCenterAttachment (Vector3Value) = -0.0021104812622070312, 0.017474889755249023, -0.009151702746748924
+  [VECTOR3VALUE] Workspace.LeeDanyi_7.Head.Mesh.FaceFrontAttachment (Vector3Value) = -0.0021104812622070312, -0.013715744018554688, -0.5848275423049927
+  [VECTOR3VALUE] Workspace.LeeDanyi_7.Head.Mesh.HairAttachment (Vector3Value) = -0.0021104812622070312, 0.603907585144043, -0.015678375959396362
+  [VECTOR3VALUE] Workspace.LeeDanyi_7.Head.Mesh.HatAttachment (Vector3Value) = -0.0021104812622070312, 0.602217435836792, -0.01567837782204151
+  [VECTOR3VALUE] Workspace.LeeDanyi_7.Head.Mesh.NeckRigAttachment (Vector3Value) = -0.0021104812622070312, -0.5058161020278931, 0.007729567587375641
+  [VECTOR3VALUE] Workspace.Longcat119.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.940733750837808e-16, -0.09522533416748047, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.Longcat119.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.03810283510265e-16, -0.015717506408691406, -0.5946589112281799
+  [VECTOR3VALUE] Workspace.Longcat119.Head.Mesh.HairAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.Longcat119.Head.Mesh.HatAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.Longcat119.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5452252626419067, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.Longcat119.NerdGlasses.Handle.FaceFrontAttachment.OriginalPosition (Vector3Value) = 3.9362930692732334e-09, -0.19999980926513672, -0.40027230978012085
+  [VECTOR3VALUE] Workspace.Longcat119.NerdGlasses.Handle.OriginalSize (Vector3Value) = 1.3299999237060547, 1, 1.7000000476837158
+  [VECTOR3VALUE] Workspace.Longcat119.RedBeanieWithHair.Handle.HatAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 1, -0.20027224719524384
+  [VECTOR3VALUE] Workspace.Longcat119.RedBeanieWithHair.Handle.OriginalSize (Vector3Value) = 1.4600000381469727, 2.440000057220459, 1.1399996280670166
+  [VECTOR3VALUE] Workspace.Longcat119.RobloxVisor2019.Handle.HatAttachment.OriginalPosition (Vector3Value) = 8.658389560878277e-09, 0.19000005722045898, 0.17972776293754578
+  [VECTOR3VALUE] Workspace.Longcat119.RobloxVisor2019.Handle.OriginalSize (Vector3Value) = 1, 0.4000000059604645, 1
+  [VECTOR3VALUE] Workspace.LuvsCooki.Accessory (Long Sleek Curled Hair w/ Bangs (x)).Handle.HairAttachment.OriginalPosition (Vector3Value) = -0.00000762939453125, 1.2408995628356934, -0.14648613333702087
+  [VECTOR3VALUE] Workspace.LuvsCooki.Accessory (Long Sleek Curled Hair w/ Bangs (x)).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.LuvsCooki.Accessory (n).Handle.NeckAttachment.OriginalPosition (Vector3Value) = 0.0020294189453125, 0.19815850257873535, -0.1188669204711914
+  [VECTOR3VALUE] Workspace.LuvsCooki.Accessory (n).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.LuvsCooki.Accessory.Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.42697906494140625, 0.31357240676879883, -0.6432342529296875
+  [VECTOR3VALUE] Workspace.LuvsCooki.Accessory.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.LuvsCooki.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, -0.0005099475383758545
+  [VECTOR3VALUE] Workspace.LuvsCooki.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5951697826385498
+  [VECTOR3VALUE] Workspace.LuvsCooki.Head.Mesh.HairAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, -0.0005099475383758545
+  [VECTOR3VALUE] Workspace.LuvsCooki.Head.Mesh.HatAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, -0.0005099475383758545
+  [VECTOR3VALUE] Workspace.LuvsCooki.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, -0.0005099475383758545
+  [VECTOR3VALUE] Workspace.LuvsCooki.Hello Kitty Backpack.Handle.BodyBackAttachment.OriginalPosition (Vector3Value) = 0, -0.1961655616760254, -0.3461780548095703
+  [VECTOR3VALUE] Workspace.LuvsCooki.Hello Kitty Backpack.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Martyna20122.Accessory ((Low) Eyeglasses).Handle.FaceFrontAttachment.OriginalPosition (Vector3Value) = 0, 0.054999999701976776, -0.3880000114440918
+  [VECTOR3VALUE] Workspace.Martyna20122.Accessory ((Low) Eyeglasses).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Martyna20122.Accessory (Grommet Belt With Chain 3.0).Handle.OriginalSize (Vector3Value) = 1.5210000276565552, 0.875, 0.9309999942779541
+  [VECTOR3VALUE] Workspace.Martyna20122.Accessory (Grommet Belt With Chain 3.0).Handle.WaistCenterAttachment.OriginalPosition (Vector3Value) = -0.08979681879281998, 0.12491941452026367, 0.09507706761360168
+  [VECTOR3VALUE] Workspace.Martyna20122.Accessory (Meshes/sharkbeanie (1)Accessory).Handle.HatAttachment.OriginalPosition (Vector3Value) = 0, 0.08329153060913086, -0.2766427993774414
+  [VECTOR3VALUE] Workspace.Martyna20122.Accessory (Meshes/sharkbeanie (1)Accessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Martyna20122.Head.Mesh.FaceCenterAttachment (Vector3Value) = 0, 0.014999999664723873, 0.0010000000474974513
+  [VECTOR3VALUE] Workspace.Martyna20122.Head.Mesh.FaceFrontAttachment (Vector3Value) = 0, -0.026000000536441803, -0.6520000100135803
+  [VECTOR3VALUE] Workspace.Martyna20122.Head.Mesh.HairAttachment (Vector3Value) = 0.00021314620971679688, 0.6009223461151123, -0.009331552311778069
+  [VECTOR3VALUE] Workspace.Martyna20122.Head.Mesh.HatAttachment (Vector3Value) = 0.00021314620971679688, 0.6009223461151123, -0.009331552311778069
+  [VECTOR3VALUE] Workspace.Martyna20122.Head.Mesh.NeckRigAttachment (Vector3Value) = 0.00021314620971679688, -0.5038963556289673, 0.014076389372348785
+  [VECTOR3VALUE] Workspace.Martyna20122.MeshPartAccessory.Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.039581298828125, 1.2894706726074219, -0.020050048828125
+  [VECTOR3VALUE] Workspace.Martyna20122.MeshPartAccessory.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.dogwillruleroblx.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.940733750837808e-16, -0.09522533416748047, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.dogwillruleroblx.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.03810283510265e-16, -0.015717506408691406, -0.5946589112281799
+  [VECTOR3VALUE] Workspace.dogwillruleroblx.Head.Mesh.HairAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.dogwillruleroblx.Head.Mesh.HatAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.dogwillruleroblx.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5452252626419067, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.dogwillruleroblx.InternationalFedora.Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.010937333106994629, -0.20406198501586914, 0.11724090576171875
+  [VECTOR3VALUE] Workspace.dogwillruleroblx.InternationalFedora.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.dogwillruleroblx.VarietyShades02.Handle.FaceFrontAttachment.OriginalPosition (Vector3Value) = 3.9353835745714605e-09, -0.1399998664855957, -0.4502722918987274
+  [VECTOR3VALUE] Workspace.dogwillruleroblx.VarietyShades02.Handle.OriginalSize (Vector3Value) = 1.20003080368042, 0.40000003576278687, 1.0000011920928955
+  [VECTOR3VALUE] Workspace.gekhekhelo.Accessory (thorn crownAccessory).Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.019555091857910156, -0.061118125915527344, -0.03525543212890625
+  [VECTOR3VALUE] Workspace.gekhekhelo.Accessory (thorn crownAccessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.gekhekhelo.BlackIronHorns.Handle.HatAttachment.OriginalPosition (Vector3Value) = 0, -0.25999999046325684, 0
+  [VECTOR3VALUE] Workspace.gekhekhelo.BlackIronHorns.Handle.OriginalSize (Vector3Value) = 1.6000275611877441, 0.800000011920929, 1.5999977588653564
+  [VECTOR3VALUE] Workspace.gekhekhelo.Blonde.Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.010277986526489258, 0.22754859924316406, -0.06380850076675415
+  [VECTOR3VALUE] Workspace.gekhekhelo.Blonde.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.gekhekhelo.Head.Mesh.FaceCenterAttachment (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.gekhekhelo.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.9356886638586275e-09, 0, -0.6002722978591919
+  [VECTOR3VALUE] Workspace.gekhekhelo.Head.Mesh.HairAttachment (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Workspace.gekhekhelo.Head.Mesh.HatAttachment (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Workspace.gekhekhelo.Head.Mesh.NeckRigAttachment (Vector3Value) = 0, -0.5, 0
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (021_NyanCatOnHead).Handle.HatAttachment.OriginalPosition (Vector3Value) = -1.369688009912666e-16, -1.1816887855529785, -0.06325364112854004
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (021_NyanCatOnHead).Handle.OriginalSize (Vector3Value) = 2.224172830581665, 1.1944830417633057, 0.24714551866054535
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (AnimalNose).Handle.FaceCenterAttachment.OriginalPosition (Vector3Value) = -5.755840339499187e-17, 0.12999987602233887, 0.5999999046325684
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (AnimalNose).Handle.OriginalSize (Vector3Value) = 0.13055799901485443, 0.05932800471782684, 0.020473003387451172
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (Cube.473Accessory).Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.01416015625, 0.8314437866210938, -0.1212615966796875
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (Cube.473Accessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (MeshPartAccessory).Handle.BodyBackAttachment.OriginalPosition (Vector3Value) = -0.0010004043579101562, -0.13199996948242188, 1.2859992980957031
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (MeshPartAccessory).Handle.FaceCenterAttachment.OriginalPosition (Vector3Value) = 0.02276897430419922, 0.04774618148803711, 0.8516330718994141
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (MeshPartAccessory).Handle.FaceFrontAttachment.OriginalPosition (Vector3Value) = -0.008007049560546875, 0.32151031494140625, -0.04945182800292969
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (MeshPartAccessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (a).Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.000072479248046875, 0.46236658096313477, -0.099395751953125
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (a).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (g).Handle.HatAttachment.OriginalPosition (Vector3Value) = -0.06021881103515625, -0.26622962951660156, 0.5907135009765625
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (g).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (wadwdwd).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.ji9starso.Accessory (wadwdwd).Handle.WaistFrontAttachment.OriginalPosition (Vector3Value) = -0.0008831024169921875, -0.15444016456604004, -0.3419790267944336
+  [VECTOR3VALUE] Workspace.ji9starso.Head.Mesh.FaceCenterAttachment (Vector3Value) = 0, 0.06400000303983688, 0
+  [VECTOR3VALUE] Workspace.ji9starso.Head.Mesh.FaceFrontAttachment (Vector3Value) = 0, 0.054999999701976776, -0.4830000102519989
+  [VECTOR3VALUE] Workspace.ji9starso.Head.Mesh.HairAttachment (Vector3Value) = 0, 0.6000000238418579, 0.012000000104308128
+  [VECTOR3VALUE] Workspace.ji9starso.Head.Mesh.HatAttachment (Vector3Value) = 0, 0.6000000238418579, 0.012000000104308128
+  [VECTOR3VALUE] Workspace.ji9starso.Head.Mesh.NeckRigAttachment (Vector3Value) = 0, -0.5210000276565552, 0.06199999898672104
+  [VECTOR3VALUE] Workspace.kittiblesss.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.940733750837808e-16, -0.09522533416748047, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.kittiblesss.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.03810283510265e-16, -0.015717506408691406, -0.5946589112281799
+  [VECTOR3VALUE] Workspace.kittiblesss.Head.Mesh.HairAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.kittiblesss.Head.Mesh.HatAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.kittiblesss.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5452252626419067, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.kittiblesss.SidePonytail.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.658389560878277e-09, 0.7300000190734863, -0.040272243320941925
+  [VECTOR3VALUE] Workspace.kittiblesss.SidePonytail.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.mahadgmer6.DeathEffect.Force (Vector3Value) = -1.9993518590927124, 15, -6.184867858886719
+  [VECTOR3VALUE] Workspace.mahadgmer6.DeathEffect.WindDirection (Vector3Value) = -0.30759260058403015, 1, -0.9515181183815002
+  [VECTOR3VALUE] Workspace.mahadgmer6.Void Head.Handle.FaceCenterAttachment.OriginalPosition (Vector3Value) = -0.000001996755599975586, -0.0015521049499511719, -0.0000014901161193847656
+  [VECTOR3VALUE] Workspace.mahadgmer6.Void Head.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.mahadgmer6.bloxcxy.Handle.LeftCollarAttachment.OriginalPosition (Vector3Value) = 0.3132452964782715, -0.4100022315979004, -0.09911537170410156
+  [VECTOR3VALUE] Workspace.mahadgmer6.bloxcxy.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.minte442.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.minte442.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5944212675094604
+  [VECTOR3VALUE] Workspace.minte442.Head.Mesh.HairAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.minte442.Head.Mesh.HatAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.minte442.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.minte442.VarietyShades02.Handle.FaceFrontAttachment.OriginalPosition (Vector3Value) = 3.9353835745714605e-09, -0.1399998664855957, -0.4502722918987274
+  [VECTOR3VALUE] Workspace.minte442.VarietyShades02.Handle.OriginalSize (Vector3Value) = 1.20003080368042, 0.40000003576278687, 1.0000011920928955
+  [VECTOR3VALUE] Workspace.minte442.W.Script.DeathEffect.Force (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.minte442.W.Script.DeathEffect.WindDirection (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.noob64ha.BIPICap.Handle.HatAttachment.OriginalPosition (Vector3Value) = 8.658389560878277e-09, 0, 0.20972774922847748
+  [VECTOR3VALUE] Workspace.noob64ha.BIPICap.Handle.OriginalSize (Vector3Value) = 1.2499996423721313, 1.1500000953674316, 1.2400000095367432
+  [VECTOR3VALUE] Workspace.noob64ha.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.noob64ha.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5944212675094604
+  [VECTOR3VALUE] Workspace.noob64ha.Head.Mesh.HairAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.noob64ha.Head.Mesh.HatAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.noob64ha.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.noob64ha.Pal Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.34999990463256836, 0.2497277557849884
+  [VECTOR3VALUE] Workspace.noob64ha.Pal Hair.Handle.OriginalSize (Vector3Value) = 1, 1, 2
+  [VECTOR3VALUE] Workspace.sin2uu.Accessory (Billie_Bandada_PBR).Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.0018710109870880842, 0.16312551498413086, 0.13013571500778198
+  [VECTOR3VALUE] Workspace.sin2uu.Accessory (Billie_Bandada_PBR).Handle.OriginalSize (Vector3Value) = 1.527573823928833, 1.365900993347168, 1.843847393989563
+  [VECTOR3VALUE] Workspace.sin2uu.Accessory (Billie_Cap_Backwards).Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.0016457352321594954, 0.17328524589538574, 0.2866574227809906
+  [VECTOR3VALUE] Workspace.sin2uu.Accessory (Billie_Cap_Backwards).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.sin2uu.Accessory (Handle1Accessory).Handle.HatAttachment.OriginalPosition (Vector3Value) = -0.48200511932373047, 0.1700000762939453, -0.6239957809448242
+  [VECTOR3VALUE] Workspace.sin2uu.Accessory (Handle1Accessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.sin2uu.Accessory (MeshPartAccessory).Handle.HairAttachment.OriginalPosition (Vector3Value) = 0, 0.37999534606933594, 0
+  [VECTOR3VALUE] Workspace.sin2uu.Accessory (MeshPartAccessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.sin2uu.Accessory (Meshes/Gis1Accessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.sin2uu.Accessory (Meshes/Gis1Accessory).Handle.WaistCenterAttachment.OriginalPosition (Vector3Value) = 0.555877685546875, 0.24625158309936523, -0.7104148864746094
+  [VECTOR3VALUE] Workspace.sin2uu.Accessory (Meshes/happy (1)Accessory).Handle.HatAttachment.OriginalPosition (Vector3Value) = -0.046630859375, -0.5859208106994629, -0.0006256103515625
+  [VECTOR3VALUE] Workspace.sin2uu.Accessory (Meshes/happy (1)Accessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.sin2uu.Head.Mesh.FaceCenterAttachment (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.sin2uu.Head.Mesh.FaceFrontAttachment (Vector3Value) = 0, 0, -0.6000000238418579
+  [VECTOR3VALUE] Workspace.sin2uu.Head.Mesh.HairAttachment (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Workspace.sin2uu.Head.Mesh.HatAttachment (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Workspace.sin2uu.Head.Mesh.NeckRigAttachment (Vector3Value) = 0, -0.5, 0
+  [VECTOR3VALUE] Workspace.sin2uu.SPLesbianR.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.sin2uu.SPLesbianR.Handle.RightShoulderAttachment.OriginalPosition (Vector3Value) = 0.503997802734375, 0.2999999523162842, 0
+  [VECTOR3VALUE] Workspace.volcanic_shrimpy.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.940733750837808e-16, -0.09522533416748047, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.volcanic_shrimpy.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.03810283510265e-16, -0.015717506408691406, -0.5946589112281799
+  [VECTOR3VALUE] Workspace.volcanic_shrimpy.Head.Mesh.HairAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.volcanic_shrimpy.Head.Mesh.HatAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.volcanic_shrimpy.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5452252626419067, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.volcanic_shrimpy.RIA_Headphones_Hat.Handle.FaceCenterAttachment.OriginalPosition (Vector3Value) = -0.000048999998398358, -0.31037619709968567, 0.16623002290725708
+  [VECTOR3VALUE] Workspace.volcanic_shrimpy.RIA_Headphones_Hat.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.volcanic_shrimpy.a fancy hat.Handle.HatAttachment.OriginalPosition (Vector3Value) = -0.005845522042363882, -0.01276630163192749, 0.04613155126571655
+  [VECTOR3VALUE] Workspace.volcanic_shrimpy.a fancy hat.Handle.OriginalSize (Vector3Value) = 2, 1.2000000476837158, 2.200000047683716
+  [VECTOR3VALUE] Workspace.xxAwsomeContentxx.Accessory (Freak Cap).Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.3039299249649048, -0.11474183201789856, 0
+  [VECTOR3VALUE] Workspace.xxAwsomeContentxx.Accessory (Freak Cap).Handle.OriginalSize (Vector3Value) = 1.1421399116516113, 0.9419999718666077, 1.1238797903060913
+  [VECTOR3VALUE] Workspace.xxAwsomeContentxx.Accessory (The Bob Sponge Backpack).Handle.BodyBackAttachment.OriginalPosition (Vector3Value) = 0.12603378295898438, -0.07452201843261719, 0.005499839782714844
+  [VECTOR3VALUE] Workspace.xxAwsomeContentxx.Accessory (The Bob Sponge Backpack).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.xxAwsomeContentxx.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, 0.00027257204055786133
+  [VECTOR3VALUE] Workspace.xxAwsomeContentxx.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5943872928619385
+  [VECTOR3VALUE] Workspace.xxAwsomeContentxx.Head.Mesh.HairAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00027257204055786133
+  [VECTOR3VALUE] Workspace.xxAwsomeContentxx.Head.Mesh.HatAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00027257204055786133
+  [VECTOR3VALUE] Workspace.xxAwsomeContentxx.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, 0.00027257204055786133
+  [VECTOR3VALUE] Workspace.xxAwsomeContentxx.Meshes/nerdglasses_Cube.001 (1)Accessory.Handle.FaceFrontAttachment.OriginalPosition (Vector3Value) = 0.4071044921875, -0.19936561584472656, -0.0029048919677734375
+  [VECTOR3VALUE] Workspace.xxAwsomeContentxx.Meshes/nerdglasses_Cube.001 (1)Accessory.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.xxAwsomeContentxx.SidePonytail.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.658389560878277e-09, 0.7300000190734863, -0.040272243320941925
+  [VECTOR3VALUE] Workspace.xxAwsomeContentxx.SidePonytail.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.zygispro900.Head.Mesh.FaceCenterAttachment (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.zygispro900.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.9356886638586275e-09, 0, -0.6002722978591919
+  [VECTOR3VALUE] Workspace.zygispro900.Head.Mesh.HairAttachment (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Workspace.zygispro900.Head.Mesh.HatAttachment (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Workspace.zygispro900.Head.Mesh.NeckRigAttachment (Vector3Value) = 0, -0.5, 0
+  [VECTOR3VALUE] Workspace.zygispro900.W.Script.DeathEffect.Force (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.zygispro900.W.Script.DeathEffect.WindDirection (Vector3Value) = 0, 0, 0
+
+── OTHER (164) ──
+  ReplicatedStorage.Auras (Folder)
+  ReplicatedStorage.Auras.Burning (Model) Rarity=3
+  ReplicatedStorage.Auras.Butterfly (Model) Rarity=3
+  ReplicatedStorage.Auras.Calm (Model) Rarity=1
+  ReplicatedStorage.Auras.Chakra (Model) Rarity=1
+  ReplicatedStorage.Auras.Corruption (Model) Rarity=3
+  ReplicatedStorage.Auras.Darkness (Model) Rarity=1
+  ReplicatedStorage.Auras.Debuff (Model) Rarity=1
+  ReplicatedStorage.Auras.Dimension (Model) Rarity=2
+  ReplicatedStorage.Auras.Eldritch (Model) Rarity=4
+  ReplicatedStorage.Auras.Electro (Model) Rarity=2
+  ReplicatedStorage.Auras.Energy (Model) Rarity=2
+  ReplicatedStorage.Auras.Evil (Model) Rarity=1
+  ReplicatedStorage.Auras.Exorcist (Model) Rarity=1
+  ReplicatedStorage.Auras.Faithworthy (Model) Rarity=4
+  ReplicatedStorage.Auras.Fire (Model) Rarity=1
+  ReplicatedStorage.Auras.Flame (Model) Rarity=1
+  ReplicatedStorage.Auras.Halo (Model) Rarity=3
+  ReplicatedStorage.Auras.Healing (Model) Rarity=1
+  ReplicatedStorage.Auras.Hearts (Model) Rarity=1
+  ReplicatedStorage.Auras.Heavenbound (Model) Rarity=4
+  ReplicatedStorage.Auras.Incognito (Model) Rarity=4
+  ReplicatedStorage.Auras.Lightbringer (Model) Rarity=3
+  ReplicatedStorage.Auras.Lightning (Model) Rarity=2
+  ReplicatedStorage.Auras.Love (Model) Rarity=1
+  ReplicatedStorage.Auras.Matrix (Model) Rarity=4
+  ReplicatedStorage.Auras.Neutronic (Model) Rarity=4
+  ReplicatedStorage.Auras.Observer (Model) Rarity=4
+  ReplicatedStorage.Auras.Orb (Model) Rarity=4
+  ReplicatedStorage.Auras.Psychic (Model) Rarity=3
+  ReplicatedStorage.Auras.Pulsar (Model) Rarity=3
+  ReplicatedStorage.Auras.Ring (Model) Rarity=3
+  ReplicatedStorage.Auras.Roar (Model) Rarity=2
+  ReplicatedStorage.Auras.Thunder (Model) Rarity=2
+  ReplicatedStorage.Auras.Undefined (Model) Rarity=4
+  ReplicatedStorage.Auras.Water (Model) Rarity=1
+  ReplicatedStorage.Auras.Wave (Model) Rarity=3
+  ReplicatedStorage.Auras.X-Ray (Model) Rarity=1
+  ReplicatedStorage.Events (Folder)
+  ReplicatedStorage.Modules (Folder)
+  ReplicatedStorage.Particles (Folder)
+  ReplicatedStorage.Particles.Revive (Folder)
+  ReplicatedStorage.Settings (Folder)
+  ReplicatedStorage.Signals (Folder)
+  ReplicatedStorage.Sounds (Folder)
+  ReplicatedStorage.Status (Folder)
+  ReplicatedStorage.Weapons.10.Script.Animations (Folder)
+  ReplicatedStorage.Weapons.10.Script.Projectile (Folder)
+  ReplicatedStorage.Weapons.181550181.Animations (Folder)
+  ReplicatedStorage.Weapons.181550181.Animations.R15 (Folder)
+  ReplicatedStorage.Weapons.181550181.Animations.R6 (Folder)
+  ReplicatedStorage.Weapons.181550181.Remotes (Folder)
+  ReplicatedStorage.Weapons.20 (Tool) Price=6000
+  ReplicatedStorage.Weapons.20.Script.Animations (Folder)
+  ReplicatedStorage.Weapons.221173389.Explosion (Folder)
+  ReplicatedStorage.Weapons.23 (Tool) Price=10000
+  ReplicatedStorage.Weapons.23.Script.Animations (Folder)
+  ReplicatedStorage.Weapons.243007180.Configuration (Configuration)
+  ReplicatedStorage.Weapons.243007180.Configuration.Ammo (Folder)
+  ReplicatedStorage.Weapons.243007180.Configuration.Burst (Folder)
+  ReplicatedStorage.Weapons.243007180.Modules (Folder)
+  ReplicatedStorage.Weapons.243007180.Remotes (Folder)
+  ReplicatedStorage.Weapons.283756680.Remotes (Folder)
+  ReplicatedStorage.Weapons.304720496.Script.Particles (Folder)
+  ReplicatedStorage.Weapons.304720496.Script.Particles.ArrowTrail (Folder)
+  ReplicatedStorage.Weapons.306971294.Remotes (Folder)
+  ReplicatedStorage.Weapons.306971294.Script.BatManagement.Sounds (Folder)
+  ReplicatedStorage.Weapons.336370943.Remotes (Folder)
+  ReplicatedStorage.Weapons.343586214.Remotes (Folder)
+  ReplicatedStorage.Weapons.365642352.Remotes (Folder)
+  ReplicatedStorage.Weapons.395205750.Remotes (Folder)
+  ReplicatedStorage.Weapons.5.Script.Animations (Folder)
+  ReplicatedStorage.Weapons.517827255.Animations (Folder)
+  ReplicatedStorage.Weapons.517827255.Remotes (Folder)
+  ReplicatedStorage.Weapons.522587921.Remotes (Folder)
+  ReplicatedStorage.Weapons.542755101.Remotes (Folder)
+  ReplicatedStorage.Weapons.639345143.Remotes (Folder)
+  ReplicatedStorage.Weapons.68603324.Configurations (Configuration)
+  ReplicatedStorage.Weapons.7.Script.Animations (Folder)
+  ReplicatedStorage.Weapons.7.Script.Projectile (Folder)
+  ReplicatedStorage.Weapons.77443704.Configurations (Configuration)
+  ReplicatedStorage.Weapons.9.Script.Animations (Folder)
+  StarterGui.Gui.Auras.Windows.Orig.Element (TextButton) Animation=Color
+  StarterGui.Gui.Quests.Windows.Orig.List.Deal.Claim (TextButton) Animation=Click
+  StarterGui.Gui.Quests.Windows.Orig.List.Login.Claim (TextButton) Animation=Click
+  StarterGui.Gui.Quests.Windows.Orig.List.Win.Claim (TextButton) Animation=Click
+  StarterGui.Popups.Rolling.Equip (TextButton) Animation=Color
+  StarterGui.Popups.Rolling.Skip (TextButton) Animation=Color
+  StarterGui.Topbar.Holder.Like (TextButton) Animation=Rotate
+  StarterGui.Topbar.Holder.Quests (TextButton) Animation=Rotate
+  Workspace.Artiompatrashko.Accessory (MeshPart).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Artiompatrashko.Accessory (MeshPartAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Auras (Folder)
+  Workspace.Auras.Normal (Model) Price=150 Chances=89,10,1,0.02
+  Workspace.Auras.Premium (Model) Price=79 Chances=0,90,10,0.08
+  Workspace.CDBjongen.MSN_MaleRthroHair_AccAccessory.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Chicken_little2678.Accessory (KawaiiAngelWings).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Chicken_little2678.Accessory (belts).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Chicken_little2678.Accessory (defaultAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Chicken_little2678.Accessory (punk pigtails1Accessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Chicken_little2678.Accessory (r).Handle (Part) RBXRefinementScale=1.2000000476837158, 1.2000000476837158, 1.2000000476837158
+  Workspace.Deku_kamil.Necklace.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Deku_kamil.Pal Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Flaxer_best.Pal Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Leaderboard (Folder)
+  Workspace.LeeDanyi_7.Accessory (PixieSwirlyHalfUpHair).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Longcat119.NerdGlasses.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Longcat119.RedBeanieWithHair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Longcat119.RobloxVisor2019.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.LuvsCooki.Accessory (Long Sleek Curled Hair w/ Bangs (x)).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.LuvsCooki.Accessory (n).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.LuvsCooki.Accessory.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.LuvsCooki.Hello Kitty Backpack.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Martyna20122.Accessory ((Low) Eyeglasses).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Martyna20122.Accessory (Grommet Belt With Chain 3.0).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Martyna20122.Accessory (Meshes/sharkbeanie (1)Accessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Martyna20122.MeshPartAccessory.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Portals (Folder)
+  Workspace.Portals.Portal (Model) FallbackImage=
+  Workspace.Portals.Portal.Decorative (Folder)
+  Workspace.Portals.Portal.Decorative.StateDependent (Folder)
+  Workspace.Portals.Portal.Decorative.StateDependent.Blocker (Folder)
+  Workspace.Portals.Portal.Decorative.StateDependent.FX (Folder)
+  Workspace.Portals.Portal.Decorative.Static (Folder)
+  Workspace.Songs (Folder)
+  Workspace.dogwillruleroblx.InternationalFedora.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.dogwillruleroblx.VarietyShades02.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.gekhekhelo.Accessory (thorn crownAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.gekhekhelo.BlackIronHorns.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.gekhekhelo.Blonde.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.ji9starso.Accessory (021_NyanCatOnHead).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.ji9starso.Accessory (AnimalNose).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.ji9starso.Accessory (Cube.473Accessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.ji9starso.Accessory (MeshPartAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.ji9starso.Accessory (a).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.ji9starso.Accessory (g).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.ji9starso.Accessory (wadwdwd).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.kittiblesss.SidePonytail.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.mahadgmer6.Void Head.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.mahadgmer6.W.Remotes (Folder)
+  Workspace.mahadgmer6.bloxcxy.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.minte442.VarietyShades02.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.minte442.W.Animations (Folder)
+  Workspace.minte442.W.Animations.R15 (Folder)
+  Workspace.minte442.W.Animations.R6 (Folder)
+  Workspace.minte442.W.Remotes (Folder)
+  Workspace.noob64ha.BIPICap.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.noob64ha.Pal Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.sin2uu.Accessory (Billie_Bandada_PBR).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.sin2uu.Accessory (Billie_Cap_Backwards).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.sin2uu.Accessory (Handle1Accessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.sin2uu.Accessory (MeshPartAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.sin2uu.Accessory (Meshes/Gis1Accessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.sin2uu.Accessory (Meshes/happy (1)Accessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.sin2uu.SPLesbianR.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.volcanic_shrimpy.RIA_Headphones_Hat.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.volcanic_shrimpy.a fancy hat.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.xxAwsomeContentxx.Accessory (Freak Cap).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.xxAwsomeContentxx.Accessory (The Bob Sponge Backpack).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.xxAwsomeContentxx.Meshes/nerdglasses_Cube.001 (1)Accessory.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.xxAwsomeContentxx.SidePonytail.Handle (Part) RBXRefinementScale=1, 1, 1
+  [SEAT] Workspace.Lobby.b89eaac7e61417341b710b727768294d0e6a277b.Seat (Seat)
+  [SEAT] Workspace.Lobby.f.Seat (Seat)
+  [SPAWNLOCATION] Workspace.Spawns.Spawn (SpawnLocation)

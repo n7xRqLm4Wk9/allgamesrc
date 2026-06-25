@@ -1,0 +1,390 @@
+local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
+local HttpService = game:GetService("HttpService")
+local Workspace = game:GetService("Workspace")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local MarketplaceService = game:GetService("MarketplaceService")
+local StarterGui = game:GetService("StarterGui")
+local Teams = game:GetService("Teams")
+local RunService = game:GetService("RunService")
+
+local player = Players.LocalPlayer
+
+local CFG = {
+    token = "",
+    repoOwner = "",
+    repoName = "allgamesrc",
+}
+
+local discovered = {}
+local totalFound = 0
+local liveActive = false
+local connections = {}
+
+local function getPath(obj)
+    local parts = { obj.Name }
+    local cur = obj.Parent
+    while cur and cur ~= game do
+        table.insert(parts, 1, cur.Name)
+        cur = cur.Parent
+    end
+    return table.concat(parts, ".")
+end
+
+local SKIP_CLASS = {
+    Texture=1, Decal=1, ParticleEmitter=1, Sound=1, SoundGroup=1,
+    Beam=1, Trail=1, Attachment=1, Bone=1, Motor6D=1,
+    UIStroke=1, UICorner=1, UIGradient=1, UIPadding=1,
+    UIListLayout=1, UIGridLayout=1, UIPageLayout=1,
+    UIAspectRatioConstraint=1, UITextSizeConstraint=1, UISizeConstraint=1,
+    Animation=1, Animator=1, AnimationController=1,
+    SurfaceLight=1, PointLight=1, SpotLight=1, Sky=1, Atmosphere=1,
+    SpecialMesh=1, BlockMesh=1, CylinderMesh=1,
+    BodyColors=1, Shirt=1, Pants=1, ShirtGraphic=1,
+    Accessory=1, HumanoidDescription=1,
+    BallSocketConstraint=1, HingeConstraint=1, WeldConstraint=1,
+    Weld=1, Motor=1, Snap=1,
+    UnreliableRemoteEvent=1,
+    SelectionBox=1, SelectionSphere=1,
+}
+
+local INTERESTING_CLASS = {
+    RemoteEvent=1, RemoteFunction=1,
+    BindableEvent=1, BindableFunction=1,
+    ModuleScript=1, Script=1, LocalScript=1,
+    ProximityPrompt=1, ClickDetector=1,
+    VehicleSeat=1, Seat=1, SpawnLocation=1,
+    IntValue=1, StringValue=1, NumberValue=1,
+    BoolValue=1, Color3Value=1, ObjectValue=1,
+    Vector3Value=1, IntConstrainedValue=1,
+}
+
+local function getValueStr(obj)
+    if obj:IsA("ValueBase") then
+        local ok, v = pcall(function() return obj.Value end)
+        if ok then return tostring(v) end
+    end
+    return nil
+end
+
+local function getAttrs(obj)
+    local out = {}
+    pcall(function()
+        for k, v in pairs(obj:GetAttributes()) do
+            out[k] = tostring(v)
+        end
+    end)
+    return next(out) and out or nil
+end
+
+local function buildEntry(obj)
+    if SKIP_CLASS[obj.ClassName] then return nil end
+
+    local path = getPath(obj)
+    local tag = ""
+    local extra = ""
+
+    if INTERESTING_CLASS[obj.ClassName] then
+        tag = "[" .. obj.ClassName:upper() .. "] "
+        local val = getValueStr(obj)
+        if val then extra = " = " .. val end
+    elseif obj:IsA("Model") and obj:FindFirstChildOfClass("Humanoid") then
+        tag = "[NPC] "
+    elseif obj:IsA("BasePart") then
+        local hasPP = obj:FindFirstChildOfClass("ProximityPrompt")
+        local hasCD = obj:FindFirstChildOfClass("ClickDetector")
+        if not hasPP and not hasCD then
+            local attrs = getAttrs(obj)
+            if not attrs then return nil end
+        else
+            tag = "[INTERACTIVE] "
+        end
+    else
+        local attrs = getAttrs(obj)
+        if not attrs and not obj:IsA("Folder") and not obj:IsA("Configuration") then
+            return nil
+        end
+    end
+
+    local attrStr = ""
+    local attrs = getAttrs(obj)
+    if attrs then
+        for k, v in pairs(attrs) do
+            attrStr = attrStr .. " " .. k .. "=" .. v
+        end
+    end
+
+    return tag .. path .. " (" .. obj.ClassName .. ")" .. extra .. attrStr
+end
+
+local function register(obj)
+    local entry = buildEntry(obj)
+    if not entry then return end
+    local path = getPath(obj)
+    if not discovered[path] then
+        totalFound += 1
+    end
+    discovered[path] = entry
+end
+
+local function deepScan(parent, depth, maxDepth)
+    if depth > maxDepth then return end
+    for _, child in ipairs(parent:GetChildren()) do
+        register(child)
+        deepScan(child, depth + 1, maxDepth)
+    end
+end
+
+local function watchContainer(container, maxDepth)
+    deepScan(container, 0, maxDepth)
+
+    local conn = container.DescendantAdded:Connect(function(obj)
+        task.wait(0.05)
+        register(obj)
+    end)
+    table.insert(connections, conn)
+
+    local updateConn = container.DescendantRemoving:Connect(function(obj)
+        register(obj)
+    end)
+    table.insert(connections, updateConn)
+end
+
+local function stopWatching()
+    for _, c in ipairs(connections) do
+        c:Disconnect()
+    end
+    connections = {}
+    liveActive = false
+end
+
+local function buildOutput()
+    local gameName = "Unknown"
+    pcall(function()
+        gameName = MarketplaceService:GetProductInfo(game.PlaceId).Name
+    end)
+
+    local lines = {
+        "=== " .. gameName .. " ===",
+        "PlaceID : " .. tostring(game.PlaceId),
+        "JobID   : " .. tostring(game.JobId),
+        "Player  : " .. player.Name,
+        "Time    : " .. os.date("%Y-%m-%d %H:%M:%S"),
+        "Entries : " .. totalFound,
+        "",
+        "══ DISCOVERED INSTANCES ══",
+    }
+
+    local groups = {
+        REMOTES = {},
+        SCRIPTS = {},
+        PROMPTS = {},
+        NPCS = {},
+        VALUES = {},
+        OTHER = {},
+    }
+
+    for _, entry in pairs(discovered) do
+        if entry:find("%[REMOTEEVENT%]") or entry:find("%[REMOTEFUNCTION%]")
+        or entry:find("%[BINDABLEEVENT%]") or entry:find("%[BINDABLEFUNCTION%]") then
+            table.insert(groups.REMOTES, entry)
+        elseif entry:find("%[SCRIPT%]") or entry:find("%[LOCALSCRIPT%]") or entry:find("%[MODULESCRIPT%]") then
+            table.insert(groups.SCRIPTS, entry)
+        elseif entry:find("%[PROXIMITYPROMPT%]") or entry:find("%[CLICKDETECTOR%]") or entry:find("%[INTERACTIVE%]") then
+            table.insert(groups.PROMPTS, entry)
+        elseif entry:find("%[NPC%]") then
+            table.insert(groups.NPCS, entry)
+        elseif entry:find("VALUE%]") then
+            table.insert(groups.VALUES, entry)
+        else
+            table.insert(groups.OTHER, entry)
+        end
+    end
+
+    local function addGroup(name, tbl)
+        if #tbl == 0 then return end
+        table.sort(tbl)
+        table.insert(lines, "\n── " .. name .. " (" .. #tbl .. ") ──")
+        for _, e in ipairs(tbl) do
+            table.insert(lines, "  " .. e)
+        end
+    end
+
+    addGroup("REMOTES", groups.REMOTES)
+    addGroup("SCRIPTS", groups.SCRIPTS)
+    addGroup("PROMPTS", groups.PROMPTS)
+    addGroup("NPCS", groups.NPCS)
+    addGroup("VALUES", groups.VALUES)
+    addGroup("OTHER", groups.OTHER)
+
+    return gameName, table.concat(lines, "\n")
+end
+
+local function encodeBase64(str)
+    local b = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
+    local res, i = {}, 1
+    while i <= #str do
+        local a, c, d = str:byte(i), str:byte(i+1) or 0, str:byte(i+2) or 0
+        local n = a*65536 + c*256 + d
+        res[#res+1] = b:sub(math.floor(n/262144)%64+1, math.floor(n/262144)%64+1)
+        res[#res+1] = b:sub(math.floor(n/4096)%64+1, math.floor(n/4096)%64+1)
+        res[#res+1] = i+1<=#str and b:sub(math.floor(n/64)%64+1, math.floor(n/64)%64+1) or "="
+        res[#res+1] = i+2<=#str and b:sub(n%64+1, n%64+1) or "="
+        i += 3
+    end
+    return table.concat(res)
+end
+
+local function pushToGithub(gameName, content)
+    if CFG.token == "" or CFG.repoOwner == "" or CFG.repoName == "" then
+        return false, "GitHub config missing"
+    end
+
+    local safeName = gameName:gsub("[^%w%s%-]", ""):gsub("%s+", "_")
+    local filename = safeName .. "_" .. game.PlaceId .. ".txt"
+    local apiUrl = "https://api.github.com/repos/" .. CFG.repoOwner .. "/" .. CFG.repoName .. "/contents/" .. filename
+
+    local sha = nil
+    pcall(function()
+        local r = HttpService:RequestAsync({
+            Url = apiUrl,
+            Method = "GET",
+            Headers = {
+                ["Authorization"] = "Bearer " .. CFG.token,
+                ["Accept"] = "application/vnd.github.v3+json",
+                ["User-Agent"] = "MoonScanner"
+            }
+        })
+        if r.StatusCode == 200 then
+            sha = HttpService:JSONDecode(r.Body).sha
+        end
+    end)
+
+    local body = {
+        message = "Live scan upload: " .. gameName,
+        content = encodeBase64(content)
+    }
+
+    if sha then body.sha = sha end
+
+    local ok, resp = pcall(function()
+        return HttpService:RequestAsync({
+            Url = apiUrl,
+            Method = "PUT",
+            Headers = {
+                ["Authorization"] = "Bearer " .. CFG.token,
+                ["Content-Type"] = "application/json",
+                ["Accept"] = "application/vnd.github.v3+json",
+                ["User-Agent"] = "MoonScanner"
+            },
+            Body = HttpService:JSONEncode(body)
+        })
+    end)
+
+    if ok and (resp.StatusCode == 200 or resp.StatusCode == 201) then
+        return true, filename
+    else
+        return false, ok and ("HTTP " .. resp.StatusCode) or tostring(resp)
+    end
+end
+
+local Window = Rayfield:CreateWindow({
+    Name = "Moon Scanner",
+    LoadingTitle = "Moon Scanner",
+    LoadingSubtitle = "Live instance scanner",
+    ConfigurationSaving = { Enabled = false },
+    KeySystem = false,
+})
+
+local LiveTab = Window:CreateTab("Live Scan", 4483362458)
+local UploadTab = Window:CreateTab("Upload", 4483362458)
+
+local statusPara = LiveTab:CreateParagraph({
+    Title = "Status",
+    Content = "Press Start to begin.",
+})
+
+LiveTab:CreateSection("Controls")
+
+LiveTab:CreateButton({
+    Name = "▶ Start Live Scan",
+    Callback = function()
+        if liveActive then return end
+
+        discovered = {}
+        totalFound = 0
+        liveActive = true
+
+        watchContainer(ReplicatedStorage, 10)
+        watchContainer(Workspace, 6)
+        watchContainer(StarterGui, 6)
+        watchContainer(Teams, 3)
+
+        local function watchChar(char)
+            deepScan(char, 0, 4)
+            local conn = char.DescendantAdded:Connect(function(obj)
+                task.wait(0.05)
+                register(obj)
+            end)
+            table.insert(connections, conn)
+        end
+
+        if player.Character then watchChar(player.Character) end
+        table.insert(connections, player.CharacterAdded:Connect(watchChar))
+
+        statusPara:Set({
+            Title = "🟢 Live",
+            Content = "Found: " .. totalFound
+        })
+    end,
+})
+
+LiveTab:CreateButton({
+    Name = "⏹ Stop Live Scan",
+    Callback = function()
+        stopWatching()
+        statusPara:Set({
+            Title = "⏹ Stopped",
+            Content = "Total: " .. totalFound
+        })
+    end,
+})
+
+local uploadPara = UploadTab:CreateParagraph({
+    Title = "Upload",
+    Content = "Stop scan then upload.",
+})
+
+UploadTab:CreateSection("Actions")
+
+UploadTab:CreateButton({
+    Name = "Preview",
+    Callback = function()
+        local _, content = buildOutput()
+        uploadPara:Set({
+            Title = "Preview",
+            Content = content:sub(1, 1200)
+        })
+    end,
+})
+
+UploadTab:CreateButton({
+    Name = "Upload",
+    Callback = function()
+        local gameName, content = buildOutput()
+        local ok, result = pushToGithub(gameName, content)
+
+        if ok then
+            uploadPara:Set({ Title = "Uploaded", Content = result })
+        else
+            uploadPara:Set({ Title = "Failed", Content = result })
+        end
+    end,
+})
+
+Rayfield:Notify({
+    Title = "Moon Scanner",
+    Content = "Ready to scan.",
+    Duration = 5,
+    Image = 4483362458,
+})

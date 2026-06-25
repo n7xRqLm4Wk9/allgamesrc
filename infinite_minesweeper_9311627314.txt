@@ -1,0 +1,1681 @@
+=== infinite minesweeper ===
+PlaceID : 9311627314
+JobID   : ae04b7a8-aac4-49ba-9184-5dd01c820f48
+Player  : noob64ha
+Time    : 2026-06-25 12:36:01
+Entries : 1661
+
+══ DISCOVERED INSTANCES ══
+
+── REMOTES (20) ──
+  [BINDABLEFUNCTION] 10ve_2024.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Bulba_Trainer.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] CaptainTohbee.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Natrair.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] SJSBAJAJSNSJS.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.10ve_2024.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Bulba_Trainer.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.CaptainTohbee.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Natrair.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.SJSBAJAJSNSJS.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.huntzrx13.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.mimi_conejito.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.noob64ha.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.roblox_user_9523962149.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.tskalks_2000.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] noob64ha.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] roblox_user_9523962149.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] tskalks_2000.Animate.PlayEmote (BindableFunction)
+  [REMOTEEVENT] ReplicatedStorage.RemoteEvents. (RemoteEvent)
+  [REMOTEFUNCTION] ReplicatedStorage.RemoteFunctions. (RemoteFunction)
+
+── SCRIPTS (260) ──
+  [LOCALSCRIPT] 10ve_2024.Animate (LocalScript)
+  [LOCALSCRIPT] 10ve_2024.Bouncer (LocalScript)
+  [LOCALSCRIPT] 10ve_2024.Jumpless (LocalScript)
+  [LOCALSCRIPT] Bulba_Trainer.Animate (LocalScript)
+  [LOCALSCRIPT] Bulba_Trainer.Bouncer (LocalScript)
+  [LOCALSCRIPT] Bulba_Trainer.Jumpless (LocalScript)
+  [LOCALSCRIPT] CaptainTohbee.Animate (LocalScript)
+  [LOCALSCRIPT] CaptainTohbee.Bouncer (LocalScript)
+  [LOCALSCRIPT] CaptainTohbee.Jumpless (LocalScript)
+  [LOCALSCRIPT] Natrair.Animate (LocalScript)
+  [LOCALSCRIPT] Natrair.Bouncer (LocalScript)
+  [LOCALSCRIPT] Natrair.Jumpless (LocalScript)
+  [LOCALSCRIPT] SJSBAJAJSNSJS.Animate (LocalScript)
+  [LOCALSCRIPT] SJSBAJAJSNSJS.Bouncer (LocalScript)
+  [LOCALSCRIPT] SJSBAJAJSNSJS.Jumpless (LocalScript)
+  [LOCALSCRIPT] StarterGui.Freecam.FreecamScript (LocalScript) FreecamEnabled=false
+  [LOCALSCRIPT] Workspace.10ve_2024.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.10ve_2024.Bouncer (LocalScript)
+  [LOCALSCRIPT] Workspace.10ve_2024.Jumpless (LocalScript)
+  [LOCALSCRIPT] Workspace.Bulba_Trainer.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.Bulba_Trainer.Bouncer (LocalScript)
+  [LOCALSCRIPT] Workspace.Bulba_Trainer.Jumpless (LocalScript)
+  [LOCALSCRIPT] Workspace.CaptainTohbee.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.CaptainTohbee.Bouncer (LocalScript)
+  [LOCALSCRIPT] Workspace.CaptainTohbee.Jumpless (LocalScript)
+  [LOCALSCRIPT] Workspace.Natrair.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.Natrair.Bouncer (LocalScript)
+  [LOCALSCRIPT] Workspace.Natrair.Jumpless (LocalScript)
+  [LOCALSCRIPT] Workspace.SJSBAJAJSNSJS.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.SJSBAJAJSNSJS.Bouncer (LocalScript)
+  [LOCALSCRIPT] Workspace.SJSBAJAJSNSJS.Jumpless (LocalScript)
+  [LOCALSCRIPT] Workspace.huntzrx13.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.huntzrx13.Bouncer (LocalScript)
+  [LOCALSCRIPT] Workspace.huntzrx13.Jumpless (LocalScript)
+  [LOCALSCRIPT] Workspace.mimi_conejito.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.mimi_conejito.Bouncer (LocalScript)
+  [LOCALSCRIPT] Workspace.mimi_conejito.Jumpless (LocalScript)
+  [LOCALSCRIPT] Workspace.noob64ha.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.noob64ha.Bouncer (LocalScript)
+  [LOCALSCRIPT] Workspace.noob64ha.Jumpless (LocalScript)
+  [LOCALSCRIPT] Workspace.roblox_user_9523962149.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.roblox_user_9523962149.Bouncer (LocalScript)
+  [LOCALSCRIPT] Workspace.roblox_user_9523962149.Jumpless (LocalScript)
+  [LOCALSCRIPT] Workspace.tskalks_2000.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.tskalks_2000.Bouncer (LocalScript)
+  [LOCALSCRIPT] Workspace.tskalks_2000.Jumpless (LocalScript)
+  [LOCALSCRIPT] noob64ha.Animate (LocalScript)
+  [LOCALSCRIPT] noob64ha.Bouncer (LocalScript)
+  [LOCALSCRIPT] noob64ha.Jumpless (LocalScript)
+  [LOCALSCRIPT] roblox_user_9523962149.Animate (LocalScript)
+  [LOCALSCRIPT] roblox_user_9523962149.Bouncer (LocalScript)
+  [LOCALSCRIPT] roblox_user_9523962149.Jumpless (LocalScript)
+  [LOCALSCRIPT] tskalks_2000.Animate (LocalScript)
+  [LOCALSCRIPT] tskalks_2000.Bouncer (LocalScript)
+  [LOCALSCRIPT] tskalks_2000.Jumpless (LocalScript)
+  [MODULESCRIPT] ReplicatedStorage.Assets (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Assets.Flags (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Assets.Skyboxes (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Assets.Structures (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Board.BoardConfig (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Board.BoardModel (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Board.BoardState (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Board.BoardTypes (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Board.ClientConfig (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Board.Enum.TileFlag (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Board.Enum.TileShape (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Board.StructureData (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Board.TileBuffer (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Board.TilePosition (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Board.TileQueue (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Camera.CameraShake.CameraShakeOptions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Camera.FreezeCameraOnDeath.createDummy (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.CoreGui.announce (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.DeathMessages (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Explosions (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Explosions.Particle (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ItemData (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Materials (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages.BloxstrapRPC (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages.PacketProfiler (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages.PacketSizeCounter (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages.React (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.React (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.RobloxRenderer (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.components.changed (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.components.easings (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.components.element (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.components.event (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.components.memo (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.components.ref (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.components.union (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.hooks.arePropsDifferent (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.hooks.useCallback (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.hooks.useCleanup (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.hooks.useContext (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.hooks.useEffect (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.hooks.useLayoutEffect (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.hooks.useMemo (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.hooks.useReducer (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.hooks.useRef (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.hooks.useState (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.hooks.useTween (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.util.Context (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.util.Queue (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.util.Ref (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pizzaboxer_bloxstrap-rpc-sdk@1.0.1.bloxstrap-rpc-sdk (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.PacketSizeCounter (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.Roact (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.Signal (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components.ChartResize (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components.MainPlugin (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components.PacketChart (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components.PacketChartItems (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components.PacketCircleArcs (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components.PacketFrame (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components.PacketFrames (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components.PacketProfiler (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components.StudioSettings (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components.StudioTheme (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components.StudioWidget (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components.TopbarButton (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components.TopbarButtonsGroup (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Modules.CircularBuffer (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Modules.Packages (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Modules.TableToSyntaxString (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_remotepacketsizecounter@2.4.1.remotepacketsizecounter (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Binding (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Binding.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.context.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.defaultProps.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.didMount.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.didUpdate.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.extend.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.getDerivedStateFromProps.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.getElementTraceback.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.init.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.legacyContext.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.render.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.setState.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.shouldUpdate.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.validateProps.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.willUnmount.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec.willUpdate.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.ComponentLifecyclePhase (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Config (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Config.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.ElementKind (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.ElementKind.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.ElementUtils (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.ElementUtils.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.GlobalConfig (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.GlobalConfig.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Logging (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.None (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.NoopRenderer (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Portal (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.PropMarkers.Change (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.PropMarkers.Change.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.PropMarkers.Children (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.PropMarkers.Constant (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.PropMarkers.Event (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.PropMarkers.Event.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.PropMarkers.Ref (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.PureComponent (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.PureComponent.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.RobloxRenderer (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.RobloxRenderer.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.SingleEventManager (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.SingleEventManager.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Symbol (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Symbol.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Type (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Type.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.assertDeepEqual (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.assertDeepEqual.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.assign (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.assign.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createContext (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createContext.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createElement (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createElement.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createFragment (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createFragment.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createReconciler (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createReconciler.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createReconcilerCompat (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createReconcilerCompat.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createRef (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createRef.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createSignal (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createSignal.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createSpy (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.createSpy.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.forwardRef (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.forwardRef.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.getDefaultInstanceProperty (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.getDefaultInstanceProperty.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.init.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.internalAssert (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.invalidSetStateMessages (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.oneChild (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.oneChild.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.strict (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.strict.spec (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Packages._Index.stravant_goodsignal@0.2.1.goodsignal (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Remote.RateLimit (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Remote.RemoteClient (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Sera (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Settings.DefaultSettings (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Settings.Serdes (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Settings.Settings (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Settings.Settings.createSetting (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Sound.ExplosionSound.SoundEmitter (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Sprites.Kris (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Sprites.Ralsei (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Sprites.Susie (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.SubspaceMine (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.UI.Color (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.UI.Draggable (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.UI.Dropdown (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.UI.Field (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.UI.Slider (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.UI.Switch (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.UI.bindVisibilitySetting (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.UI.createHeading (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.UI.localizeInt (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Util.Attribute (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Util.Character (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Util.Math (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Util.Player (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Util.Pool (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Util.Signal (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Util.Time (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Util.binarySearch (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Util.getMouseLocation (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.Util.isEmpty (ModuleScript)
+  [SCRIPT] Players.SJSBAJAJSNSJS.Backpack.SubspaceTripmine.PlantBomb (Script)
+  [SCRIPT] ReplicatedStorage.Board.BoardClient (Script)
+  [SCRIPT] ReplicatedStorage.Camera.CameraShake (Script)
+  [SCRIPT] ReplicatedStorage.Camera.FreezeCameraOnDeath (Script)
+  [SCRIPT] ReplicatedStorage.Camera.TopdownView (Script)
+  [SCRIPT] ReplicatedStorage.ChangeSkybox (Script)
+  [SCRIPT] ReplicatedStorage.ClientCommands (Script)
+  [SCRIPT] ReplicatedStorage.Collections.AddExplosions (Script)
+  [SCRIPT] ReplicatedStorage.Collections.BadgeAwarder (Script)
+  [SCRIPT] ReplicatedStorage.Collections.ErrorMesh (Script)
+  [SCRIPT] ReplicatedStorage.CoreGui.DisableCoreGui (Script)
+  [SCRIPT] ReplicatedStorage.CoreGui.SystemMessages (Script)
+  [SCRIPT] ReplicatedStorage.PacketProfiler (Script)
+  [SCRIPT] ReplicatedStorage.PreloadAssets (Script)
+  [SCRIPT] ReplicatedStorage.RichPresence (Script)
+  [SCRIPT] ReplicatedStorage.Sound.AlertSound (Script)
+  [SCRIPT] ReplicatedStorage.Sound.ExplosionSound (Script)
+  [SCRIPT] ReplicatedStorage.Sound.VolumeSettings (Script)
+  [SCRIPT] ReplicatedStorage.ToolMouse (Script)
+  [SCRIPT] Workspace.SJSBAJAJSNSJS.SubspaceTripmine.PlantBomb (Script)
+
+── PROMPTS (1) ──
+  [CLICKDETECTOR] Workspace.Clickable.ClickDetector (ClickDetector)
+
+── NPCS (16) ──
+  [NPC] 10ve_2024 (Model)
+  [NPC] Bulba_Trainer (Model)
+  [NPC] CaptainTohbee (Model)
+  [NPC] Natrair (Model)
+  [NPC] SJSBAJAJSNSJS (Model)
+  [NPC] Workspace.10ve_2024 (Model)
+  [NPC] Workspace.Bulba_Trainer (Model)
+  [NPC] Workspace.Camera.Dummy (Model)
+  [NPC] Workspace.CaptainTohbee (Model)
+  [NPC] Workspace.Natrair (Model)
+  [NPC] Workspace.SJSBAJAJSNSJS (Model)
+  [NPC] Workspace.noob64ha (Model)
+  [NPC] Workspace.tskalks_2000 (Model)
+  [NPC] noob64ha (Model)
+  [NPC] roblox_user_9523962149 (Model)
+  [NPC] tskalks_2000 (Model)
+
+── VALUES (1256) ──
+  [NUMBERVALUE] 10ve_2024.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] 10ve_2024.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] 10ve_2024.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Bulba_Trainer.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Bulba_Trainer.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Bulba_Trainer.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] CaptainTohbee.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] CaptainTohbee.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] CaptainTohbee.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Natrair.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Natrair.Animate.dance.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Natrair.Animate.dance.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Natrair.Animate.dance.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Natrair.Animate.dance2.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Natrair.Animate.dance2.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Natrair.Animate.dance2.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Natrair.Animate.dance3.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Natrair.Animate.dance3.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Natrair.Animate.dance3.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Natrair.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Natrair.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Natrair.Humanoid.BodyDepthScale (NumberValue) = 1
+  [NUMBERVALUE] Natrair.Humanoid.BodyHeightScale (NumberValue) = 1
+  [NUMBERVALUE] Natrair.Humanoid.BodyProportionScale (NumberValue) = 0
+  [NUMBERVALUE] Natrair.Humanoid.BodyTypeScale (NumberValue) = 0
+  [NUMBERVALUE] Natrair.Humanoid.BodyWidthScale (NumberValue) = 1
+  [NUMBERVALUE] Natrair.Humanoid.HeadScale (NumberValue) = 1
+  [NUMBERVALUE] SJSBAJAJSNSJS.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] SJSBAJAJSNSJS.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] SJSBAJAJSNSJS.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.10ve_2024.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.10ve_2024.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.10ve_2024.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Bulba_Trainer.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Bulba_Trainer.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.Bulba_Trainer.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.CaptainTohbee.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.CaptainTohbee.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.CaptainTohbee.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Natrair.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Natrair.Animate.dance.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.Natrair.Animate.dance.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.Natrair.Animate.dance.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.Natrair.Animate.dance2.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.Natrair.Animate.dance2.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.Natrair.Animate.dance2.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.Natrair.Animate.dance3.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.Natrair.Animate.dance3.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.Natrair.Animate.dance3.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.Natrair.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.Natrair.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Natrair.Humanoid.BodyDepthScale (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Natrair.Humanoid.BodyHeightScale (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Natrair.Humanoid.BodyProportionScale (NumberValue) = 0
+  [NUMBERVALUE] Workspace.Natrair.Humanoid.BodyTypeScale (NumberValue) = 0
+  [NUMBERVALUE] Workspace.Natrair.Humanoid.BodyWidthScale (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Natrair.Humanoid.HeadScale (NumberValue) = 1
+  [NUMBERVALUE] Workspace.SJSBAJAJSNSJS.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.SJSBAJAJSNSJS.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.SJSBAJAJSNSJS.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.huntzrx13.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.huntzrx13.Animate.dance.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.huntzrx13.Animate.dance.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.huntzrx13.Animate.dance.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.huntzrx13.Animate.dance2.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.huntzrx13.Animate.dance2.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.huntzrx13.Animate.dance2.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.huntzrx13.Animate.dance3.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.huntzrx13.Animate.dance3.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.huntzrx13.Animate.dance3.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.huntzrx13.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.huntzrx13.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.huntzrx13.Animate.pose.RthroIdlePose.Weight (NumberValue) = 0
+  [NUMBERVALUE] Workspace.huntzrx13.Humanoid.BodyDepthScale (NumberValue) = 0.9800000190734863
+  [NUMBERVALUE] Workspace.huntzrx13.Humanoid.BodyHeightScale (NumberValue) = 1.0099999904632568
+  [NUMBERVALUE] Workspace.huntzrx13.Humanoid.BodyProportionScale (NumberValue) = 0.5
+  [NUMBERVALUE] Workspace.huntzrx13.Humanoid.BodyTypeScale (NumberValue) = 0
+  [NUMBERVALUE] Workspace.huntzrx13.Humanoid.BodyWidthScale (NumberValue) = 0.949999988079071
+  [NUMBERVALUE] Workspace.huntzrx13.Humanoid.HeadScale (NumberValue) = 1
+  [NUMBERVALUE] Workspace.mimi_conejito.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.mimi_conejito.Animate.dance.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.mimi_conejito.Animate.dance.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.mimi_conejito.Animate.dance.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.mimi_conejito.Animate.dance2.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.mimi_conejito.Animate.dance2.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.mimi_conejito.Animate.dance2.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.mimi_conejito.Animate.dance3.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.mimi_conejito.Animate.dance3.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.mimi_conejito.Animate.dance3.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.mimi_conejito.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.mimi_conejito.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.mimi_conejito.Humanoid.BodyDepthScale (NumberValue) = 0.8500000238418579
+  [NUMBERVALUE] Workspace.mimi_conejito.Humanoid.BodyHeightScale (NumberValue) = 0.8999999761581421
+  [NUMBERVALUE] Workspace.mimi_conejito.Humanoid.BodyProportionScale (NumberValue) = 0.5
+  [NUMBERVALUE] Workspace.mimi_conejito.Humanoid.BodyTypeScale (NumberValue) = 0
+  [NUMBERVALUE] Workspace.mimi_conejito.Humanoid.BodyWidthScale (NumberValue) = 0.699999988079071
+  [NUMBERVALUE] Workspace.mimi_conejito.Humanoid.HeadScale (NumberValue) = 0.949999988079071
+  [NUMBERVALUE] Workspace.noob64ha.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.noob64ha.Animate.dance.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.noob64ha.Animate.dance.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.noob64ha.Animate.dance.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.noob64ha.Animate.dance2.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.noob64ha.Animate.dance2.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.noob64ha.Animate.dance2.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.noob64ha.Animate.dance3.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.noob64ha.Animate.dance3.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.noob64ha.Animate.dance3.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.noob64ha.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.noob64ha.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.noob64ha.Humanoid.BodyDepthScale (NumberValue) = 1
+  [NUMBERVALUE] Workspace.noob64ha.Humanoid.BodyHeightScale (NumberValue) = 1
+  [NUMBERVALUE] Workspace.noob64ha.Humanoid.BodyProportionScale (NumberValue) = 0
+  [NUMBERVALUE] Workspace.noob64ha.Humanoid.BodyTypeScale (NumberValue) = 0
+  [NUMBERVALUE] Workspace.noob64ha.Humanoid.BodyWidthScale (NumberValue) = 1
+  [NUMBERVALUE] Workspace.noob64ha.Humanoid.HeadScale (NumberValue) = 1
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Animate.dance.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Animate.dance.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Animate.dance.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Animate.dance2.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Animate.dance2.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Animate.dance2.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Animate.dance3.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Animate.dance3.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Animate.dance3.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Animate.pose.RthroIdlePose.Weight (NumberValue) = 0
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Humanoid.BodyDepthScale (NumberValue) = 1
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Humanoid.BodyHeightScale (NumberValue) = 0.9800000190734863
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Humanoid.BodyProportionScale (NumberValue) = 0
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Humanoid.BodyTypeScale (NumberValue) = 0
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Humanoid.BodyWidthScale (NumberValue) = 1
+  [NUMBERVALUE] Workspace.roblox_user_9523962149.Humanoid.HeadScale (NumberValue) = 1
+  [NUMBERVALUE] Workspace.tskalks_2000.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.tskalks_2000.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.tskalks_2000.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] noob64ha.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] noob64ha.Animate.dance.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] noob64ha.Animate.dance.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] noob64ha.Animate.dance.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] noob64ha.Animate.dance2.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] noob64ha.Animate.dance2.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] noob64ha.Animate.dance2.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] noob64ha.Animate.dance3.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] noob64ha.Animate.dance3.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] noob64ha.Animate.dance3.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] noob64ha.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] noob64ha.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] noob64ha.Humanoid.BodyDepthScale (NumberValue) = 1
+  [NUMBERVALUE] noob64ha.Humanoid.BodyHeightScale (NumberValue) = 1
+  [NUMBERVALUE] noob64ha.Humanoid.BodyProportionScale (NumberValue) = 0
+  [NUMBERVALUE] noob64ha.Humanoid.BodyTypeScale (NumberValue) = 0
+  [NUMBERVALUE] noob64ha.Humanoid.BodyWidthScale (NumberValue) = 1
+  [NUMBERVALUE] noob64ha.Humanoid.HeadScale (NumberValue) = 1
+  [NUMBERVALUE] roblox_user_9523962149.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] roblox_user_9523962149.Animate.dance.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] roblox_user_9523962149.Animate.dance.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] roblox_user_9523962149.Animate.dance.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] roblox_user_9523962149.Animate.dance2.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] roblox_user_9523962149.Animate.dance2.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] roblox_user_9523962149.Animate.dance2.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] roblox_user_9523962149.Animate.dance3.Animation1.Weight (NumberValue) = 10
+  [NUMBERVALUE] roblox_user_9523962149.Animate.dance3.Animation2.Weight (NumberValue) = 10
+  [NUMBERVALUE] roblox_user_9523962149.Animate.dance3.Animation3.Weight (NumberValue) = 10
+  [NUMBERVALUE] roblox_user_9523962149.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] roblox_user_9523962149.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] roblox_user_9523962149.Animate.pose.RthroIdlePose.Weight (NumberValue) = 0
+  [NUMBERVALUE] roblox_user_9523962149.Humanoid.BodyDepthScale (NumberValue) = 1
+  [NUMBERVALUE] roblox_user_9523962149.Humanoid.BodyHeightScale (NumberValue) = 0.9800000190734863
+  [NUMBERVALUE] roblox_user_9523962149.Humanoid.BodyProportionScale (NumberValue) = 0
+  [NUMBERVALUE] roblox_user_9523962149.Humanoid.BodyTypeScale (NumberValue) = 0
+  [NUMBERVALUE] roblox_user_9523962149.Humanoid.BodyWidthScale (NumberValue) = 1
+  [NUMBERVALUE] roblox_user_9523962149.Humanoid.HeadScale (NumberValue) = 1
+  [NUMBERVALUE] tskalks_2000.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] tskalks_2000.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] tskalks_2000.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [STRINGVALUE] 10ve_2024.Accessory (defaultAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] 10ve_2024.Animate.climb (StringValue) = 
+  [STRINGVALUE] 10ve_2024.Animate.fall (StringValue) = 
+  [STRINGVALUE] 10ve_2024.Animate.idle (StringValue) = 
+  [STRINGVALUE] 10ve_2024.Animate.jump (StringValue) = 
+  [STRINGVALUE] 10ve_2024.Animate.run (StringValue) = 
+  [STRINGVALUE] 10ve_2024.Animate.sit (StringValue) = 
+  [STRINGVALUE] 10ve_2024.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] 10ve_2024.Animate.walk (StringValue) = 
+  [STRINGVALUE] Bulba_Trainer.Animate.climb (StringValue) = 
+  [STRINGVALUE] Bulba_Trainer.Animate.fall (StringValue) = 
+  [STRINGVALUE] Bulba_Trainer.Animate.idle (StringValue) = 
+  [STRINGVALUE] Bulba_Trainer.Animate.jump (StringValue) = 
+  [STRINGVALUE] Bulba_Trainer.Animate.run (StringValue) = 
+  [STRINGVALUE] Bulba_Trainer.Animate.sit (StringValue) = 
+  [STRINGVALUE] Bulba_Trainer.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Bulba_Trainer.Animate.walk (StringValue) = 
+  [STRINGVALUE] CaptainTohbee.Accessory (Popular Preppy Brat Bangs in ).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] CaptainTohbee.Accessory (Propeller Hat Quirky Fun Propeller Cap Retro PopAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] CaptainTohbee.Accessory (face blush1).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] CaptainTohbee.Animate.climb (StringValue) = 
+  [STRINGVALUE] CaptainTohbee.Animate.fall (StringValue) = 
+  [STRINGVALUE] CaptainTohbee.Animate.idle (StringValue) = 
+  [STRINGVALUE] CaptainTohbee.Animate.jump (StringValue) = 
+  [STRINGVALUE] CaptainTohbee.Animate.run (StringValue) = 
+  [STRINGVALUE] CaptainTohbee.Animate.sit (StringValue) = 
+  [STRINGVALUE] CaptainTohbee.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] CaptainTohbee.Animate.walk (StringValue) = 
+  [STRINGVALUE] CaptainTohbee.MeshPartAccessory.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] CaptainTohbee.Side Part Hair.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] LeftHand.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] LeftLowerArm.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.Animate.cheer (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.climb (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.dance (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.dance2 (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.dance3 (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.fall (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.idle (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.jump (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.laugh (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.mood (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.point (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.run (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.sit (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.swim (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.swimidle (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.toollunge (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.toolslash (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.walk (StringValue) = 
+  [STRINGVALUE] Natrair.Animate.wave (StringValue) = 
+  [STRINGVALUE] Natrair.BagAccessory.Handle.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.HatAccessory.Handle.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.LeftFoot.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.LeftHand.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.LeftLowerArm.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.LeftLowerLeg.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.LeftUpperArm.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.LeftUpperLeg.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.LowerTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Natrair.RightFoot.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.RightHand.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.RightLowerArm.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.RightLowerLeg.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.RightUpperArm.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.RightUpperLeg.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Natrair.UpperTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] RightFoot.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] SJSBAJAJSNSJS.Accessory (Emo Hair).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] SJSBAJAJSNSJS.Accessory (Emo Spiked Shades (High)).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] SJSBAJAJSNSJS.Accessory (Retro Earrings).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] SJSBAJAJSNSJS.Accessory (defaultAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] SJSBAJAJSNSJS.Accessory (ifsixwasnine hat 2).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] SJSBAJAJSNSJS.Animate.climb (StringValue) = 
+  [STRINGVALUE] SJSBAJAJSNSJS.Animate.fall (StringValue) = 
+  [STRINGVALUE] SJSBAJAJSNSJS.Animate.idle (StringValue) = 
+  [STRINGVALUE] SJSBAJAJSNSJS.Animate.jump (StringValue) = 
+  [STRINGVALUE] SJSBAJAJSNSJS.Animate.run (StringValue) = 
+  [STRINGVALUE] SJSBAJAJSNSJS.Animate.sit (StringValue) = 
+  [STRINGVALUE] SJSBAJAJSNSJS.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] SJSBAJAJSNSJS.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.10ve_2024.Accessory (defaultAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.10ve_2024.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.10ve_2024.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.10ve_2024.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.10ve_2024.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.10ve_2024.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.10ve_2024.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.10ve_2024.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.10ve_2024.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Bulba_Trainer.Accessory (MeshPartAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Bulba_Trainer.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Bulba_Trainer.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Bulba_Trainer.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Bulba_Trainer.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Bulba_Trainer.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.Bulba_Trainer.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Bulba_Trainer.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Bulba_Trainer.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Bulba_Trainer.CowHeadBlackAccessory.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Bulba_Trainer.CowboyHat.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Bulba_Trainer.Scarf.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.CaptainTohbee.Accessory (Popular Preppy Brat Bangs in ).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.CaptainTohbee.Accessory (Propeller Hat Quirky Fun Propeller Cap Retro PopAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.CaptainTohbee.Accessory (face blush1).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.CaptainTohbee.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.CaptainTohbee.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.CaptainTohbee.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.CaptainTohbee.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.CaptainTohbee.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.CaptainTohbee.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.CaptainTohbee.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.CaptainTohbee.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.CaptainTohbee.MeshPartAccessory.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.CaptainTohbee.Side Part Hair.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Natrair.Animate.cheer (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.dance (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.dance2 (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.dance3 (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.laugh (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.mood (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.point (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.swim (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.swimidle (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.toollunge (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.toolslash (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.Animate.wave (StringValue) = 
+  [STRINGVALUE] Workspace.Natrair.BagAccessory.Handle.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.HatAccessory.Handle.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.LeftFoot.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.LeftHand.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.LeftLowerArm.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.LeftLowerLeg.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.LeftUpperArm.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.LeftUpperLeg.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.LowerTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Natrair.RightFoot.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.RightHand.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.RightLowerArm.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.RightLowerLeg.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.RightUpperArm.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.RightUpperLeg.AvatarPartScaleType (StringValue) = ProportionsNormal
+  [STRINGVALUE] Workspace.Natrair.UpperTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.SJSBAJAJSNSJS.Accessory (Emo Hair).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.SJSBAJAJSNSJS.Accessory (Emo Spiked Shades (High)).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.SJSBAJAJSNSJS.Accessory (Retro Earrings).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.SJSBAJAJSNSJS.Accessory (defaultAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.SJSBAJAJSNSJS.Accessory (ifsixwasnine hat 2).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.SJSBAJAJSNSJS.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.SJSBAJAJSNSJS.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.SJSBAJAJSNSJS.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.SJSBAJAJSNSJS.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.SJSBAJAJSNSJS.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.SJSBAJAJSNSJS.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.SJSBAJAJSNSJS.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.SJSBAJAJSNSJS.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.cheer (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.dance (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.dance2 (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.dance3 (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.laugh (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.mood (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.point (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.pose (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.swim (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.swimidle (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.toollunge (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.toolslash (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.Animate.wave (StringValue) = 
+  [STRINGVALUE] Workspace.huntzrx13.LeftHand.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.huntzrx13.LeftLowerArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.huntzrx13.LeftUpperArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.huntzrx13.RightHand.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.huntzrx13.RightLowerArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.huntzrx13.RightUpperArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.cheer (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.dance (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.dance2 (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.dance3 (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.laugh (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.mood (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.point (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.swim (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.swimidle (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.toollunge (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.toolslash (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.Animate.wave (StringValue) = 
+  [STRINGVALUE] Workspace.mimi_conejito.HairAccessory.Handle.AvatarPartScaleType (StringValue) = ProportionsSlender
+  [STRINGVALUE] Workspace.mimi_conejito.Head.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.mimi_conejito.LeftHand.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.mimi_conejito.LeftLowerArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.mimi_conejito.LeftUpperArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.mimi_conejito.LowerTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.mimi_conejito.RightHand.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.mimi_conejito.RightLowerArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.mimi_conejito.RightUpperArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.mimi_conejito.UpperTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.Animate.cheer (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.dance (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.dance2 (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.dance3 (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.laugh (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.mood (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.point (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.swim (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.swimidle (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.toollunge (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.toolslash (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Animate.wave (StringValue) = 
+  [STRINGVALUE] Workspace.noob64ha.Head.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.LeftFoot.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.LeftHand.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.LeftLowerArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.LeftLowerLeg.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.LeftUpperArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.LeftUpperLeg.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.LowerTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.RightFoot.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.RightHand.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.RightLowerArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.RightLowerLeg.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.RightUpperArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.RightUpperLeg.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.noob64ha.UpperTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Accessory (Plumara Hat).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.cheer (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.dance (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.dance2 (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.dance3 (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.laugh (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.mood (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.point (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.pose (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.swim (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.swimidle (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.toollunge (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.toolslash (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Animate.wave (StringValue) = 
+  [STRINGVALUE] Workspace.roblox_user_9523962149.Head.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.roblox_user_9523962149.LeftHand.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.roblox_user_9523962149.LeftLowerArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.roblox_user_9523962149.LeftUpperArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.roblox_user_9523962149.LowerTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.roblox_user_9523962149.RightHand.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.roblox_user_9523962149.RightLowerArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.roblox_user_9523962149.RightUpperArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.roblox_user_9523962149.UpperTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.tskalks_2000.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.tskalks_2000.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.tskalks_2000.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.tskalks_2000.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.tskalks_2000.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.tskalks_2000.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.tskalks_2000.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.tskalks_2000.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.tskalks_2000.FlowerCrown_AccAccessory.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.tskalks_2000.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.Animate.cheer (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.climb (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.dance (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.dance2 (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.dance3 (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.fall (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.idle (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.jump (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.laugh (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.mood (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.point (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.run (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.sit (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.swim (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.swimidle (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.toollunge (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.toolslash (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.walk (StringValue) = 
+  [STRINGVALUE] noob64ha.Animate.wave (StringValue) = 
+  [STRINGVALUE] noob64ha.Head.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.LeftFoot.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.LeftHand.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.LeftLowerArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.LeftLowerLeg.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.LeftUpperArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.LeftUpperLeg.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.LowerTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.RightFoot.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.RightHand.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.RightLowerArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.RightLowerLeg.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.RightUpperArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.RightUpperLeg.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] noob64ha.UpperTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] roblox_user_9523962149.Accessory (Plumara Hat).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] roblox_user_9523962149.Animate.cheer (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.climb (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.dance (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.dance2 (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.dance3 (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.fall (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.idle (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.jump (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.laugh (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.mood (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.point (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.pose (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.run (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.sit (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.swim (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.swimidle (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.toollunge (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.toolslash (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.walk (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Animate.wave (StringValue) = 
+  [STRINGVALUE] roblox_user_9523962149.Head.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] roblox_user_9523962149.LeftHand.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] roblox_user_9523962149.LeftLowerArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] roblox_user_9523962149.LeftUpperArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] roblox_user_9523962149.LowerTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] roblox_user_9523962149.RightHand.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] roblox_user_9523962149.RightLowerArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] roblox_user_9523962149.RightUpperArm.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] roblox_user_9523962149.UpperTorso.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] tskalks_2000.Animate.climb (StringValue) = 
+  [STRINGVALUE] tskalks_2000.Animate.fall (StringValue) = 
+  [STRINGVALUE] tskalks_2000.Animate.idle (StringValue) = 
+  [STRINGVALUE] tskalks_2000.Animate.jump (StringValue) = 
+  [STRINGVALUE] tskalks_2000.Animate.run (StringValue) = 
+  [STRINGVALUE] tskalks_2000.Animate.sit (StringValue) = 
+  [STRINGVALUE] tskalks_2000.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] tskalks_2000.Animate.walk (StringValue) = 
+  [STRINGVALUE] tskalks_2000.FlowerCrown_AccAccessory.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] tskalks_2000.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [VECTOR3VALUE] 10ve_2024.Accessory (defaultAccessory).Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.00032824277877807617, 0.3414278030395508, 0.04358482360839844
+  [VECTOR3VALUE] 10ve_2024.Accessory (defaultAccessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] 10ve_2024.Head.Mesh.FaceCenterAttachment (Vector3Value) = -0.0019408634398132563, -0.19623374938964844, -0.05832074582576752
+  [VECTOR3VALUE] 10ve_2024.Head.Mesh.FaceFrontAttachment (Vector3Value) = -0.007718740496784449, -0.016089439392089844, -0.5796747207641602
+  [VECTOR3VALUE] 10ve_2024.Head.Mesh.HairAttachment (Vector3Value) = -0.0018684046808630228, 0.5825080871582031, 0.014422707259654999
+  [VECTOR3VALUE] 10ve_2024.Head.Mesh.HatAttachment (Vector3Value) = -0.0018684046808630228, 0.5825231075286865, 0.014422707259654999
+  [VECTOR3VALUE] 10ve_2024.Head.Mesh.NeckRigAttachment (Vector3Value) = -0.0012871623039245605, -0.5189608335494995, -0.010251514613628387
+  [VECTOR3VALUE] CaptainTohbee.Accessory (Popular Preppy Brat Bangs in ).Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.667540431022644, 0.8999179601669312, 2.980235080940474e-08
+  [VECTOR3VALUE] CaptainTohbee.Accessory (Popular Preppy Brat Bangs in ).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] CaptainTohbee.Accessory (Propeller Hat Quirky Fun Propeller Cap Retro PopAccessory).Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.00006404639862012118, -0.12818574905395508, 0.261288046836853
+  [VECTOR3VALUE] CaptainTohbee.Accessory (Propeller Hat Quirky Fun Propeller Cap Retro PopAccessory).Handle.OriginalSize (Vector3Value) = 1.4910000562667847, 1.1820000410079956, 2.128999948501587
+  [VECTOR3VALUE] CaptainTohbee.Accessory (face blush1).Handle.FaceFrontAttachment.OriginalPosition (Vector3Value) = -0.0058135986328125, 0.1511669158935547, 0.013666152954101562
+  [VECTOR3VALUE] CaptainTohbee.Accessory (face blush1).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] CaptainTohbee.Head.Mesh.FaceCenterAttachment (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] CaptainTohbee.Head.Mesh.FaceFrontAttachment (Vector3Value) = 0, -0, -0.6000000238418579
+  [VECTOR3VALUE] CaptainTohbee.Head.Mesh.HairAttachment (Vector3Value) = 0, 0.6000000238418579, -0
+  [VECTOR3VALUE] CaptainTohbee.Head.Mesh.HatAttachment (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] CaptainTohbee.Head.Mesh.NeckRigAttachment (Vector3Value) = 0, -0.5, 0
+  [VECTOR3VALUE] CaptainTohbee.MeshPartAccessory.Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.0003304481506347656, 0.6695313453674316, -0.024927139282226562
+  [VECTOR3VALUE] CaptainTohbee.MeshPartAccessory.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] CaptainTohbee.Side Part Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = -0.005814075469970703, 1.3592584133148193, -0.1573289930820465
+  [VECTOR3VALUE] CaptainTohbee.Side Part Hair.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Handle.BodyFrontAttachment.OriginalPosition (Vector3Value) = -0.16152849793434143, 0.0981297492980957, -0.42169713973999023
+  [VECTOR3VALUE] Handle.FaceCenterAttachment.OriginalPosition (Vector3Value) = 0, -0.23136138916015625, 0.251129150390625
+  [VECTOR3VALUE] Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.15017133951187134, 0.9772872924804688, 0.04508399963378906
+  [VECTOR3VALUE] Handle.HatAttachment.OriginalPosition (Vector3Value) = 0, 0.5688724517822266, 0.4033803939819336
+  [VECTOR3VALUE] Handle.NeckAttachment.OriginalPosition (Vector3Value) = -0.03865242004394531, 0.44518232345581055, 0.055954933166503906
+  [VECTOR3VALUE] Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Handle.WaistCenterAttachment.OriginalPosition (Vector3Value) = 1.1456714868545532, 0.22356653213500977, 0.017493516206741333
+  [VECTOR3VALUE] LeftHand.LeftGripAttachment.OriginalPosition (Vector3Value) = -0.017243266105651855, -0.10826203227043152, 0.3052818477153778
+  [VECTOR3VALUE] LeftHand.LeftWristRigAttachment.OriginalPosition (Vector3Value) = 0.10851740837097168, 0.16673845052719116, 0.10116218030452728
+  [VECTOR3VALUE] LeftHand.OriginalSize (Vector3Value) = 0.5459886789321899, 0.5900802612304688, 0.5340443849563599
+  [VECTOR3VALUE] LeftLowerArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = 0.05109626054763794, 0.3668304979801178, 0.09328597784042358
+  [VECTOR3VALUE] LeftLowerArm.LeftWristRigAttachment.OriginalPosition (Vector3Value) = -0.13219642639160156, -0.3386515974998474, -0.0667436271905899
+  [VECTOR3VALUE] LeftLowerArm.OriginalSize (Vector3Value) = 0.6778521537780762, 0.8608996868133545, 0.6935892105102539
+  [VECTOR3VALUE] Natrair.BagAccessory.Handle.BodyBackAttachment.OriginalPosition (Vector3Value) = -2.980235080940474e-08, -0.2816253900527954, -0.36704733967781067
+  [VECTOR3VALUE] Natrair.BagAccessory.Handle.OriginalSize (Vector3Value) = 1.0727226734161377, 1.29035222530365, 0.7459486722946167
+  [VECTOR3VALUE] Natrair.HatAccessory.Handle.HatAttachment.OriginalPosition (Vector3Value) = -1.4770509437767032e-07, -0.23609519004821777, -0.048946645110845566
+  [VECTOR3VALUE] Natrair.HatAccessory.Handle.OriginalSize (Vector3Value) = 1.1726213693618774, 1.7735004425048828, 1.740938663482666
+  [VECTOR3VALUE] Natrair.Head.FaceCenterAttachment.OriginalPosition (Vector3Value) = -0, -0.09399999678134918, 0
+  [VECTOR3VALUE] Natrair.Head.FaceFrontAttachment.OriginalPosition (Vector3Value) = -0, 0, -0.6000000238418579
+  [VECTOR3VALUE] Natrair.Head.HairAttachment.OriginalPosition (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Natrair.Head.HatAttachment.OriginalPosition (Vector3Value) = -0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Natrair.Head.NeckRigAttachment.OriginalPosition (Vector3Value) = -0, -0.5860000252723694, 0
+  [VECTOR3VALUE] Natrair.Head.OriginalSize (Vector3Value) = 1.196195125579834, 1.2029438018798828, 1.2002544403076172
+  [VECTOR3VALUE] Natrair.HumanoidRootPart.OriginalSize (Vector3Value) = 2, 2, 1
+  [VECTOR3VALUE] Natrair.HumanoidRootPart.RootAttachment.OriginalPosition (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Natrair.HumanoidRootPart.RootRigAttachment.OriginalPosition (Vector3Value) = 0, -0.3499999940395355, 0
+  [VECTOR3VALUE] Natrair.LNY_Ox.Handle.LeftCollarAttachment.OriginalPosition (Vector3Value) = 0.43796682357788086, -0.7210097312927246, 0.004788398742675781
+  [VECTOR3VALUE] Natrair.LNY_Ox.Handle.OriginalSize (Vector3Value) = 1.1057488918304443, 1.6004551649093628, 1.9056462049484253
+  [VECTOR3VALUE] Natrair.LeftFoot.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = 0.07662549614906311, 0.20009306073188782, 0.19408723711967468
+  [VECTOR3VALUE] Natrair.LeftFoot.LeftFootAttachment.OriginalPosition (Vector3Value) = 0.07572230696678162, -0.2115880846977234, 0.01919453591108322
+  [VECTOR3VALUE] Natrair.LeftFoot.OriginalSize (Vector3Value) = 0.5989164113998413, 0.46781855821609497, 1.3323423862457275
+  [VECTOR3VALUE] Natrair.LeftHand.LeftGripAttachment.OriginalPosition (Vector3Value) = 0.023001670837402344, 0.025288105010986328, 0.06508942693471909
+  [VECTOR3VALUE] Natrair.LeftHand.LeftWristRigAttachment.OriginalPosition (Vector3Value) = 0.02469468116760254, 0.3002880811691284, 0.06521724164485931
+  [VECTOR3VALUE] Natrair.LeftHand.OriginalSize (Vector3Value) = 0.5036478042602539, 0.8137608766555786, 0.7883262634277344
+  [VECTOR3VALUE] Natrair.LeftLowerArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = 0.05109626054763794, 0.3668304979801178, 0.09328597784042358
+  [VECTOR3VALUE] Natrair.LeftLowerArm.LeftWristRigAttachment.OriginalPosition (Vector3Value) = -0.13219642639160156, -0.3386515974998474, -0.0667436271905899
+  [VECTOR3VALUE] Natrair.LeftLowerArm.OriginalSize (Vector3Value) = 0.6778521537780762, 0.8608996868133545, 0.6935892105102539
+  [VECTOR3VALUE] Natrair.LeftLowerLeg.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = 0.07153686881065369, -0.6835092306137085, -0.07439662516117096
+  [VECTOR3VALUE] Natrair.LeftLowerLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = 0.07153686881065369, 0.8633301258087158, -0.13634370267391205
+  [VECTOR3VALUE] Natrair.LeftLowerLeg.OriginalSize (Vector3Value) = 0.7700644731521606, 1.8451199531555176, 1.135436773300171
+  [VECTOR3VALUE] Natrair.LeftUpperArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = -0.06703609228134155, -0.6018161773681641, 0.01918959617614746
+  [VECTOR3VALUE] Natrair.LeftUpperArm.LeftShoulderAttachment.OriginalPosition (Vector3Value) = 0.25409817695617676, 0.7190878987312317, -0.06960457563400269
+  [VECTOR3VALUE] Natrair.LeftUpperArm.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.21498769521713257, 0.5829139351844788, -0.06960462033748627
+  [VECTOR3VALUE] Natrair.LeftUpperArm.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.21498769521713257, 0.5829139351844788, -0.06960462033748627
+  [VECTOR3VALUE] Natrair.LeftUpperArm.OriginalSize (Vector3Value) = 0.7991876602172852, 1.3483716249465942, 0.6552938222885132
+  [VECTOR3VALUE] Natrair.LeftUpperLeg.LeftHipRigAttachment.OriginalPosition (Vector3Value) = 0.06544408202171326, 0.5993022918701172, -0.17814721167087555
+  [VECTOR3VALUE] Natrair.LeftUpperLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = 0.06544411182403564, -0.5702939033508301, -0.06521815061569214
+  [VECTOR3VALUE] Natrair.LeftUpperLeg.OriginalSize (Vector3Value) = 0.6141785979270935, 1.6000521183013916, 0.891270101070404
+  [VECTOR3VALUE] Natrair.LowerTorso.LeftHipRigAttachment.OriginalPosition (Vector3Value) = -0.5000000596046448, -0.2785429358482361, 0.09998255968093872
+  [VECTOR3VALUE] Natrair.LowerTorso.OriginalSize (Vector3Value) = 1.696225881576538, 0.5661435127258301, 0.9524508714675903
+  [VECTOR3VALUE] Natrair.LowerTorso.RightHipRigAttachment.OriginalPosition (Vector3Value) = 0.4999999403953552, -0.2785429358482361, 0.09996344149112701
+  [VECTOR3VALUE] Natrair.LowerTorso.RootRigAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, -0.31484949588775635, 0.09998255968093872
+  [VECTOR3VALUE] Natrair.LowerTorso.WaistBackAttachment.OriginalPosition (Vector3Value) = -8.680857632725747e-08, -0.28500038385391235, 0.4393026530742645
+  [VECTOR3VALUE] Natrair.LowerTorso.WaistCenterAttachment.OriginalPosition (Vector3Value) = -3.623962356869015e-07, -0.31484949588775635, 0.09998255968093872
+  [VECTOR3VALUE] Natrair.LowerTorso.WaistFrontAttachment.OriginalPosition (Vector3Value) = -7.261522227963724e-08, -0.28292158246040344, -0.4558377265930176
+  [VECTOR3VALUE] Natrair.LowerTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, 0.0851476788520813, 0.09998255968093872
+  [VECTOR3VALUE] Natrair.Pal Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.34999990463256836, 0.2497277557849884
+  [VECTOR3VALUE] Natrair.Pal Hair.Handle.OriginalSize (Vector3Value) = 1.7598299980163574, 1.324947714805603, 1.9481749534606934
+  [VECTOR3VALUE] Natrair.RightFoot.OriginalSize (Vector3Value) = 0.8142516613006592, 0.9450986385345459, 1.5078849792480469
+  [VECTOR3VALUE] Natrair.RightFoot.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = -0.017133116722106934, 0.062146902084350586, 0.31656205654144287
+  [VECTOR3VALUE] Natrair.RightFoot.RightFootAttachment.OriginalPosition (Vector3Value) = -0.015858173370361328, -0.3495056629180908, 0.3164881765842438
+  [VECTOR3VALUE] Natrair.RightHand.OriginalSize (Vector3Value) = 0.5247994661331177, 1.1031267642974854, 0.8661587238311768
+  [VECTOR3VALUE] Natrair.RightHand.RightGripAttachment.OriginalPosition (Vector3Value) = -0.10667276382446289, -0.09642648696899414, 0.09904583543539047
+  [VECTOR3VALUE] Natrair.RightHand.RightWristRigAttachment.OriginalPosition (Vector3Value) = 0.03125476837158203, 0.38323211669921875, 0.0990457758307457
+  [VECTOR3VALUE] Natrair.RightLowerArm.OriginalSize (Vector3Value) = 0.7400590181350708, 1.131974220275879, 0.8012220859527588
+  [VECTOR3VALUE] Natrair.RightLowerArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = -0.14223766326904297, 0.5070686340332031, 0.004429936408996582
+  [VECTOR3VALUE] Natrair.RightLowerArm.RightWristRigAttachment.OriginalPosition (Vector3Value) = 0.07163190841674805, -0.4164586067199707, -0.0406634584069252
+  [VECTOR3VALUE] Natrair.RightLowerLeg.OriginalSize (Vector3Value) = 0.5806221961975098, 1.3709622621536255, 0.8259754180908203
+  [VECTOR3VALUE] Natrair.RightLowerLeg.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = -0.010119915008544922, -0.7533068656921387, -0.0050236135721206665
+  [VECTOR3VALUE] Natrair.RightLowerLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = -0.011888742446899414, 0.5482934713363647, -0.1578628271818161
+  [VECTOR3VALUE] Natrair.RightUpperArm.OriginalSize (Vector3Value) = 0.8609024882316589, 1.9404220581054688, 1.486358642578125
+  [VECTOR3VALUE] Natrair.RightUpperArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = -0.036031126976013184, -0.6639919281005859, -0.04188120365142822
+  [VECTOR3VALUE] Natrair.RightUpperArm.RightShoulderAttachment.OriginalPosition (Vector3Value) = -0.035516977310180664, 0.6446876525878906, -0.1717943251132965
+  [VECTOR3VALUE] Natrair.RightUpperArm.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.3660464286804199, 0.1405782699584961, -0.1720019429922104
+  [VECTOR3VALUE] Natrair.RightUpperArm.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.3660464286804199, 0.1405782699584961, -0.1720019429922104
+  [VECTOR3VALUE] Natrair.RightUpperLeg.OriginalSize (Vector3Value) = 0.4320068359375, 1.370209813117981, 0.4837532043457031
+  [VECTOR3VALUE] Natrair.RightUpperLeg.RightHipRigAttachment.OriginalPosition (Vector3Value) = -0.08305245637893677, 0.5349457263946533, -0.03864099085330963
+  [VECTOR3VALUE] Natrair.RightUpperLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = 0.02344799041748047, -0.46983689069747925, -0.03864685818552971
+  [VECTOR3VALUE] Natrair.UpperTorso.BodyBackAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, -0.11314404010772705, 0.5164579153060913
+  [VECTOR3VALUE] Natrair.UpperTorso.BodyFrontAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, -0.16441524028778076, -0.5388632416725159
+  [VECTOR3VALUE] Natrair.UpperTorso.LeftCollarAttachment.OriginalPosition (Vector3Value) = -0.7579481601715088, 0.726007342338562, 0.04427890479564667
+  [VECTOR3VALUE] Natrair.UpperTorso.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.9114445447921753, 0.4742482900619507, 0.04427909851074219
+  [VECTOR3VALUE] Natrair.UpperTorso.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.9114445447921753, 0.4742482900619507, 0.04427909851074219
+  [VECTOR3VALUE] Natrair.UpperTorso.NeckAttachment.OriginalPosition (Vector3Value) = -5.058594965134944e-08, 0.8558889627456665, 0.04427905008196831
+  [VECTOR3VALUE] Natrair.UpperTorso.NeckRigAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, 0.8558889627456665, 0.04427909851074219
+  [VECTOR3VALUE] Natrair.UpperTorso.OriginalSize (Vector3Value) = 1.815415859222412, 1.7731729745864868, 1.110215663909912
+  [VECTOR3VALUE] Natrair.UpperTorso.RightCollarAttachment.OriginalPosition (Vector3Value) = 0.7579999566078186, 0.7260071039199829, 0.04427902400493622
+  [VECTOR3VALUE] Natrair.UpperTorso.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.9109999537467957, 0.47424817085266113, 0.04427909851074219
+  [VECTOR3VALUE] Natrair.UpperTorso.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.9109999537467957, 0.47424817085266113, 0.04427909851074219
+  [VECTOR3VALUE] Natrair.UpperTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, -0.7441138625144958, 0.04427909851074219
+  [VECTOR3VALUE] Natrair.VarietyShades02.Handle.FaceFrontAttachment.OriginalPosition (Vector3Value) = 3.9353835745714605e-09, -0.1399998664855957, -0.4502722918987274
+  [VECTOR3VALUE] Natrair.VarietyShades02.Handle.OriginalSize (Vector3Value) = 1.3280999660491943, 0.4484729766845703, 1.008039951324463
+  [VECTOR3VALUE] RightFoot.OriginalSize (Vector3Value) = 0.8142516613006592, 0.9450986385345459, 1.5078849792480469
+  [VECTOR3VALUE] RightFoot.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = -0.017133116722106934, 0.062146902084350586, 0.31656205654144287
+  [VECTOR3VALUE] RightFoot.RightFootAttachment.OriginalPosition (Vector3Value) = -0.015858173370361328, -0.3495056629180908, 0.3164881765842438
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Accessory (Emo Hair).Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.15017133951187134, 0.9772872924804688, 0.04508399963378906
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Accessory (Emo Hair).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Accessory (Emo Spiked Shades (High)).Handle.FaceCenterAttachment.OriginalPosition (Vector3Value) = 0, -0.23136138916015625, 0.251129150390625
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Accessory (Emo Spiked Shades (High)).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Accessory (Retro Earrings).Handle.HatAttachment.OriginalPosition (Vector3Value) = 8.064169603703167e-31, 0.9785839319229126, 0.02416890114545822
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Accessory (Retro Earrings).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Accessory (defaultAccessory).Handle.BodyFrontAttachment.OriginalPosition (Vector3Value) = -0.16152849793434143, 0.0981297492980957, -0.42169713973999023
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Accessory (defaultAccessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Accessory (ifsixwasnine hat 2).Handle.HatAttachment.OriginalPosition (Vector3Value) = -0.18554115295410156, -0.044001102447509766, 0.21396160125732422
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Accessory (ifsixwasnine hat 2).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Head.Mesh.FaceCenterAttachment (Vector3Value) = -0.0019408634398132563, -0.19623374938964844, -0.05832074582576752
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Head.Mesh.FaceFrontAttachment (Vector3Value) = -0.007718740496784449, -0.016089439392089844, -0.5796747207641602
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Head.Mesh.HairAttachment (Vector3Value) = -0.0018684046808630228, 0.5825080871582031, 0.014422707259654999
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Head.Mesh.HatAttachment (Vector3Value) = -0.0018684046808630228, 0.5825231075286865, 0.014422707259654999
+  [VECTOR3VALUE] SJSBAJAJSNSJS.Head.Mesh.NeckRigAttachment (Vector3Value) = -0.0012871623039245605, -0.5189608335494995, -0.010251514613628387
+  [VECTOR3VALUE] Workspace.10ve_2024.Accessory (defaultAccessory).Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.00032824277877807617, 0.3414278030395508, 0.04358482360839844
+  [VECTOR3VALUE] Workspace.10ve_2024.Accessory (defaultAccessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.10ve_2024.Head.Mesh.FaceCenterAttachment (Vector3Value) = -0.0019408634398132563, -0.19623374938964844, -0.05832074582576752
+  [VECTOR3VALUE] Workspace.10ve_2024.Head.Mesh.FaceFrontAttachment (Vector3Value) = -0.007718740496784449, -0.016089439392089844, -0.5796747207641602
+  [VECTOR3VALUE] Workspace.10ve_2024.Head.Mesh.HairAttachment (Vector3Value) = -0.0018684046808630228, 0.5825080871582031, 0.014422707259654999
+  [VECTOR3VALUE] Workspace.10ve_2024.Head.Mesh.HatAttachment (Vector3Value) = -0.0018684046808630228, 0.5825231075286865, 0.014422707259654999
+  [VECTOR3VALUE] Workspace.10ve_2024.Head.Mesh.NeckRigAttachment (Vector3Value) = -0.0012871623039245605, -0.5189608335494995, -0.010251514613628387
+  [VECTOR3VALUE] Workspace.Bulba_Trainer.Accessory (MeshPartAccessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Bulba_Trainer.Accessory (MeshPartAccessory).Handle.WaistCenterAttachment.OriginalPosition (Vector3Value) = 1.1456714868545532, 0.22356653213500977, 0.017493516206741333
+  [VECTOR3VALUE] Workspace.Bulba_Trainer.CowHeadBlackAccessory.Handle.HatAttachment.OriginalPosition (Vector3Value) = 0, 0.5688724517822266, 0.4033803939819336
+  [VECTOR3VALUE] Workspace.Bulba_Trainer.CowHeadBlackAccessory.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Bulba_Trainer.CowboyHat.Handle.HatAttachment.OriginalPosition (Vector3Value) = -0.00006103515625, 0.08627533912658691, -0.004791259765625
+  [VECTOR3VALUE] Workspace.Bulba_Trainer.CowboyHat.Handle.OriginalSize (Vector3Value) = 2, 0.800000011920929, 2
+  [VECTOR3VALUE] Workspace.Bulba_Trainer.Scarf.Handle.NeckAttachment.OriginalPosition (Vector3Value) = -0.03865242004394531, 0.44518232345581055, 0.055954933166503906
+  [VECTOR3VALUE] Workspace.Bulba_Trainer.Scarf.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.CaptainTohbee.Accessory (Popular Preppy Brat Bangs in ).Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.667540431022644, 0.8999179601669312, 2.980235080940474e-08
+  [VECTOR3VALUE] Workspace.CaptainTohbee.Accessory (Popular Preppy Brat Bangs in ).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.CaptainTohbee.Accessory (Propeller Hat Quirky Fun Propeller Cap Retro PopAccessory).Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.00006404639862012118, -0.12818574905395508, 0.261288046836853
+  [VECTOR3VALUE] Workspace.CaptainTohbee.Accessory (Propeller Hat Quirky Fun Propeller Cap Retro PopAccessory).Handle.OriginalSize (Vector3Value) = 1.4910000562667847, 1.1820000410079956, 2.128999948501587
+  [VECTOR3VALUE] Workspace.CaptainTohbee.Accessory (face blush1).Handle.FaceFrontAttachment.OriginalPosition (Vector3Value) = -0.0058135986328125, 0.1511669158935547, 0.013666152954101562
+  [VECTOR3VALUE] Workspace.CaptainTohbee.Accessory (face blush1).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.CaptainTohbee.Head.Mesh.FaceCenterAttachment (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.CaptainTohbee.Head.Mesh.FaceFrontAttachment (Vector3Value) = 0, -0, -0.6000000238418579
+  [VECTOR3VALUE] Workspace.CaptainTohbee.Head.Mesh.HairAttachment (Vector3Value) = 0, 0.6000000238418579, -0
+  [VECTOR3VALUE] Workspace.CaptainTohbee.Head.Mesh.HatAttachment (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Workspace.CaptainTohbee.Head.Mesh.NeckRigAttachment (Vector3Value) = 0, -0.5, 0
+  [VECTOR3VALUE] Workspace.CaptainTohbee.MeshPartAccessory.Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.0003304481506347656, 0.6695313453674316, -0.024927139282226562
+  [VECTOR3VALUE] Workspace.CaptainTohbee.MeshPartAccessory.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.CaptainTohbee.Side Part Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = -0.005814075469970703, 1.3592584133148193, -0.1573289930820465
+  [VECTOR3VALUE] Workspace.CaptainTohbee.Side Part Hair.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Natrair.BagAccessory.Handle.BodyBackAttachment.OriginalPosition (Vector3Value) = -2.980235080940474e-08, -0.2816253900527954, -0.36704733967781067
+  [VECTOR3VALUE] Workspace.Natrair.BagAccessory.Handle.OriginalSize (Vector3Value) = 1.0727226734161377, 1.29035222530365, 0.7459486722946167
+  [VECTOR3VALUE] Workspace.Natrair.HatAccessory.Handle.HatAttachment.OriginalPosition (Vector3Value) = -1.4770509437767032e-07, -0.23609519004821777, -0.048946645110845566
+  [VECTOR3VALUE] Workspace.Natrair.HatAccessory.Handle.OriginalSize (Vector3Value) = 1.1726213693618774, 1.7735004425048828, 1.740938663482666
+  [VECTOR3VALUE] Workspace.Natrair.Head.FaceCenterAttachment.OriginalPosition (Vector3Value) = -0, -0.09399999678134918, 0
+  [VECTOR3VALUE] Workspace.Natrair.Head.FaceFrontAttachment.OriginalPosition (Vector3Value) = -0, 0, -0.6000000238418579
+  [VECTOR3VALUE] Workspace.Natrair.Head.HairAttachment.OriginalPosition (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Workspace.Natrair.Head.HatAttachment.OriginalPosition (Vector3Value) = -0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Workspace.Natrair.Head.NeckRigAttachment.OriginalPosition (Vector3Value) = -0, -0.5860000252723694, 0
+  [VECTOR3VALUE] Workspace.Natrair.Head.OriginalSize (Vector3Value) = 1.196195125579834, 1.2029438018798828, 1.2002544403076172
+  [VECTOR3VALUE] Workspace.Natrair.HumanoidRootPart.OriginalSize (Vector3Value) = 2, 2, 1
+  [VECTOR3VALUE] Workspace.Natrair.HumanoidRootPart.RootAttachment.OriginalPosition (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.Natrair.HumanoidRootPart.RootRigAttachment.OriginalPosition (Vector3Value) = 0, -0.3499999940395355, 0
+  [VECTOR3VALUE] Workspace.Natrair.LNY_Ox.Handle.LeftCollarAttachment.OriginalPosition (Vector3Value) = 0.43796682357788086, -0.7210097312927246, 0.004788398742675781
+  [VECTOR3VALUE] Workspace.Natrair.LNY_Ox.Handle.OriginalSize (Vector3Value) = 1.1057488918304443, 1.6004551649093628, 1.9056462049484253
+  [VECTOR3VALUE] Workspace.Natrair.LeftFoot.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = 0.07662549614906311, 0.20009306073188782, 0.19408723711967468
+  [VECTOR3VALUE] Workspace.Natrair.LeftFoot.LeftFootAttachment.OriginalPosition (Vector3Value) = 0.07572230696678162, -0.2115880846977234, 0.01919453591108322
+  [VECTOR3VALUE] Workspace.Natrair.LeftFoot.OriginalSize (Vector3Value) = 0.5989164113998413, 0.46781855821609497, 1.3323423862457275
+  [VECTOR3VALUE] Workspace.Natrair.LeftHand.LeftGripAttachment.OriginalPosition (Vector3Value) = 0.023001670837402344, 0.025288105010986328, 0.06508942693471909
+  [VECTOR3VALUE] Workspace.Natrair.LeftHand.LeftWristRigAttachment.OriginalPosition (Vector3Value) = 0.02469468116760254, 0.3002880811691284, 0.06521724164485931
+  [VECTOR3VALUE] Workspace.Natrair.LeftHand.OriginalSize (Vector3Value) = 0.5036478042602539, 0.8137608766555786, 0.7883262634277344
+  [VECTOR3VALUE] Workspace.Natrair.LeftLowerArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = 0.05109626054763794, 0.3668304979801178, 0.09328597784042358
+  [VECTOR3VALUE] Workspace.Natrair.LeftLowerArm.LeftWristRigAttachment.OriginalPosition (Vector3Value) = -0.13219642639160156, -0.3386515974998474, -0.0667436271905899
+  [VECTOR3VALUE] Workspace.Natrair.LeftLowerArm.OriginalSize (Vector3Value) = 0.6778521537780762, 0.8608996868133545, 0.6935892105102539
+  [VECTOR3VALUE] Workspace.Natrair.LeftLowerLeg.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = 0.07153686881065369, -0.6835092306137085, -0.07439662516117096
+  [VECTOR3VALUE] Workspace.Natrair.LeftLowerLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = 0.07153686881065369, 0.8633301258087158, -0.13634370267391205
+  [VECTOR3VALUE] Workspace.Natrair.LeftLowerLeg.OriginalSize (Vector3Value) = 0.7700644731521606, 1.8451199531555176, 1.135436773300171
+  [VECTOR3VALUE] Workspace.Natrair.LeftUpperArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = -0.06703609228134155, -0.6018161773681641, 0.01918959617614746
+  [VECTOR3VALUE] Workspace.Natrair.LeftUpperArm.LeftShoulderAttachment.OriginalPosition (Vector3Value) = 0.25409817695617676, 0.7190878987312317, -0.06960457563400269
+  [VECTOR3VALUE] Workspace.Natrair.LeftUpperArm.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.21498769521713257, 0.5829139351844788, -0.06960462033748627
+  [VECTOR3VALUE] Workspace.Natrair.LeftUpperArm.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.21498769521713257, 0.5829139351844788, -0.06960462033748627
+  [VECTOR3VALUE] Workspace.Natrair.LeftUpperArm.OriginalSize (Vector3Value) = 0.7991876602172852, 1.3483716249465942, 0.6552938222885132
+  [VECTOR3VALUE] Workspace.Natrair.LeftUpperLeg.LeftHipRigAttachment.OriginalPosition (Vector3Value) = 0.06544408202171326, 0.5993022918701172, -0.17814721167087555
+  [VECTOR3VALUE] Workspace.Natrair.LeftUpperLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = 0.06544411182403564, -0.5702939033508301, -0.06521815061569214
+  [VECTOR3VALUE] Workspace.Natrair.LeftUpperLeg.OriginalSize (Vector3Value) = 0.6141785979270935, 1.6000521183013916, 0.891270101070404
+  [VECTOR3VALUE] Workspace.Natrair.LowerTorso.LeftHipRigAttachment.OriginalPosition (Vector3Value) = -0.5000000596046448, -0.2785429358482361, 0.09998255968093872
+  [VECTOR3VALUE] Workspace.Natrair.LowerTorso.OriginalSize (Vector3Value) = 1.696225881576538, 0.5661435127258301, 0.9524508714675903
+  [VECTOR3VALUE] Workspace.Natrair.LowerTorso.RightHipRigAttachment.OriginalPosition (Vector3Value) = 0.4999999403953552, -0.2785429358482361, 0.09996344149112701
+  [VECTOR3VALUE] Workspace.Natrair.LowerTorso.RootRigAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, -0.31484949588775635, 0.09998255968093872
+  [VECTOR3VALUE] Workspace.Natrair.LowerTorso.WaistBackAttachment.OriginalPosition (Vector3Value) = -8.680857632725747e-08, -0.28500038385391235, 0.4393026530742645
+  [VECTOR3VALUE] Workspace.Natrair.LowerTorso.WaistCenterAttachment.OriginalPosition (Vector3Value) = -3.623962356869015e-07, -0.31484949588775635, 0.09998255968093872
+  [VECTOR3VALUE] Workspace.Natrair.LowerTorso.WaistFrontAttachment.OriginalPosition (Vector3Value) = -7.261522227963724e-08, -0.28292158246040344, -0.4558377265930176
+  [VECTOR3VALUE] Workspace.Natrair.LowerTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, 0.0851476788520813, 0.09998255968093872
+  [VECTOR3VALUE] Workspace.Natrair.Pal Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.34999990463256836, 0.2497277557849884
+  [VECTOR3VALUE] Workspace.Natrair.Pal Hair.Handle.OriginalSize (Vector3Value) = 1.7598299980163574, 1.324947714805603, 1.9481749534606934
+  [VECTOR3VALUE] Workspace.Natrair.RightFoot.OriginalSize (Vector3Value) = 0.8142516613006592, 0.9450986385345459, 1.5078849792480469
+  [VECTOR3VALUE] Workspace.Natrair.RightFoot.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = -0.017133116722106934, 0.062146902084350586, 0.31656205654144287
+  [VECTOR3VALUE] Workspace.Natrair.RightFoot.RightFootAttachment.OriginalPosition (Vector3Value) = -0.015858173370361328, -0.3495056629180908, 0.3164881765842438
+  [VECTOR3VALUE] Workspace.Natrair.RightHand.OriginalSize (Vector3Value) = 0.5247994661331177, 1.1031267642974854, 0.8661587238311768
+  [VECTOR3VALUE] Workspace.Natrair.RightHand.RightGripAttachment.OriginalPosition (Vector3Value) = -0.10667276382446289, -0.09642648696899414, 0.09904583543539047
+  [VECTOR3VALUE] Workspace.Natrair.RightHand.RightWristRigAttachment.OriginalPosition (Vector3Value) = 0.03125476837158203, 0.38323211669921875, 0.0990457758307457
+  [VECTOR3VALUE] Workspace.Natrair.RightLowerArm.OriginalSize (Vector3Value) = 0.7400590181350708, 1.131974220275879, 0.8012220859527588
+  [VECTOR3VALUE] Workspace.Natrair.RightLowerArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = -0.14223766326904297, 0.5070686340332031, 0.004429936408996582
+  [VECTOR3VALUE] Workspace.Natrair.RightLowerArm.RightWristRigAttachment.OriginalPosition (Vector3Value) = 0.07163190841674805, -0.4164586067199707, -0.0406634584069252
+  [VECTOR3VALUE] Workspace.Natrair.RightLowerLeg.OriginalSize (Vector3Value) = 0.5806221961975098, 1.3709622621536255, 0.8259754180908203
+  [VECTOR3VALUE] Workspace.Natrair.RightLowerLeg.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = -0.010119915008544922, -0.7533068656921387, -0.0050236135721206665
+  [VECTOR3VALUE] Workspace.Natrair.RightLowerLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = -0.011888742446899414, 0.5482934713363647, -0.1578628271818161
+  [VECTOR3VALUE] Workspace.Natrair.RightUpperArm.OriginalSize (Vector3Value) = 0.8609024882316589, 1.9404220581054688, 1.486358642578125
+  [VECTOR3VALUE] Workspace.Natrair.RightUpperArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = -0.036031126976013184, -0.6639919281005859, -0.04188120365142822
+  [VECTOR3VALUE] Workspace.Natrair.RightUpperArm.RightShoulderAttachment.OriginalPosition (Vector3Value) = -0.035516977310180664, 0.6446876525878906, -0.1717943251132965
+  [VECTOR3VALUE] Workspace.Natrair.RightUpperArm.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.3660464286804199, 0.1405782699584961, -0.1720019429922104
+  [VECTOR3VALUE] Workspace.Natrair.RightUpperArm.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.3660464286804199, 0.1405782699584961, -0.1720019429922104
+  [VECTOR3VALUE] Workspace.Natrair.RightUpperLeg.OriginalSize (Vector3Value) = 0.4320068359375, 1.370209813117981, 0.4837532043457031
+  [VECTOR3VALUE] Workspace.Natrair.RightUpperLeg.RightHipRigAttachment.OriginalPosition (Vector3Value) = -0.08305245637893677, 0.5349457263946533, -0.03864099085330963
+  [VECTOR3VALUE] Workspace.Natrair.RightUpperLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = 0.02344799041748047, -0.46983689069747925, -0.03864685818552971
+  [VECTOR3VALUE] Workspace.Natrair.UpperTorso.BodyBackAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, -0.11314404010772705, 0.5164579153060913
+  [VECTOR3VALUE] Workspace.Natrair.UpperTorso.BodyFrontAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, -0.16441524028778076, -0.5388632416725159
+  [VECTOR3VALUE] Workspace.Natrair.UpperTorso.LeftCollarAttachment.OriginalPosition (Vector3Value) = -0.7579481601715088, 0.726007342338562, 0.04427890479564667
+  [VECTOR3VALUE] Workspace.Natrair.UpperTorso.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.9114445447921753, 0.4742482900619507, 0.04427909851074219
+  [VECTOR3VALUE] Workspace.Natrair.UpperTorso.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.9114445447921753, 0.4742482900619507, 0.04427909851074219
+  [VECTOR3VALUE] Workspace.Natrair.UpperTorso.NeckAttachment.OriginalPosition (Vector3Value) = -5.058594965134944e-08, 0.8558889627456665, 0.04427905008196831
+  [VECTOR3VALUE] Workspace.Natrair.UpperTorso.NeckRigAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, 0.8558889627456665, 0.04427909851074219
+  [VECTOR3VALUE] Workspace.Natrair.UpperTorso.OriginalSize (Vector3Value) = 1.815415859222412, 1.7731729745864868, 1.110215663909912
+  [VECTOR3VALUE] Workspace.Natrair.UpperTorso.RightCollarAttachment.OriginalPosition (Vector3Value) = 0.7579999566078186, 0.7260071039199829, 0.04427902400493622
+  [VECTOR3VALUE] Workspace.Natrair.UpperTorso.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.9109999537467957, 0.47424817085266113, 0.04427909851074219
+  [VECTOR3VALUE] Workspace.Natrair.UpperTorso.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.9109999537467957, 0.47424817085266113, 0.04427909851074219
+  [VECTOR3VALUE] Workspace.Natrair.UpperTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, -0.7441138625144958, 0.04427909851074219
+  [VECTOR3VALUE] Workspace.Natrair.VarietyShades02.Handle.FaceFrontAttachment.OriginalPosition (Vector3Value) = 3.9353835745714605e-09, -0.1399998664855957, -0.4502722918987274
+  [VECTOR3VALUE] Workspace.Natrair.VarietyShades02.Handle.OriginalSize (Vector3Value) = 1.3280999660491943, 0.4484729766845703, 1.008039951324463
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Accessory (Emo Hair).Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.15017133951187134, 0.9772872924804688, 0.04508399963378906
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Accessory (Emo Hair).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Accessory (Emo Spiked Shades (High)).Handle.FaceCenterAttachment.OriginalPosition (Vector3Value) = 0, -0.23136138916015625, 0.251129150390625
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Accessory (Emo Spiked Shades (High)).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Accessory (Retro Earrings).Handle.HatAttachment.OriginalPosition (Vector3Value) = 8.064169603703167e-31, 0.9785839319229126, 0.02416890114545822
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Accessory (Retro Earrings).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Accessory (defaultAccessory).Handle.BodyFrontAttachment.OriginalPosition (Vector3Value) = -0.16152849793434143, 0.0981297492980957, -0.42169713973999023
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Accessory (defaultAccessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Accessory (ifsixwasnine hat 2).Handle.HatAttachment.OriginalPosition (Vector3Value) = -0.18554115295410156, -0.044001102447509766, 0.21396160125732422
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Accessory (ifsixwasnine hat 2).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Head.Mesh.FaceCenterAttachment (Vector3Value) = -0.0019408634398132563, -0.19623374938964844, -0.05832074582576752
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Head.Mesh.FaceFrontAttachment (Vector3Value) = -0.007718740496784449, -0.016089439392089844, -0.5796747207641602
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Head.Mesh.HairAttachment (Vector3Value) = -0.0018684046808630228, 0.5825080871582031, 0.014422707259654999
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Head.Mesh.HatAttachment (Vector3Value) = -0.0018684046808630228, 0.5825231075286865, 0.014422707259654999
+  [VECTOR3VALUE] Workspace.SJSBAJAJSNSJS.Head.Mesh.NeckRigAttachment (Vector3Value) = -0.0012871623039245605, -0.5189608335494995, -0.010251514613628387
+  [VECTOR3VALUE] Workspace.huntzrx13.Head.FaceCenterAttachment.OriginalPosition (Vector3Value) = 0, -0.09399999678134918, 0
+  [VECTOR3VALUE] Workspace.huntzrx13.Head.FaceFrontAttachment.OriginalPosition (Vector3Value) = 0, 0, -0.6000000238418579
+  [VECTOR3VALUE] Workspace.huntzrx13.Head.HairAttachment.OriginalPosition (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Workspace.huntzrx13.Head.HatAttachment.OriginalPosition (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Workspace.huntzrx13.Head.NeckRigAttachment.OriginalPosition (Vector3Value) = 0, -0.5860000252723694, 0
+  [VECTOR3VALUE] Workspace.huntzrx13.Head.OriginalSize (Vector3Value) = 1.196195125579834, 1.2029438018798828, 1.1979091167449951
+  [VECTOR3VALUE] Workspace.huntzrx13.HumanoidRootPart.OriginalSize (Vector3Value) = 2, 2, 1
+  [VECTOR3VALUE] Workspace.huntzrx13.HumanoidRootPart.RootAttachment.OriginalPosition (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.huntzrx13.HumanoidRootPart.RootRigAttachment.OriginalPosition (Vector3Value) = 0, -0.3499999940395355, 0
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftFoot.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = -1.7881393432617188e-07, 0.10193967819213867, -0.0000017222776023118058
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftFoot.LeftFootAttachment.OriginalPosition (Vector3Value) = 0.01827743649482727, -0.15346026420593262, -0.05026386305689812
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftFoot.OriginalSize (Vector3Value) = 1, 0.2999992370605469, 1
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftHand.LeftGripAttachment.OriginalPosition (Vector3Value) = -0.017243266105651855, -0.10826203227043152, 0.3052818477153778
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftHand.LeftWristRigAttachment.OriginalPosition (Vector3Value) = 0.10851740837097168, 0.16673845052719116, 0.10116218030452728
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftHand.OriginalSize (Vector3Value) = 0.5459886789321899, 0.5900802612304688, 0.5340443849563599
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftLowerArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = 0.1874169111251831, 0.35872983932495117, 0.07255399972200394
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftLowerArm.LeftWristRigAttachment.OriginalPosition (Vector3Value) = -0.17444288730621338, -0.400886595249176, -0.19795984029769897
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftLowerArm.OriginalSize (Vector3Value) = 0.6623244881629944, 0.902477502822876, 0.58896803855896
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftLowerLeg.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = -1.1920928955078125e-07, -0.5471571683883667, -0.0000022140159217087785
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftLowerLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = 2.9802322387695312e-08, 0.3790184259414673, -1.6086059417830256e-07
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftLowerLeg.OriginalSize (Vector3Value) = 1, 1.1930999755859375, 1
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftUpperArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = -0.16012799739837646, -0.2257084846496582, 0.06763850897550583
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftUpperArm.LeftShoulderAttachment.OriginalPosition (Vector3Value) = -0.022783637046813965, 0.38261234760284424, 0.0012445476604625583
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftUpperArm.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.23900741338729858, 0.32901251316070557, 0.0012445449829101562
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftUpperArm.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.23900741338729858, 0.32901251316070557, 0.0012445449829101562
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftUpperArm.OriginalSize (Vector3Value) = 0.748931884765625, 0.8883051872253418, 0.5844168066978455
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftUpperLeg.LeftHipRigAttachment.OriginalPosition (Vector3Value) = 5.960464477539063e-08, 0.4207821488380432, -1.6391277313232422e-07
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftUpperLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = 8.940696716308594e-08, -0.40110236406326294, -4.290814956675604e-07
+  [VECTOR3VALUE] Workspace.huntzrx13.LeftUpperLeg.OriginalSize (Vector3Value) = 1, 1.2166004180908203, 0.9998989105224609
+  [VECTOR3VALUE] Workspace.huntzrx13.LowerTorso.LeftHipRigAttachment.OriginalPosition (Vector3Value) = -0.5000001192092896, -0.1999722570180893, -0
+  [VECTOR3VALUE] Workspace.huntzrx13.LowerTorso.OriginalSize (Vector3Value) = 2, 0.4001007080078125, 1
+  [VECTOR3VALUE] Workspace.huntzrx13.LowerTorso.RightHipRigAttachment.OriginalPosition (Vector3Value) = 0.49999988079071045, -0.1999722570180893, -0.00001912085645017214
+  [VECTOR3VALUE] Workspace.huntzrx13.LowerTorso.RootRigAttachment.OriginalPosition (Vector3Value) = -1.1920928955078125e-07, -0.1999722570180893, -0
+  [VECTOR3VALUE] Workspace.huntzrx13.LowerTorso.WaistBackAttachment.OriginalPosition (Vector3Value) = -1.4641321399722074e-07, -0.1999722570180893, 0.5000000596046448
+  [VECTOR3VALUE] Workspace.huntzrx13.LowerTorso.WaistCenterAttachment.OriginalPosition (Vector3Value) = -4.220008804622921e-07, -0.1999722570180893, -1.6543612251060553e-24
+  [VECTOR3VALUE] Workspace.huntzrx13.LowerTorso.WaistFrontAttachment.OriginalPosition (Vector3Value) = -1.3221986705502786e-07, -0.1999722570180893, -0.5000000596046448
+  [VECTOR3VALUE] Workspace.huntzrx13.LowerTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = -1.1920928955078125e-07, 0.20002491772174835, 7.644625506630354e-20
+  [VECTOR3VALUE] Workspace.huntzrx13.RightFoot.OriginalSize (Vector3Value) = 1, 0.2999992370605469, 1
+  [VECTOR3VALUE] Workspace.huntzrx13.RightFoot.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = -0, 0.10193955898284912, 0.00007644779543625191
+  [VECTOR3VALUE] Workspace.huntzrx13.RightFoot.RightFootAttachment.OriginalPosition (Vector3Value) = -0.01827743649482727, -0.15346026420593262, -0.05026386305689812
+  [VECTOR3VALUE] Workspace.huntzrx13.RightHand.OriginalSize (Vector3Value) = 0.5459872484207153, 0.5900802612304688, 0.5340436697006226
+  [VECTOR3VALUE] Workspace.huntzrx13.RightHand.RightGripAttachment.OriginalPosition (Vector3Value) = 0.017242908477783203, -0.10826203227043152, 0.30528149008750916
+  [VECTOR3VALUE] Workspace.huntzrx13.RightHand.RightWristRigAttachment.OriginalPosition (Vector3Value) = -0.09009897708892822, 0.16673845052719116, 0.10116194188594818
+  [VECTOR3VALUE] Workspace.huntzrx13.RightLowerArm.OriginalSize (Vector3Value) = 0.6623249650001526, 0.902477502822876, 0.588965892791748
+  [VECTOR3VALUE] Workspace.huntzrx13.RightLowerArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = -0.1874176263809204, 0.35862112045288086, 0.07255396991968155
+  [VECTOR3VALUE] Workspace.huntzrx13.RightLowerArm.RightWristRigAttachment.OriginalPosition (Vector3Value) = 0.19286012649536133, -0.400886595249176, -0.1979597508907318
+  [VECTOR3VALUE] Workspace.huntzrx13.RightLowerLeg.OriginalSize (Vector3Value) = 1, 1.1930999755859375, 1
+  [VECTOR3VALUE] Workspace.huntzrx13.RightLowerLeg.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = -0, -0.5471571683883667, 0.00007626898150192574
+  [VECTOR3VALUE] Workspace.huntzrx13.RightLowerLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = -0, 0.37917429208755493, 0.000025553606974426657
+  [VECTOR3VALUE] Workspace.huntzrx13.RightUpperArm.OriginalSize (Vector3Value) = 0.7489327192306519, 0.8883051872253418, 0.5844188332557678
+  [VECTOR3VALUE] Workspace.huntzrx13.RightUpperArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = 0.160128653049469, -0.22581720352172852, 0.06763898581266403
+  [VECTOR3VALUE] Workspace.huntzrx13.RightUpperArm.RightShoulderAttachment.OriginalPosition (Vector3Value) = 0.022784054279327393, 0.38261234760284424, 0.0012450244976207614
+  [VECTOR3VALUE] Workspace.huntzrx13.RightUpperArm.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.23900675773620605, 0.32901251316070557, 0.001245260238647461
+  [VECTOR3VALUE] Workspace.huntzrx13.RightUpperArm.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.23900675773620605, 0.32901251316070557, 0.001245260238647461
+  [VECTOR3VALUE] Workspace.huntzrx13.RightUpperLeg.OriginalSize (Vector3Value) = 1, 1.2166004180908203, 0.9998989105224609
+  [VECTOR3VALUE] Workspace.huntzrx13.RightUpperLeg.RightHipRigAttachment.OriginalPosition (Vector3Value) = -0, 0.42078226804733276, -0.0000667300628265366
+  [VECTOR3VALUE] Workspace.huntzrx13.RightUpperLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = -0, -0.4009464979171753, -0.000021876789105590433
+  [VECTOR3VALUE] Workspace.huntzrx13.UpperTorso.BodyBackAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, -0.19998568296432495, 0.5
+  [VECTOR3VALUE] Workspace.huntzrx13.UpperTorso.BodyFrontAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, -0.19998568296432495, -0.49999988079071045
+  [VECTOR3VALUE] Workspace.huntzrx13.UpperTorso.LeftCollarAttachment.OriginalPosition (Vector3Value) = -0.9999998807907104, 0.8000169992446899, -7.273973778865184e-08
+  [VECTOR3VALUE] Workspace.huntzrx13.UpperTorso.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -1, 0.5630171298980713, 1.1920928955078125e-07
+  [VECTOR3VALUE] Workspace.huntzrx13.UpperTorso.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = -1, 0.5630171298980713, 1.1920928955078125e-07
+  [VECTOR3VALUE] Workspace.huntzrx13.UpperTorso.NeckAttachment.OriginalPosition (Vector3Value) = -5.058594965134944e-08, 0.8000171184539795, 7.111724187325308e-08
+  [VECTOR3VALUE] Workspace.huntzrx13.UpperTorso.NeckRigAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, 0.8000171184539795, 1.1920928955078125e-07
+  [VECTOR3VALUE] Workspace.huntzrx13.UpperTorso.OriginalSize (Vector3Value) = 2, 1.6000003814697266, 1
+  [VECTOR3VALUE] Workspace.huntzrx13.UpperTorso.RightCollarAttachment.OriginalPosition (Vector3Value) = 0.9999999403953552, 0.8000167608261108, 4.612959969563235e-08
+  [VECTOR3VALUE] Workspace.huntzrx13.UpperTorso.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.9999999403953552, 0.5630171298980713, 1.1920928955078125e-07
+  [VECTOR3VALUE] Workspace.huntzrx13.UpperTorso.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.9999999403953552, 0.5630171298980713, 1.1920928955078125e-07
+  [VECTOR3VALUE] Workspace.huntzrx13.UpperTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = -5.960464477539063e-08, -0.7999857068061829, 1.1920928955078125e-07
+  [VECTOR3VALUE] Workspace.mimi_conejito.HairAccessory.Handle.HairAttachment.OriginalPosition (Vector3Value) = -0.0011501610279083252, 0.3825382888317108, 0.008183419704437256
+  [VECTOR3VALUE] Workspace.mimi_conejito.HairAccessory.Handle.OriginalSize (Vector3Value) = 0.8657000064849854, 1.0012999773025513, 0.9333000183105469
+  [VECTOR3VALUE] Workspace.mimi_conejito.Head.FaceCenterAttachment.OriginalPosition (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.mimi_conejito.Head.FaceFrontAttachment.OriginalPosition (Vector3Value) = 3.9356886638586275e-09, 0, -0.6002722978591919
+  [VECTOR3VALUE] Workspace.mimi_conejito.Head.HairAttachment.OriginalPosition (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Workspace.mimi_conejito.Head.HatAttachment.OriginalPosition (Vector3Value) = 0, 0.6000000238418579, 0
+  [VECTOR3VALUE] Workspace.mimi_conejito.Head.NeckRigAttachment.OriginalPosition (Vector3Value) = 0, -0.5, 0
+  [VECTOR3VALUE] Workspace.mimi_conejito.Head.OriginalSize (Vector3Value) = 1.197849988937378, 1.2000004053115845, 1.197849988937378
+  [VECTOR3VALUE] Workspace.mimi_conejito.HumanoidRootPart.OriginalSize (Vector3Value) = 2, 2, 1
+  [VECTOR3VALUE] Workspace.mimi_conejito.HumanoidRootPart.RootAttachment.OriginalPosition (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.mimi_conejito.HumanoidRootPart.RootRigAttachment.OriginalPosition (Vector3Value) = 0, -0.3499999940395355, 0
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftFoot.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = -1.7881393432617188e-07, 0.10193967819213867, -0.0000017222776023118058
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftFoot.LeftFootAttachment.OriginalPosition (Vector3Value) = 0.01827743649482727, -0.15346026420593262, -0.05026386305689812
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftFoot.OriginalSize (Vector3Value) = 1, 0.2999992370605469, 1
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftHand.LeftGripAttachment.OriginalPosition (Vector3Value) = -0.017243266105651855, -0.10826203227043152, 0.3052818477153778
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftHand.LeftWristRigAttachment.OriginalPosition (Vector3Value) = 0.10851740837097168, 0.16673845052719116, 0.10116218030452728
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftHand.OriginalSize (Vector3Value) = 0.5459886789321899, 0.5900802612304688, 0.5340443849563599
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftLowerArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = 0.1874169111251831, 0.35872983932495117, 0.07255399972200394
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftLowerArm.LeftWristRigAttachment.OriginalPosition (Vector3Value) = -0.17444288730621338, -0.400886595249176, -0.19795984029769897
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftLowerArm.OriginalSize (Vector3Value) = 0.6623244881629944, 0.902477502822876, 0.58896803855896
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftLowerLeg.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = -1.1920928955078125e-07, -0.5471571683883667, -0.0000022140159217087785
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftLowerLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = 2.9802322387695312e-08, 0.3790184259414673, -1.6086059417830256e-07
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftLowerLeg.OriginalSize (Vector3Value) = 1, 1.1930999755859375, 1
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftUpperArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = -0.16012799739837646, -0.2257084846496582, 0.06763850897550583
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftUpperArm.LeftShoulderAttachment.OriginalPosition (Vector3Value) = -0.022783637046813965, 0.38261234760284424, 0.0012445476604625583
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftUpperArm.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.23900741338729858, 0.32901251316070557, 0.0012445449829101562
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftUpperArm.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.23900741338729858, 0.32901251316070557, 0.0012445449829101562
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftUpperArm.OriginalSize (Vector3Value) = 0.748931884765625, 0.8883051872253418, 0.5844168066978455
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftUpperLeg.LeftHipRigAttachment.OriginalPosition (Vector3Value) = 5.960464477539063e-08, 0.4207821488380432, -1.6391277313232422e-07
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftUpperLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = 8.940696716308594e-08, -0.40110236406326294, -4.290814956675604e-07
+  [VECTOR3VALUE] Workspace.mimi_conejito.LeftUpperLeg.OriginalSize (Vector3Value) = 1, 1.2166004180908203, 0.9998989105224609
+  [VECTOR3VALUE] Workspace.mimi_conejito.LowerTorso.LeftHipRigAttachment.OriginalPosition (Vector3Value) = -0.34928277134895325, -0.20803594589233398, 0.024211153388023376
+  [VECTOR3VALUE] Workspace.mimi_conejito.LowerTorso.OriginalSize (Vector3Value) = 1.3261278867721558, 0.40751218795776367, 0.7185211181640625
+  [VECTOR3VALUE] Workspace.mimi_conejito.LowerTorso.RightHipRigAttachment.OriginalPosition (Vector3Value) = 0.34928110241889954, -0.20803594589233398, 0.02419203333556652
+  [VECTOR3VALUE] Workspace.mimi_conejito.LowerTorso.RootRigAttachment.OriginalPosition (Vector3Value) = -8.940696716308594e-07, -0.4598745107650757, 0.024211987853050232
+  [VECTOR3VALUE] Workspace.mimi_conejito.LowerTorso.WaistBackAttachment.OriginalPosition (Vector3Value) = -9.212736244990083e-07, -0.11519673466682434, 0.3513157367706299
+  [VECTOR3VALUE] Workspace.mimi_conejito.LowerTorso.WaistCenterAttachment.OriginalPosition (Vector3Value) = -0.0000011968612625423702, -0.15530139207839966, -0.013556942343711853
+  [VECTOR3VALUE] Workspace.mimi_conejito.LowerTorso.WaistFrontAttachment.OriginalPosition (Vector3Value) = -9.070802207133966e-07, -0.21042238175868988, -0.3537815809249878
+  [VECTOR3VALUE] Workspace.mimi_conejito.LowerTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = -8.940696716308594e-07, 0.10278987884521484, -0.05399402230978012
+  [VECTOR3VALUE] Workspace.mimi_conejito.NerdGlasses.Handle.FaceFrontAttachment.OriginalPosition (Vector3Value) = 3.9362930692732334e-09, -0.19999980926513672, -0.40027230978012085
+  [VECTOR3VALUE] Workspace.mimi_conejito.NerdGlasses.Handle.OriginalSize (Vector3Value) = 1.3020100593566895, 0.38763272762298584, 0.9429200291633606
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightFoot.OriginalSize (Vector3Value) = 1, 0.2999992370605469, 1
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightFoot.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = -0, 0.10193955898284912, 0.00007644779543625191
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightFoot.RightFootAttachment.OriginalPosition (Vector3Value) = -0.01827743649482727, -0.15346026420593262, -0.05026386305689812
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightHand.OriginalSize (Vector3Value) = 0.5459872484207153, 0.5900802612304688, 0.5340436697006226
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightHand.RightGripAttachment.OriginalPosition (Vector3Value) = 0.017242908477783203, -0.10826203227043152, 0.30528149008750916
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightHand.RightWristRigAttachment.OriginalPosition (Vector3Value) = -0.09009897708892822, 0.16673845052719116, 0.10116194188594818
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightLowerArm.OriginalSize (Vector3Value) = 0.6623249650001526, 0.902477502822876, 0.588965892791748
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightLowerArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = -0.1874176263809204, 0.35862112045288086, 0.07255396991968155
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightLowerArm.RightWristRigAttachment.OriginalPosition (Vector3Value) = 0.19286012649536133, -0.400886595249176, -0.1979597508907318
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightLowerLeg.OriginalSize (Vector3Value) = 1, 1.1930999755859375, 1
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightLowerLeg.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = -0, -0.5471571683883667, 0.00007626898150192574
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightLowerLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = -0, 0.37917429208755493, 0.000025553606974426657
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightUpperArm.OriginalSize (Vector3Value) = 0.7489327192306519, 0.8883051872253418, 0.5844188332557678
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightUpperArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = 0.160128653049469, -0.22581720352172852, 0.06763898581266403
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightUpperArm.RightShoulderAttachment.OriginalPosition (Vector3Value) = 0.022784054279327393, 0.38261234760284424, 0.0012450244976207614
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightUpperArm.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.23900675773620605, 0.32901251316070557, 0.001245260238647461
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightUpperArm.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.23900675773620605, 0.32901251316070557, 0.001245260238647461
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightUpperLeg.OriginalSize (Vector3Value) = 1, 1.2166004180908203, 0.9998989105224609
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightUpperLeg.RightHipRigAttachment.OriginalPosition (Vector3Value) = -0, 0.42078226804733276, -0.0000667300628265366
+  [VECTOR3VALUE] Workspace.mimi_conejito.RightUpperLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = -0, -0.4009464979171753, -0.000021876789105590433
+  [VECTOR3VALUE] Workspace.mimi_conejito.UpperTorso.BodyBackAttachment.OriginalPosition (Vector3Value) = 3.8743019104003906e-07, -0.2543559670448303, 0.36990952491760254
+  [VECTOR3VALUE] Workspace.mimi_conejito.UpperTorso.BodyFrontAttachment.OriginalPosition (Vector3Value) = 3.8743019104003906e-07, -0.2543559670448303, -0.3292517066001892
+  [VECTOR3VALUE] Workspace.mimi_conejito.UpperTorso.LeftCollarAttachment.OriginalPosition (Vector3Value) = -0.6132445335388184, 0.5760033130645752, 0.07531215250492096
+  [VECTOR3VALUE] Workspace.mimi_conejito.UpperTorso.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.6132445335388184, 0.33498454093933105, 0.07531234622001648
+  [VECTOR3VALUE] Workspace.mimi_conejito.UpperTorso.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.6132445335388184, 0.33498454093933105, 0.07531234622001648
+  [VECTOR3VALUE] Workspace.mimi_conejito.UpperTorso.NeckAttachment.OriginalPosition (Vector3Value) = 3.9644888261136657e-07, 0.7456467151641846, 0.0753123015165329
+  [VECTOR3VALUE] Workspace.mimi_conejito.UpperTorso.NeckRigAttachment.OriginalPosition (Vector3Value) = 3.8743019104003906e-07, 0.7456467151641846, 0.07531234622001648
+  [VECTOR3VALUE] Workspace.mimi_conejito.UpperTorso.OriginalSize (Vector3Value) = 1.3034231662750244, 1.6987203359603882, 0.8420480489730835
+  [VECTOR3VALUE] Workspace.mimi_conejito.UpperTorso.RightCollarAttachment.OriginalPosition (Vector3Value) = 0.6132453680038452, 0.5760030746459961, 0.07531227171421051
+  [VECTOR3VALUE] Workspace.mimi_conejito.UpperTorso.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.6132453680038452, 0.33498454093933105, 0.07531234622001648
+  [VECTOR3VALUE] Workspace.mimi_conejito.UpperTorso.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.6132453680038452, 0.33498454093933105, 0.07531234622001648
+  [VECTOR3VALUE] Workspace.mimi_conejito.UpperTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = 3.8743019104003906e-07, -0.6916893720626831, -0.0028930678963661194
+  [VECTOR3VALUE] Workspace.noob64ha.BIPICap.Handle.HatAttachment.OriginalPosition (Vector3Value) = 8.658389560878277e-09, 0, 0.20972774922847748
+  [VECTOR3VALUE] Workspace.noob64ha.BIPICap.Handle.OriginalSize (Vector3Value) = 1.2995548248291016, 0.7006176114082336, 1.7161705493927002
+  [VECTOR3VALUE] Workspace.noob64ha.Head.FaceCenterAttachment.OriginalPosition (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.noob64ha.Head.FaceFrontAttachment.OriginalPosition (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5944212675094604
+  [VECTOR3VALUE] Workspace.noob64ha.Head.HairAttachment.OriginalPosition (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.noob64ha.Head.HatAttachment.OriginalPosition (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.noob64ha.Head.NeckRigAttachment.OriginalPosition (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.noob64ha.Head.OriginalSize (Vector3Value) = 1.1978399753570557, 1.2024002075195312, 1.2109417915344238
+  [VECTOR3VALUE] Workspace.noob64ha.HumanoidRootPart.OriginalSize (Vector3Value) = 2, 2, 1
+  [VECTOR3VALUE] Workspace.noob64ha.HumanoidRootPart.RootAttachment.OriginalPosition (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.noob64ha.HumanoidRootPart.RootRigAttachment.OriginalPosition (Vector3Value) = 0, -0.3499999940395355, 0
+  [VECTOR3VALUE] Workspace.noob64ha.LeftFoot.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = -0.07992887496948242, 0.06116676330566406, 0.18442071974277496
+  [VECTOR3VALUE] Workspace.noob64ha.LeftFoot.LeftFootAttachment.OriginalPosition (Vector3Value) = -0.07992866635322571, -0.41202735900878906, 0.1844228357076645
+  [VECTOR3VALUE] Workspace.noob64ha.LeftFoot.OriginalSize (Vector3Value) = 0.7213894128799438, 0.8200517892837524, 1.2430022954940796
+  [VECTOR3VALUE] Workspace.noob64ha.LeftHand.LeftGripAttachment.OriginalPosition (Vector3Value) = 0.04355752468109131, -0.0413995236158371, -0.04754495620727539
+  [VECTOR3VALUE] Workspace.noob64ha.LeftHand.LeftWristRigAttachment.OriginalPosition (Vector3Value) = 0.04403650760650635, 0.23360039293766022, 0.1241263747215271
+  [VECTOR3VALUE] Workspace.noob64ha.LeftHand.OriginalSize (Vector3Value) = 0.7531499862670898, 0.8905297517776489, 0.7729460000991821
+  [VECTOR3VALUE] Workspace.noob64ha.LeftLowerArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = 0.1392000913619995, 0.2954180836677551, 0.0008617639541625977
+  [VECTOR3VALUE] Workspace.noob64ha.LeftLowerArm.LeftWristRigAttachment.OriginalPosition (Vector3Value) = -0.06857585906982422, -0.4504777789115906, -0.20414161682128906
+  [VECTOR3VALUE] Workspace.noob64ha.LeftLowerArm.OriginalSize (Vector3Value) = 0.811855137348175, 1.1605454683303833, 0.9022700786590576
+  [VECTOR3VALUE] Workspace.noob64ha.LeftLowerLeg.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = -0.07992950081825256, -0.2849348783493042, -0.010282551869750023
+  [VECTOR3VALUE] Workspace.noob64ha.LeftLowerLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = -0.07992950081825256, 0.28339242935180664, -0.01027975045144558
+  [VECTOR3VALUE] Workspace.noob64ha.LeftLowerLeg.OriginalSize (Vector3Value) = 0.7213889956474304, 1.2634096145629883, 0.8535963296890259
+  [VECTOR3VALUE] Workspace.noob64ha.LeftUpperArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = -0.10682964324951172, -0.2390967607498169, -0.0746387243270874
+  [VECTOR3VALUE] Workspace.noob64ha.LeftUpperArm.LeftShoulderAttachment.OriginalPosition (Vector3Value) = 0.18421971797943115, 0.5096219778060913, -0.07463884353637695
+  [VECTOR3VALUE] Workspace.noob64ha.LeftUpperArm.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.23164671659469604, 0.33869481086730957, -0.0746387243270874
+  [VECTOR3VALUE] Workspace.noob64ha.LeftUpperArm.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.23164671659469604, 0.33869481086730957, -0.0746387243270874
+  [VECTOR3VALUE] Workspace.noob64ha.LeftUpperArm.OriginalSize (Vector3Value) = 0.9424356818199158, 1.2126445770263672, 0.7589428424835205
+  [VECTOR3VALUE] Workspace.noob64ha.LeftUpperLeg.LeftHipRigAttachment.OriginalPosition (Vector3Value) = -0.10961800813674927, 0.4356406331062317, -0.010279178619384766
+  [VECTOR3VALUE] Workspace.noob64ha.LeftUpperLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = -0.10961800813674927, -0.5228431820869446, -0.010279333218932152
+  [VECTOR3VALUE] Workspace.noob64ha.LeftUpperLeg.OriginalSize (Vector3Value) = 0.7807660102844238, 1.7423170804977417, 0.8535981178283691
+  [VECTOR3VALUE] Workspace.noob64ha.LowerTorso.LeftHipRigAttachment.OriginalPosition (Vector3Value) = -0.5, -0.32817357778549194, -0.020128488540649414
+  [VECTOR3VALUE] Workspace.noob64ha.LowerTorso.OriginalSize (Vector3Value) = 1.6722400188446045, 0.6320915222167969, 1.0374350547790527
+  [VECTOR3VALUE] Workspace.noob64ha.LowerTorso.RightHipRigAttachment.OriginalPosition (Vector3Value) = 0.5, -0.32817357778549194, -0.02014760859310627
+  [VECTOR3VALUE] Workspace.noob64ha.LowerTorso.RootRigAttachment.OriginalPosition (Vector3Value) = 0, -0.32817357778549194, -0.020128488540649414
+  [VECTOR3VALUE] Workspace.noob64ha.LowerTorso.WaistBackAttachment.OriginalPosition (Vector3Value) = -2.7203931551866845e-08, -0.32817357778549194, 0.47987157106399536
+  [VECTOR3VALUE] Workspace.noob64ha.LowerTorso.WaistCenterAttachment.OriginalPosition (Vector3Value) = -3.0279159091151087e-07, -0.32817357778549194, -0.020128488540649414
+  [VECTOR3VALUE] Workspace.noob64ha.LowerTorso.WaistFrontAttachment.OriginalPosition (Vector3Value) = -1.3010576616068192e-08, -0.32817357778549194, -0.5201285481452942
+  [VECTOR3VALUE] Workspace.noob64ha.LowerTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = 4.898552668754944e-17, 0.0718235969543457, -0.020128488540649414
+  [VECTOR3VALUE] Workspace.noob64ha.Pal Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.34999990463256836, 0.2497277557849884
+  [VECTOR3VALUE] Workspace.noob64ha.Pal Hair.Handle.OriginalSize (Vector3Value) = 1.7598299980163574, 1.324947714805603, 1.9481749534606934
+  [VECTOR3VALUE] Workspace.noob64ha.RightFoot.OriginalSize (Vector3Value) = 0.7213894724845886, 0.8200726509094238, 1.2430260181427002
+  [VECTOR3VALUE] Workspace.noob64ha.RightFoot.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = 0.07992884516716003, 0.061177849769592285, 0.18451127409934998
+  [VECTOR3VALUE] Workspace.noob64ha.RightFoot.RightFootAttachment.OriginalPosition (Vector3Value) = 0.07992878556251526, -0.4120161533355713, 0.18440909683704376
+  [VECTOR3VALUE] Workspace.noob64ha.RightHand.OriginalSize (Vector3Value) = 0.7531499862670898, 0.8905297517776489, 0.7729461193084717
+  [VECTOR3VALUE] Workspace.noob64ha.RightHand.RightGripAttachment.OriginalPosition (Vector3Value) = -0.04431509971618652, -0.04171210527420044, -0.04754513502120972
+  [VECTOR3VALUE] Workspace.noob64ha.RightHand.RightWristRigAttachment.OriginalPosition (Vector3Value) = -0.04431486129760742, 0.23328781127929688, 0.12412619590759277
+  [VECTOR3VALUE] Workspace.noob64ha.RightLowerArm.OriginalSize (Vector3Value) = 0.8118550777435303, 1.1605454683303833, 0.9022700786590576
+  [VECTOR3VALUE] Workspace.noob64ha.RightLowerArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = -0.1397026777267456, 0.29520970582962036, 0.0008615255355834961
+  [VECTOR3VALUE] Workspace.noob64ha.RightLowerArm.RightWristRigAttachment.OriginalPosition (Vector3Value) = 0.0682973861694336, -0.45079028606414795, -0.20414185523986816
+  [VECTOR3VALUE] Workspace.noob64ha.RightLowerLeg.OriginalSize (Vector3Value) = 0.7213890552520752, 1.2634086608886719, 0.8536258935928345
+  [VECTOR3VALUE] Workspace.noob64ha.RightLowerLeg.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = 0.07992953062057495, -0.2849346399307251, -0.010219660587608814
+  [VECTOR3VALUE] Workspace.noob64ha.RightLowerLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = 0.07992947101593018, 0.2835242748260498, -0.010231594555079937
+  [VECTOR3VALUE] Workspace.noob64ha.RightUpperArm.OriginalSize (Vector3Value) = 0.942632257938385, 1.2126444578170776, 0.7589428424835205
+  [VECTOR3VALUE] Workspace.noob64ha.RightUpperArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = 0.10622882843017578, -0.2393052577972412, -0.0746389627456665
+  [VECTOR3VALUE] Workspace.noob64ha.RightUpperArm.RightShoulderAttachment.OriginalPosition (Vector3Value) = -0.18431830406188965, 0.5096218585968018, -0.07463908195495605
+  [VECTOR3VALUE] Workspace.noob64ha.RightUpperArm.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.23177111148834229, 0.33869469165802, -0.0746389627456665
+  [VECTOR3VALUE] Workspace.noob64ha.RightUpperArm.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.23177111148834229, 0.33869469165802, -0.0746389627456665
+  [VECTOR3VALUE] Workspace.noob64ha.RightUpperLeg.OriginalSize (Vector3Value) = 0.7807660102844238, 1.742316484451294, 0.8536513447761536
+  [VECTOR3VALUE] Workspace.noob64ha.RightUpperLeg.RightHipRigAttachment.OriginalPosition (Vector3Value) = 0.10961800813674927, 0.435640811920166, -0.010273355059325695
+  [VECTOR3VALUE] Workspace.noob64ha.RightUpperLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = 0.10961800813674927, -0.5227115154266357, -0.010273377411067486
+  [VECTOR3VALUE] Workspace.noob64ha.UpperTorso.BodyBackAttachment.OriginalPosition (Vector3Value) = 1.2246434115138196e-16, -0.050381362438201904, 0.5192477703094482
+  [VECTOR3VALUE] Workspace.noob64ha.UpperTorso.BodyFrontAttachment.OriginalPosition (Vector3Value) = 1.2246434115138196e-16, -0.050381362438201904, -0.4807521104812622
+  [VECTOR3VALUE] Workspace.noob64ha.UpperTorso.LeftCollarAttachment.OriginalPosition (Vector3Value) = -0.7133379578590393, 0.9192795753479004, 0.019247697666287422
+  [VECTOR3VALUE] Workspace.noob64ha.UpperTorso.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.9160260558128357, 0.6031520366668701, 0.019247889518737793
+  [VECTOR3VALUE] Workspace.noob64ha.UpperTorso.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.9160260558128357, 0.6031520366668701, 0.019247889518737793
+  [VECTOR3VALUE] Workspace.noob64ha.UpperTorso.NeckAttachment.OriginalPosition (Vector3Value) = 9.018695124041187e-09, 0.9496214389801025, 0.019247841089963913
+  [VECTOR3VALUE] Workspace.noob64ha.UpperTorso.NeckRigAttachment.OriginalPosition (Vector3Value) = 2.4492934404725397e-16, 0.9496214389801025, 0.019247889518737793
+  [VECTOR3VALUE] Workspace.noob64ha.UpperTorso.OriginalSize (Vector3Value) = 1.8390778303146362, 1.9012384414672852, 1.0733120441436768
+  [VECTOR3VALUE] Workspace.noob64ha.UpperTorso.RightCollarAttachment.OriginalPosition (Vector3Value) = 0.7133379578590393, 0.9192795753479004, 0.019247816875576973
+  [VECTOR3VALUE] Workspace.noob64ha.UpperTorso.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.9160000085830688, 0.6031519174575806, 0.019247889518737793
+  [VECTOR3VALUE] Workspace.noob64ha.UpperTorso.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.9160000085830688, 0.6031519174575806, 0.019247889518737793
+  [VECTOR3VALUE] Workspace.noob64ha.UpperTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = 4.898552668754944e-17, -0.6503813862800598, 0.019247889518737793
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.Accessory (Plumara Hat).Handle.HatAttachment.OriginalPosition (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.Accessory (Plumara Hat).Handle.OriginalSize (Vector3Value) = 1.5334552526474, 0.9445458650588989, 1.6078134775161743
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.Head.FaceCenterAttachment.OriginalPosition (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, 0.001073986291885376
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.Head.FaceFrontAttachment.OriginalPosition (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5935858488082886
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.Head.HairAttachment.OriginalPosition (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.001073986291885376
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.Head.HatAttachment.OriginalPosition (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.001073986291885376
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.Head.NeckRigAttachment.OriginalPosition (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, 0.001073986291885376
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.Head.OriginalSize (Vector3Value) = 1.1978399753570557, 1.2024002075195312, 1.2162013053894043
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.HumanoidRootPart.OriginalSize (Vector3Value) = 2, 2, 1
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.HumanoidRootPart.RootAttachment.OriginalPosition (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.HumanoidRootPart.RootRigAttachment.OriginalPosition (Vector3Value) = 0, -0.3499999940395355, 0
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftFoot.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = -1.7881393432617188e-07, 0.10193967819213867, -0.0000017222776023118058
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftFoot.LeftFootAttachment.OriginalPosition (Vector3Value) = 0.01827743649482727, -0.15346026420593262, -0.05026386305689812
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftFoot.OriginalSize (Vector3Value) = 1, 0.2999992370605469, 1
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftHand.LeftGripAttachment.OriginalPosition (Vector3Value) = -0.017243266105651855, -0.10826203227043152, 0.3052818477153778
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftHand.LeftWristRigAttachment.OriginalPosition (Vector3Value) = 0.10851740837097168, 0.16673845052719116, 0.10116218030452728
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftHand.OriginalSize (Vector3Value) = 0.5459886789321899, 0.5900802612304688, 0.5340443849563599
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftLowerArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = 0.1874169111251831, 0.35872983932495117, 0.07255399972200394
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftLowerArm.LeftWristRigAttachment.OriginalPosition (Vector3Value) = -0.17444288730621338, -0.400886595249176, -0.19795984029769897
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftLowerArm.OriginalSize (Vector3Value) = 0.6623244881629944, 0.902477502822876, 0.58896803855896
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftLowerLeg.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = -1.1920928955078125e-07, -0.5471571683883667, -0.0000022140159217087785
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftLowerLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = 2.9802322387695312e-08, 0.3790184259414673, -1.6086059417830256e-07
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftLowerLeg.OriginalSize (Vector3Value) = 1, 1.1930999755859375, 1
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftUpperArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = -0.16012799739837646, -0.2257084846496582, 0.06763850897550583
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftUpperArm.LeftShoulderAttachment.OriginalPosition (Vector3Value) = -0.022783637046813965, 0.38261234760284424, 0.0012445476604625583
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftUpperArm.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.23900741338729858, 0.32901251316070557, 0.0012445449829101562
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftUpperArm.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.23900741338729858, 0.32901251316070557, 0.0012445449829101562
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftUpperArm.OriginalSize (Vector3Value) = 0.748931884765625, 0.8883051872253418, 0.5844168066978455
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftUpperLeg.LeftHipRigAttachment.OriginalPosition (Vector3Value) = 5.960464477539063e-08, 0.4207821488380432, -1.6391277313232422e-07
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftUpperLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = 8.940696716308594e-08, -0.40110236406326294, -4.290814956675604e-07
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LeftUpperLeg.OriginalSize (Vector3Value) = 1, 1.2166004180908203, 0.9998989105224609
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LongStraightHair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.658389560878277e-09, 0.9000000953674316, -0.02027224376797676
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LongStraightHair.Handle.OriginalSize (Vector3Value) = 1.6520800590515137, 2.6401824951171875, 1.6523175239562988
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LowerTorso.LeftHipRigAttachment.OriginalPosition (Vector3Value) = -0.34928277134895325, -0.20803594589233398, 0.024211153388023376
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LowerTorso.OriginalSize (Vector3Value) = 1.3261278867721558, 0.40751218795776367, 0.7185211181640625
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LowerTorso.RightHipRigAttachment.OriginalPosition (Vector3Value) = 0.34928110241889954, -0.20803594589233398, 0.02419203333556652
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LowerTorso.RootRigAttachment.OriginalPosition (Vector3Value) = -8.940696716308594e-07, -0.4598745107650757, 0.024211987853050232
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LowerTorso.WaistBackAttachment.OriginalPosition (Vector3Value) = -9.212736244990083e-07, -0.11519673466682434, 0.3513157367706299
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LowerTorso.WaistCenterAttachment.OriginalPosition (Vector3Value) = -0.0000011968612625423702, -0.15530139207839966, -0.013556942343711853
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LowerTorso.WaistFrontAttachment.OriginalPosition (Vector3Value) = -9.070802207133966e-07, -0.21042238175868988, -0.3537815809249878
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.LowerTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = -8.940696716308594e-07, 0.10278987884521484, -0.05399402230978012
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightFoot.OriginalSize (Vector3Value) = 1, 0.2999992370605469, 1
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightFoot.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = -0, 0.10193955898284912, 0.00007644779543625191
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightFoot.RightFootAttachment.OriginalPosition (Vector3Value) = -0.01827743649482727, -0.15346026420593262, -0.05026386305689812
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightHand.OriginalSize (Vector3Value) = 0.5459872484207153, 0.5900802612304688, 0.5340436697006226
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightHand.RightGripAttachment.OriginalPosition (Vector3Value) = 0.017242908477783203, -0.10826203227043152, 0.30528149008750916
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightHand.RightWristRigAttachment.OriginalPosition (Vector3Value) = -0.09009897708892822, 0.16673845052719116, 0.10116194188594818
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightLowerArm.OriginalSize (Vector3Value) = 0.6623249650001526, 0.902477502822876, 0.588965892791748
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightLowerArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = -0.1874176263809204, 0.35862112045288086, 0.07255396991968155
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightLowerArm.RightWristRigAttachment.OriginalPosition (Vector3Value) = 0.19286012649536133, -0.400886595249176, -0.1979597508907318
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightLowerLeg.OriginalSize (Vector3Value) = 1, 1.1930999755859375, 1
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightLowerLeg.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = -0, -0.5471571683883667, 0.00007626898150192574
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightLowerLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = -0, 0.37917429208755493, 0.000025553606974426657
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightUpperArm.OriginalSize (Vector3Value) = 0.7489327192306519, 0.8883051872253418, 0.5844188332557678
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightUpperArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = 0.160128653049469, -0.22581720352172852, 0.06763898581266403
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightUpperArm.RightShoulderAttachment.OriginalPosition (Vector3Value) = 0.022784054279327393, 0.38261234760284424, 0.0012450244976207614
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightUpperArm.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.23900675773620605, 0.32901251316070557, 0.001245260238647461
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightUpperArm.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.23900675773620605, 0.32901251316070557, 0.001245260238647461
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightUpperLeg.OriginalSize (Vector3Value) = 1, 1.2166004180908203, 0.9998989105224609
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightUpperLeg.RightHipRigAttachment.OriginalPosition (Vector3Value) = -0, 0.42078226804733276, -0.0000667300628265366
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.RightUpperLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = -0, -0.4009464979171753, -0.000021876789105590433
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.UpperTorso.BodyBackAttachment.OriginalPosition (Vector3Value) = 3.8743019104003906e-07, -0.2543559670448303, 0.36990952491760254
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.UpperTorso.BodyFrontAttachment.OriginalPosition (Vector3Value) = 3.8743019104003906e-07, -0.2543559670448303, -0.3292517066001892
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.UpperTorso.LeftCollarAttachment.OriginalPosition (Vector3Value) = -0.6132445335388184, 0.5760033130645752, 0.07531215250492096
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.UpperTorso.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.6132445335388184, 0.33498454093933105, 0.07531234622001648
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.UpperTorso.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.6132445335388184, 0.33498454093933105, 0.07531234622001648
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.UpperTorso.NeckAttachment.OriginalPosition (Vector3Value) = 3.9644888261136657e-07, 0.7456467151641846, 0.0753123015165329
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.UpperTorso.NeckRigAttachment.OriginalPosition (Vector3Value) = 3.8743019104003906e-07, 0.7456467151641846, 0.07531234622001648
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.UpperTorso.OriginalSize (Vector3Value) = 1.3034231662750244, 1.6987203359603882, 0.8420480489730835
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.UpperTorso.RightCollarAttachment.OriginalPosition (Vector3Value) = 0.6132453680038452, 0.5760030746459961, 0.07531227171421051
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.UpperTorso.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.6132453680038452, 0.33498454093933105, 0.07531234622001648
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.UpperTorso.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.6132453680038452, 0.33498454093933105, 0.07531234622001648
+  [VECTOR3VALUE] Workspace.roblox_user_9523962149.UpperTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = 3.8743019104003906e-07, -0.6916893720626831, -0.0028930678963661194
+  [VECTOR3VALUE] Workspace.tskalks_2000.FlowerCrown_AccAccessory.Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.006573200225830078, 0.2599925994873047, -0.020056724548339844
+  [VECTOR3VALUE] Workspace.tskalks_2000.FlowerCrown_AccAccessory.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.tskalks_2000.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, -0.0013093352317810059
+  [VECTOR3VALUE] Workspace.tskalks_2000.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5959692001342773
+  [VECTOR3VALUE] Workspace.tskalks_2000.Head.Mesh.HairAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, -0.0013093352317810059
+  [VECTOR3VALUE] Workspace.tskalks_2000.Head.Mesh.HatAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, -0.0013093352317810059
+  [VECTOR3VALUE] Workspace.tskalks_2000.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, -0.0013093352317810059
+  [VECTOR3VALUE] noob64ha.BIPICap.Handle.HatAttachment.OriginalPosition (Vector3Value) = 8.658389560878277e-09, 0, 0.20972774922847748
+  [VECTOR3VALUE] noob64ha.BIPICap.Handle.OriginalSize (Vector3Value) = 1.2995548248291016, 0.7006176114082336, 1.7161705493927002
+  [VECTOR3VALUE] noob64ha.Head.FaceCenterAttachment.OriginalPosition (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, 0.00023856759071350098
+  [VECTOR3VALUE] noob64ha.Head.FaceFrontAttachment.OriginalPosition (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5944212675094604
+  [VECTOR3VALUE] noob64ha.Head.HairAttachment.OriginalPosition (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00023856759071350098
+  [VECTOR3VALUE] noob64ha.Head.HatAttachment.OriginalPosition (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00023856759071350098
+  [VECTOR3VALUE] noob64ha.Head.NeckRigAttachment.OriginalPosition (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, 0.00023856759071350098
+  [VECTOR3VALUE] noob64ha.Head.OriginalSize (Vector3Value) = 1.1978399753570557, 1.2024002075195312, 1.2109417915344238
+  [VECTOR3VALUE] noob64ha.HumanoidRootPart.OriginalSize (Vector3Value) = 2, 2, 1
+  [VECTOR3VALUE] noob64ha.HumanoidRootPart.RootAttachment.OriginalPosition (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] noob64ha.HumanoidRootPart.RootRigAttachment.OriginalPosition (Vector3Value) = 0, -0.3499999940395355, 0
+  [VECTOR3VALUE] noob64ha.LeftFoot.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = -0.07992887496948242, 0.06116676330566406, 0.18442071974277496
+  [VECTOR3VALUE] noob64ha.LeftFoot.LeftFootAttachment.OriginalPosition (Vector3Value) = -0.07992866635322571, -0.41202735900878906, 0.1844228357076645
+  [VECTOR3VALUE] noob64ha.LeftFoot.OriginalSize (Vector3Value) = 0.7213894128799438, 0.8200517892837524, 1.2430022954940796
+  [VECTOR3VALUE] noob64ha.LeftHand.LeftGripAttachment.OriginalPosition (Vector3Value) = 0.04355752468109131, -0.0413995236158371, -0.04754495620727539
+  [VECTOR3VALUE] noob64ha.LeftHand.LeftWristRigAttachment.OriginalPosition (Vector3Value) = 0.04403650760650635, 0.23360039293766022, 0.1241263747215271
+  [VECTOR3VALUE] noob64ha.LeftHand.OriginalSize (Vector3Value) = 0.7531499862670898, 0.8905297517776489, 0.7729460000991821
+  [VECTOR3VALUE] noob64ha.LeftLowerArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = 0.1392000913619995, 0.2954180836677551, 0.0008617639541625977
+  [VECTOR3VALUE] noob64ha.LeftLowerArm.LeftWristRigAttachment.OriginalPosition (Vector3Value) = -0.06857585906982422, -0.4504777789115906, -0.20414161682128906
+  [VECTOR3VALUE] noob64ha.LeftLowerArm.OriginalSize (Vector3Value) = 0.811855137348175, 1.1605454683303833, 0.9022700786590576
+  [VECTOR3VALUE] noob64ha.LeftLowerLeg.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = -0.07992950081825256, -0.2849348783493042, -0.010282551869750023
+  [VECTOR3VALUE] noob64ha.LeftLowerLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = -0.07992950081825256, 0.28339242935180664, -0.01027975045144558
+  [VECTOR3VALUE] noob64ha.LeftLowerLeg.OriginalSize (Vector3Value) = 0.7213889956474304, 1.2634096145629883, 0.8535963296890259
+  [VECTOR3VALUE] noob64ha.LeftUpperArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = -0.10682964324951172, -0.2390967607498169, -0.0746387243270874
+  [VECTOR3VALUE] noob64ha.LeftUpperArm.LeftShoulderAttachment.OriginalPosition (Vector3Value) = 0.18421971797943115, 0.5096219778060913, -0.07463884353637695
+  [VECTOR3VALUE] noob64ha.LeftUpperArm.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.23164671659469604, 0.33869481086730957, -0.0746387243270874
+  [VECTOR3VALUE] noob64ha.LeftUpperArm.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.23164671659469604, 0.33869481086730957, -0.0746387243270874
+  [VECTOR3VALUE] noob64ha.LeftUpperArm.OriginalSize (Vector3Value) = 0.9424356818199158, 1.2126445770263672, 0.7589428424835205
+  [VECTOR3VALUE] noob64ha.LeftUpperLeg.LeftHipRigAttachment.OriginalPosition (Vector3Value) = -0.10961800813674927, 0.4356406331062317, -0.010279178619384766
+  [VECTOR3VALUE] noob64ha.LeftUpperLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = -0.10961800813674927, -0.5228431820869446, -0.010279333218932152
+  [VECTOR3VALUE] noob64ha.LeftUpperLeg.OriginalSize (Vector3Value) = 0.7807660102844238, 1.7423170804977417, 0.8535981178283691
+  [VECTOR3VALUE] noob64ha.LowerTorso.LeftHipRigAttachment.OriginalPosition (Vector3Value) = -0.5, -0.32817357778549194, -0.020128488540649414
+  [VECTOR3VALUE] noob64ha.LowerTorso.OriginalSize (Vector3Value) = 1.6722400188446045, 0.6320915222167969, 1.0374350547790527
+  [VECTOR3VALUE] noob64ha.LowerTorso.RightHipRigAttachment.OriginalPosition (Vector3Value) = 0.5, -0.32817357778549194, -0.02014760859310627
+  [VECTOR3VALUE] noob64ha.LowerTorso.RootRigAttachment.OriginalPosition (Vector3Value) = 0, -0.32817357778549194, -0.020128488540649414
+  [VECTOR3VALUE] noob64ha.LowerTorso.WaistBackAttachment.OriginalPosition (Vector3Value) = -2.7203931551866845e-08, -0.32817357778549194, 0.47987157106399536
+  [VECTOR3VALUE] noob64ha.LowerTorso.WaistCenterAttachment.OriginalPosition (Vector3Value) = -3.0279159091151087e-07, -0.32817357778549194, -0.020128488540649414
+  [VECTOR3VALUE] noob64ha.LowerTorso.WaistFrontAttachment.OriginalPosition (Vector3Value) = -1.3010576616068192e-08, -0.32817357778549194, -0.5201285481452942
+  [VECTOR3VALUE] noob64ha.LowerTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = 4.898552668754944e-17, 0.0718235969543457, -0.020128488540649414
+  [VECTOR3VALUE] noob64ha.Pal Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.34999990463256836, 0.2497277557849884
+  [VECTOR3VALUE] noob64ha.Pal Hair.Handle.OriginalSize (Vector3Value) = 1.7598299980163574, 1.324947714805603, 1.9481749534606934
+  [VECTOR3VALUE] noob64ha.RightFoot.OriginalSize (Vector3Value) = 0.7213894724845886, 0.8200726509094238, 1.2430260181427002
+  [VECTOR3VALUE] noob64ha.RightFoot.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = 0.07992884516716003, 0.061177849769592285, 0.18451127409934998
+  [VECTOR3VALUE] noob64ha.RightFoot.RightFootAttachment.OriginalPosition (Vector3Value) = 0.07992878556251526, -0.4120161533355713, 0.18440909683704376
+  [VECTOR3VALUE] noob64ha.RightHand.OriginalSize (Vector3Value) = 0.7531499862670898, 0.8905297517776489, 0.7729461193084717
+  [VECTOR3VALUE] noob64ha.RightHand.RightGripAttachment.OriginalPosition (Vector3Value) = -0.04431509971618652, -0.04171210527420044, -0.04754513502120972
+  [VECTOR3VALUE] noob64ha.RightHand.RightWristRigAttachment.OriginalPosition (Vector3Value) = -0.04431486129760742, 0.23328781127929688, 0.12412619590759277
+  [VECTOR3VALUE] noob64ha.RightLowerArm.OriginalSize (Vector3Value) = 0.8118550777435303, 1.1605454683303833, 0.9022700786590576
+  [VECTOR3VALUE] noob64ha.RightLowerArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = -0.1397026777267456, 0.29520970582962036, 0.0008615255355834961
+  [VECTOR3VALUE] noob64ha.RightLowerArm.RightWristRigAttachment.OriginalPosition (Vector3Value) = 0.0682973861694336, -0.45079028606414795, -0.20414185523986816
+  [VECTOR3VALUE] noob64ha.RightLowerLeg.OriginalSize (Vector3Value) = 0.7213890552520752, 1.2634086608886719, 0.8536258935928345
+  [VECTOR3VALUE] noob64ha.RightLowerLeg.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = 0.07992953062057495, -0.2849346399307251, -0.010219660587608814
+  [VECTOR3VALUE] noob64ha.RightLowerLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = 0.07992947101593018, 0.2835242748260498, -0.010231594555079937
+  [VECTOR3VALUE] noob64ha.RightUpperArm.OriginalSize (Vector3Value) = 0.942632257938385, 1.2126444578170776, 0.7589428424835205
+  [VECTOR3VALUE] noob64ha.RightUpperArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = 0.10622882843017578, -0.2393052577972412, -0.0746389627456665
+  [VECTOR3VALUE] noob64ha.RightUpperArm.RightShoulderAttachment.OriginalPosition (Vector3Value) = -0.18431830406188965, 0.5096218585968018, -0.07463908195495605
+  [VECTOR3VALUE] noob64ha.RightUpperArm.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.23177111148834229, 0.33869469165802, -0.0746389627456665
+  [VECTOR3VALUE] noob64ha.RightUpperArm.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.23177111148834229, 0.33869469165802, -0.0746389627456665
+  [VECTOR3VALUE] noob64ha.RightUpperLeg.OriginalSize (Vector3Value) = 0.7807660102844238, 1.742316484451294, 0.8536513447761536
+  [VECTOR3VALUE] noob64ha.RightUpperLeg.RightHipRigAttachment.OriginalPosition (Vector3Value) = 0.10961800813674927, 0.435640811920166, -0.010273355059325695
+  [VECTOR3VALUE] noob64ha.RightUpperLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = 0.10961800813674927, -0.5227115154266357, -0.010273377411067486
+  [VECTOR3VALUE] noob64ha.UpperTorso.BodyBackAttachment.OriginalPosition (Vector3Value) = 1.2246434115138196e-16, -0.050381362438201904, 0.5192477703094482
+  [VECTOR3VALUE] noob64ha.UpperTorso.BodyFrontAttachment.OriginalPosition (Vector3Value) = 1.2246434115138196e-16, -0.050381362438201904, -0.4807521104812622
+  [VECTOR3VALUE] noob64ha.UpperTorso.LeftCollarAttachment.OriginalPosition (Vector3Value) = -0.7133379578590393, 0.9192795753479004, 0.019247697666287422
+  [VECTOR3VALUE] noob64ha.UpperTorso.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.9160260558128357, 0.6031520366668701, 0.019247889518737793
+  [VECTOR3VALUE] noob64ha.UpperTorso.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.9160260558128357, 0.6031520366668701, 0.019247889518737793
+  [VECTOR3VALUE] noob64ha.UpperTorso.NeckAttachment.OriginalPosition (Vector3Value) = 9.018695124041187e-09, 0.9496214389801025, 0.019247841089963913
+  [VECTOR3VALUE] noob64ha.UpperTorso.NeckRigAttachment.OriginalPosition (Vector3Value) = 2.4492934404725397e-16, 0.9496214389801025, 0.019247889518737793
+  [VECTOR3VALUE] noob64ha.UpperTorso.OriginalSize (Vector3Value) = 1.8390778303146362, 1.9012384414672852, 1.0733120441436768
+  [VECTOR3VALUE] noob64ha.UpperTorso.RightCollarAttachment.OriginalPosition (Vector3Value) = 0.7133379578590393, 0.9192795753479004, 0.019247816875576973
+  [VECTOR3VALUE] noob64ha.UpperTorso.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.9160000085830688, 0.6031519174575806, 0.019247889518737793
+  [VECTOR3VALUE] noob64ha.UpperTorso.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.9160000085830688, 0.6031519174575806, 0.019247889518737793
+  [VECTOR3VALUE] noob64ha.UpperTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = 4.898552668754944e-17, -0.6503813862800598, 0.019247889518737793
+  [VECTOR3VALUE] roblox_user_9523962149.Accessory (Plumara Hat).Handle.HatAttachment.OriginalPosition (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] roblox_user_9523962149.Accessory (Plumara Hat).Handle.OriginalSize (Vector3Value) = 1.5334552526474, 0.9445458650588989, 1.6078134775161743
+  [VECTOR3VALUE] roblox_user_9523962149.Head.FaceCenterAttachment.OriginalPosition (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, 0.001073986291885376
+  [VECTOR3VALUE] roblox_user_9523962149.Head.FaceFrontAttachment.OriginalPosition (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5935858488082886
+  [VECTOR3VALUE] roblox_user_9523962149.Head.HairAttachment.OriginalPosition (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.001073986291885376
+  [VECTOR3VALUE] roblox_user_9523962149.Head.HatAttachment.OriginalPosition (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.001073986291885376
+  [VECTOR3VALUE] roblox_user_9523962149.Head.NeckRigAttachment.OriginalPosition (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, 0.001073986291885376
+  [VECTOR3VALUE] roblox_user_9523962149.Head.OriginalSize (Vector3Value) = 1.1978399753570557, 1.2024002075195312, 1.2162013053894043
+  [VECTOR3VALUE] roblox_user_9523962149.HumanoidRootPart.OriginalSize (Vector3Value) = 2, 2, 1
+  [VECTOR3VALUE] roblox_user_9523962149.HumanoidRootPart.RootAttachment.OriginalPosition (Vector3Value) = 0, 0, 0
+  [VECTOR3VALUE] roblox_user_9523962149.HumanoidRootPart.RootRigAttachment.OriginalPosition (Vector3Value) = 0, -0.3499999940395355, 0
+  [VECTOR3VALUE] roblox_user_9523962149.LeftFoot.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = -1.7881393432617188e-07, 0.10193967819213867, -0.0000017222776023118058
+  [VECTOR3VALUE] roblox_user_9523962149.LeftFoot.LeftFootAttachment.OriginalPosition (Vector3Value) = 0.01827743649482727, -0.15346026420593262, -0.05026386305689812
+  [VECTOR3VALUE] roblox_user_9523962149.LeftFoot.OriginalSize (Vector3Value) = 1, 0.2999992370605469, 1
+  [VECTOR3VALUE] roblox_user_9523962149.LeftHand.LeftGripAttachment.OriginalPosition (Vector3Value) = -0.017243266105651855, -0.10826203227043152, 0.3052818477153778
+  [VECTOR3VALUE] roblox_user_9523962149.LeftHand.LeftWristRigAttachment.OriginalPosition (Vector3Value) = 0.10851740837097168, 0.16673845052719116, 0.10116218030452728
+  [VECTOR3VALUE] roblox_user_9523962149.LeftHand.OriginalSize (Vector3Value) = 0.5459886789321899, 0.5900802612304688, 0.5340443849563599
+  [VECTOR3VALUE] roblox_user_9523962149.LeftLowerArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = 0.1874169111251831, 0.35872983932495117, 0.07255399972200394
+  [VECTOR3VALUE] roblox_user_9523962149.LeftLowerArm.LeftWristRigAttachment.OriginalPosition (Vector3Value) = -0.17444288730621338, -0.400886595249176, -0.19795984029769897
+  [VECTOR3VALUE] roblox_user_9523962149.LeftLowerArm.OriginalSize (Vector3Value) = 0.6623244881629944, 0.902477502822876, 0.58896803855896
+  [VECTOR3VALUE] roblox_user_9523962149.LeftLowerLeg.LeftAnkleRigAttachment.OriginalPosition (Vector3Value) = -1.1920928955078125e-07, -0.5471571683883667, -0.0000022140159217087785
+  [VECTOR3VALUE] roblox_user_9523962149.LeftLowerLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = 2.9802322387695312e-08, 0.3790184259414673, -1.6086059417830256e-07
+  [VECTOR3VALUE] roblox_user_9523962149.LeftLowerLeg.OriginalSize (Vector3Value) = 1, 1.1930999755859375, 1
+  [VECTOR3VALUE] roblox_user_9523962149.LeftUpperArm.LeftElbowRigAttachment.OriginalPosition (Vector3Value) = -0.16012799739837646, -0.2257084846496582, 0.06763850897550583
+  [VECTOR3VALUE] roblox_user_9523962149.LeftUpperArm.LeftShoulderAttachment.OriginalPosition (Vector3Value) = -0.022783637046813965, 0.38261234760284424, 0.0012445476604625583
+  [VECTOR3VALUE] roblox_user_9523962149.LeftUpperArm.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.23900741338729858, 0.32901251316070557, 0.0012445449829101562
+  [VECTOR3VALUE] roblox_user_9523962149.LeftUpperArm.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.23900741338729858, 0.32901251316070557, 0.0012445449829101562
+  [VECTOR3VALUE] roblox_user_9523962149.LeftUpperArm.OriginalSize (Vector3Value) = 0.748931884765625, 0.8883051872253418, 0.5844168066978455
+  [VECTOR3VALUE] roblox_user_9523962149.LeftUpperLeg.LeftHipRigAttachment.OriginalPosition (Vector3Value) = 5.960464477539063e-08, 0.4207821488380432, -1.6391277313232422e-07
+  [VECTOR3VALUE] roblox_user_9523962149.LeftUpperLeg.LeftKneeRigAttachment.OriginalPosition (Vector3Value) = 8.940696716308594e-08, -0.40110236406326294, -4.290814956675604e-07
+  [VECTOR3VALUE] roblox_user_9523962149.LeftUpperLeg.OriginalSize (Vector3Value) = 1, 1.2166004180908203, 0.9998989105224609
+  [VECTOR3VALUE] roblox_user_9523962149.LongStraightHair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.658389560878277e-09, 0.9000000953674316, -0.02027224376797676
+  [VECTOR3VALUE] roblox_user_9523962149.LongStraightHair.Handle.OriginalSize (Vector3Value) = 1.6520800590515137, 2.6401824951171875, 1.6523175239562988
+  [VECTOR3VALUE] roblox_user_9523962149.LowerTorso.LeftHipRigAttachment.OriginalPosition (Vector3Value) = -0.34928277134895325, -0.20803594589233398, 0.024211153388023376
+  [VECTOR3VALUE] roblox_user_9523962149.LowerTorso.OriginalSize (Vector3Value) = 1.3261278867721558, 0.40751218795776367, 0.7185211181640625
+  [VECTOR3VALUE] roblox_user_9523962149.LowerTorso.RightHipRigAttachment.OriginalPosition (Vector3Value) = 0.34928110241889954, -0.20803594589233398, 0.02419203333556652
+  [VECTOR3VALUE] roblox_user_9523962149.LowerTorso.RootRigAttachment.OriginalPosition (Vector3Value) = -8.940696716308594e-07, -0.4598745107650757, 0.024211987853050232
+  [VECTOR3VALUE] roblox_user_9523962149.LowerTorso.WaistBackAttachment.OriginalPosition (Vector3Value) = -9.212736244990083e-07, -0.11519673466682434, 0.3513157367706299
+  [VECTOR3VALUE] roblox_user_9523962149.LowerTorso.WaistCenterAttachment.OriginalPosition (Vector3Value) = -0.0000011968612625423702, -0.15530139207839966, -0.013556942343711853
+  [VECTOR3VALUE] roblox_user_9523962149.LowerTorso.WaistFrontAttachment.OriginalPosition (Vector3Value) = -9.070802207133966e-07, -0.21042238175868988, -0.3537815809249878
+  [VECTOR3VALUE] roblox_user_9523962149.LowerTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = -8.940696716308594e-07, 0.10278987884521484, -0.05399402230978012
+  [VECTOR3VALUE] roblox_user_9523962149.RightFoot.OriginalSize (Vector3Value) = 1, 0.2999992370605469, 1
+  [VECTOR3VALUE] roblox_user_9523962149.RightFoot.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = -0, 0.10193955898284912, 0.00007644779543625191
+  [VECTOR3VALUE] roblox_user_9523962149.RightFoot.RightFootAttachment.OriginalPosition (Vector3Value) = -0.01827743649482727, -0.15346026420593262, -0.05026386305689812
+  [VECTOR3VALUE] roblox_user_9523962149.RightHand.OriginalSize (Vector3Value) = 0.5459872484207153, 0.5900802612304688, 0.5340436697006226
+  [VECTOR3VALUE] roblox_user_9523962149.RightHand.RightGripAttachment.OriginalPosition (Vector3Value) = 0.017242908477783203, -0.10826203227043152, 0.30528149008750916
+  [VECTOR3VALUE] roblox_user_9523962149.RightHand.RightWristRigAttachment.OriginalPosition (Vector3Value) = -0.09009897708892822, 0.16673845052719116, 0.10116194188594818
+  [VECTOR3VALUE] roblox_user_9523962149.RightLowerArm.OriginalSize (Vector3Value) = 0.6623249650001526, 0.902477502822876, 0.588965892791748
+  [VECTOR3VALUE] roblox_user_9523962149.RightLowerArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = -0.1874176263809204, 0.35862112045288086, 0.07255396991968155
+  [VECTOR3VALUE] roblox_user_9523962149.RightLowerArm.RightWristRigAttachment.OriginalPosition (Vector3Value) = 0.19286012649536133, -0.400886595249176, -0.1979597508907318
+  [VECTOR3VALUE] roblox_user_9523962149.RightLowerLeg.OriginalSize (Vector3Value) = 1, 1.1930999755859375, 1
+  [VECTOR3VALUE] roblox_user_9523962149.RightLowerLeg.RightAnkleRigAttachment.OriginalPosition (Vector3Value) = -0, -0.5471571683883667, 0.00007626898150192574
+  [VECTOR3VALUE] roblox_user_9523962149.RightLowerLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = -0, 0.37917429208755493, 0.000025553606974426657
+  [VECTOR3VALUE] roblox_user_9523962149.RightUpperArm.OriginalSize (Vector3Value) = 0.7489327192306519, 0.8883051872253418, 0.5844188332557678
+  [VECTOR3VALUE] roblox_user_9523962149.RightUpperArm.RightElbowRigAttachment.OriginalPosition (Vector3Value) = 0.160128653049469, -0.22581720352172852, 0.06763898581266403
+  [VECTOR3VALUE] roblox_user_9523962149.RightUpperArm.RightShoulderAttachment.OriginalPosition (Vector3Value) = 0.022784054279327393, 0.38261234760284424, 0.0012450244976207614
+  [VECTOR3VALUE] roblox_user_9523962149.RightUpperArm.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.23900675773620605, 0.32901251316070557, 0.001245260238647461
+  [VECTOR3VALUE] roblox_user_9523962149.RightUpperArm.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.23900675773620605, 0.32901251316070557, 0.001245260238647461
+  [VECTOR3VALUE] roblox_user_9523962149.RightUpperLeg.OriginalSize (Vector3Value) = 1, 1.2166004180908203, 0.9998989105224609
+  [VECTOR3VALUE] roblox_user_9523962149.RightUpperLeg.RightHipRigAttachment.OriginalPosition (Vector3Value) = -0, 0.42078226804733276, -0.0000667300628265366
+  [VECTOR3VALUE] roblox_user_9523962149.RightUpperLeg.RightKneeRigAttachment.OriginalPosition (Vector3Value) = -0, -0.4009464979171753, -0.000021876789105590433
+  [VECTOR3VALUE] roblox_user_9523962149.UpperTorso.BodyBackAttachment.OriginalPosition (Vector3Value) = 3.8743019104003906e-07, -0.2543559670448303, 0.36990952491760254
+  [VECTOR3VALUE] roblox_user_9523962149.UpperTorso.BodyFrontAttachment.OriginalPosition (Vector3Value) = 3.8743019104003906e-07, -0.2543559670448303, -0.3292517066001892
+  [VECTOR3VALUE] roblox_user_9523962149.UpperTorso.LeftCollarAttachment.OriginalPosition (Vector3Value) = -0.6132445335388184, 0.5760033130645752, 0.07531215250492096
+  [VECTOR3VALUE] roblox_user_9523962149.UpperTorso.LeftShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = -0.6132445335388184, 0.33498454093933105, 0.07531234622001648
+  [VECTOR3VALUE] roblox_user_9523962149.UpperTorso.LeftShoulderRigAttachment.OriginalPosition (Vector3Value) = -0.6132445335388184, 0.33498454093933105, 0.07531234622001648
+  [VECTOR3VALUE] roblox_user_9523962149.UpperTorso.NeckAttachment.OriginalPosition (Vector3Value) = 3.9644888261136657e-07, 0.7456467151641846, 0.0753123015165329
+  [VECTOR3VALUE] roblox_user_9523962149.UpperTorso.NeckRigAttachment.OriginalPosition (Vector3Value) = 3.8743019104003906e-07, 0.7456467151641846, 0.07531234622001648
+  [VECTOR3VALUE] roblox_user_9523962149.UpperTorso.OriginalSize (Vector3Value) = 1.3034231662750244, 1.6987203359603882, 0.8420480489730835
+  [VECTOR3VALUE] roblox_user_9523962149.UpperTorso.RightCollarAttachment.OriginalPosition (Vector3Value) = 0.6132453680038452, 0.5760030746459961, 0.07531227171421051
+  [VECTOR3VALUE] roblox_user_9523962149.UpperTorso.RightShoulderRigAttachment.JointRotation.OriginalPosition (Vector3Value) = 0.6132453680038452, 0.33498454093933105, 0.07531234622001648
+  [VECTOR3VALUE] roblox_user_9523962149.UpperTorso.RightShoulderRigAttachment.OriginalPosition (Vector3Value) = 0.6132453680038452, 0.33498454093933105, 0.07531234622001648
+  [VECTOR3VALUE] roblox_user_9523962149.UpperTorso.WaistRigAttachment.OriginalPosition (Vector3Value) = 3.8743019104003906e-07, -0.6916893720626831, -0.0028930678963661194
+  [VECTOR3VALUE] tskalks_2000.FlowerCrown_AccAccessory.Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.006573200225830078, 0.2599925994873047, -0.020056724548339844
+  [VECTOR3VALUE] tskalks_2000.FlowerCrown_AccAccessory.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] tskalks_2000.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, -0.0013093352317810059
+  [VECTOR3VALUE] tskalks_2000.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5959692001342773
+  [VECTOR3VALUE] tskalks_2000.Head.Mesh.HairAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, -0.0013093352317810059
+  [VECTOR3VALUE] tskalks_2000.Head.Mesh.HatAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, -0.0013093352317810059
+  [VECTOR3VALUE] tskalks_2000.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, -0.0013093352317810059
+
+── OTHER (108) ──
+  10ve_2024.Accessory (defaultAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  10ve_2024.Health (Folder)
+  Bulba_Trainer.Health (Folder)
+  CaptainTohbee.Accessory (Popular Preppy Brat Bangs in ).Handle (Part) RBXRefinementScale=1, 1, 1
+  CaptainTohbee.Accessory (Propeller Hat Quirky Fun Propeller Cap Retro PopAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  CaptainTohbee.Accessory (face blush1).Handle (Part) RBXRefinementScale=1, 1, 1
+  CaptainTohbee.Health (Folder)
+  CaptainTohbee.MeshPartAccessory.Handle (Part) RBXRefinementScale=1, 1, 1
+  CaptainTohbee.Side Part Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Handle (Part) RBXRefinementScale=0.9100000262260437, 0.9100000262260437, 0.9100000262260437
+  Natrair.BagAccessory.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Natrair.HatAccessory.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Natrair.Health (Folder)
+  Natrair.LNY_Ox.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Natrair.Pal Hair.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Natrair.VarietyShades02.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Part (Part) Calibrated=true
+  Players.SJSBAJAJSNSJS.Backpack.SubspaceTripmine (Tool) Cooldown=5 Uses=-1
+  ReplicatedStorage.Board (Folder)
+  ReplicatedStorage.Board.Enum (Folder)
+  ReplicatedStorage.Camera (Folder)
+  ReplicatedStorage.Collections (Folder)
+  ReplicatedStorage.Config (Configuration) TerrainIntensity=0 AutoRestart=true TripminesEnabled=true Lives=3 TerrainDensity=100 TileSize=5 Slippery=false StructureChance=0.25 Spheres=false RestartDelay=5 AutosaveEnabled=true AdjustLives=true ExplodeCharacters=true Jumpless=false MaxDistance=32 Flagless=false Seed=0 TeleportEnabled=false MineChance=0.16 TileShape=0 UseSeed=false
+  ReplicatedStorage.CoreGui (Folder)
+  ReplicatedStorage.Packages (Folder)
+  ReplicatedStorage.Packages._Index (Folder)
+  ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2 (Folder)
+  ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.components (Folder)
+  ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.hooks (Folder)
+  ReplicatedStorage.Packages._Index.magicoal-nerb_mini-react-luau@0.1.2.mini-react-luau.util (Folder)
+  ReplicatedStorage.Packages._Index.pizzaboxer_bloxstrap-rpc-sdk@1.0.1 (Folder)
+  ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0 (Folder)
+  ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Components (Folder)
+  ReplicatedStorage.Packages._Index.pyseph_packetprofiler@2.3.0.packetprofiler.Modules (Folder)
+  ReplicatedStorage.Packages._Index.pysephwasntavailable_remotepacketsizecounter@2.4.1 (Folder)
+  ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0 (Folder)
+  ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.Component.spec (Folder)
+  ReplicatedStorage.Packages._Index.pysephwasntavailable_roact-constant-fork@1.5.0.roact-constant-fork.PropMarkers (Folder)
+  ReplicatedStorage.Packages._Index.stravant_goodsignal@0.2.1 (Folder)
+  ReplicatedStorage.Remote (Folder)
+  ReplicatedStorage.RemoteEvents (Folder)
+  ReplicatedStorage.RemoteFunctions (Folder)
+  ReplicatedStorage.Settings (Folder)
+  ReplicatedStorage.Sound (Folder)
+  ReplicatedStorage.Sprites (Folder)
+  ReplicatedStorage.UI (Folder)
+  ReplicatedStorage.UnreliableRemoteEvents (Folder)
+  ReplicatedStorage.Util (Folder)
+  ReplicatedStorage._Assets (Folder)
+  ReplicatedStorage._Assets.Flags (Folder)
+  ReplicatedStorage._Assets.Skyboxes (Folder)
+  ReplicatedStorage._Assets.Structures (Folder)
+  ReplicatedStorage._Assets.Textures (Folder)
+  SJSBAJAJSNSJS.Accessory (Emo Hair).Handle (Part) RBXRefinementScale=1, 1, 1
+  SJSBAJAJSNSJS.Accessory (Emo Spiked Shades (High)).Handle (Part) RBXRefinementScale=1.0299999713897705, 1.0299999713897705, 1.0299999713897705
+  SJSBAJAJSNSJS.Accessory (Retro Earrings).Handle (Part) RBXRefinementScale=1.149999976158142, 1.149999976158142, 1.149999976158142
+  SJSBAJAJSNSJS.Accessory (defaultAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  SJSBAJAJSNSJS.Accessory (ifsixwasnine hat 2).Handle (Part) RBXRefinementScale=1, 1, 1
+  SJSBAJAJSNSJS.Health (Folder)
+  Workspace.10ve_2024.Accessory (defaultAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.10ve_2024.Health (Folder)
+  Workspace.Bulba_Trainer.Accessory (MeshPartAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Bulba_Trainer.CowHeadBlackAccessory.Handle (Part) RBXRefinementScale=0.9100000262260437, 0.9100000262260437, 0.9100000262260437
+  Workspace.Bulba_Trainer.CowboyHat.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Bulba_Trainer.Health (Folder)
+  Workspace.Bulba_Trainer.Scarf.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.CaptainTohbee.Accessory (Popular Preppy Brat Bangs in ).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.CaptainTohbee.Accessory (Propeller Hat Quirky Fun Propeller Cap Retro PopAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.CaptainTohbee.Accessory (face blush1).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.CaptainTohbee.Health (Folder)
+  Workspace.CaptainTohbee.MeshPartAccessory.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.CaptainTohbee.Side Part Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Clickable (Folder)
+  Workspace.Clickable.Board (Folder)
+  Workspace.Natrair.BagAccessory.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Workspace.Natrair.HatAccessory.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Workspace.Natrair.Health (Folder)
+  Workspace.Natrair.LNY_Ox.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Workspace.Natrair.Pal Hair.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Workspace.Natrair.VarietyShades02.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Workspace.SJSBAJAJSNSJS.Accessory (Emo Hair).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.SJSBAJAJSNSJS.Accessory (Emo Spiked Shades (High)).Handle (Part) RBXRefinementScale=1.0299999713897705, 1.0299999713897705, 1.0299999713897705
+  Workspace.SJSBAJAJSNSJS.Accessory (Retro Earrings).Handle (Part) RBXRefinementScale=1.149999976158142, 1.149999976158142, 1.149999976158142
+  Workspace.SJSBAJAJSNSJS.Accessory (defaultAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.SJSBAJAJSNSJS.Accessory (ifsixwasnine hat 2).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.SJSBAJAJSNSJS.Health (Folder)
+  Workspace.SJSBAJAJSNSJS.SubspaceTripmine (Tool) Cooldown=5 Uses=-1
+  Workspace.huntzrx13.Health (Folder)
+  Workspace.mimi_conejito.HairAccessory.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Workspace.mimi_conejito.Health (Folder)
+  Workspace.mimi_conejito.NerdGlasses.Handle (MeshPart) RBXRefinementScale=0.800000011920929, 0.800000011920929, 0.800000011920929
+  Workspace.noob64ha.BIPICap.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Workspace.noob64ha.Health (Folder)
+  Workspace.noob64ha.Pal Hair.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Workspace.roblox_user_9523962149.Accessory (Plumara Hat).Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Workspace.roblox_user_9523962149.Health (Folder)
+  Workspace.roblox_user_9523962149.LongStraightHair.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  Workspace.tskalks_2000.FlowerCrown_AccAccessory.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.tskalks_2000.Health (Folder)
+  [SPAWNLOCATION] Workspace.SpawnLocation (SpawnLocation)
+  noob64ha.BIPICap.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  noob64ha.Health (Folder)
+  noob64ha.Pal Hair.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  roblox_user_9523962149.Accessory (Plumara Hat).Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  roblox_user_9523962149.Health (Folder)
+  roblox_user_9523962149.LongStraightHair.Handle (MeshPart) RBXRefinementScale=1, 1, 1
+  tskalks_2000.FlowerCrown_AccAccessory.Handle (Part) RBXRefinementScale=1, 1, 1
+  tskalks_2000.Health (Folder)

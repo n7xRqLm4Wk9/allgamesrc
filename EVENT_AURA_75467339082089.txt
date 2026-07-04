@@ -1,0 +1,967 @@
+=== [EVENT 💀] AURA. ===
+PlaceID : 75467339082089
+JobID   : adf5ff04-7e09-4fdd-b90b-27fcc9573c79
+Player  : imaginesmurfinginbd
+Time    : 2026-07-04 10:10:44
+Entries : 949
+
+══ DISCOVERED INSTANCES ══
+
+── REMOTES (74) ──
+  [BINDABLEEVENT] ReplicatedStorage.Events.PlayerDiedServer (BindableEvent)
+  [BINDABLEEVENT] ReplicatedStorage.Events.StopEnergyServer (BindableEvent)
+  [BINDABLEEVENT] ReplicatedStorage.Events.StopFarmServer (BindableEvent)
+  [BINDABLEEVENT] Workspace.Map.Bosses.GokuBlackIsland.GB.GBDMG (BindableEvent)
+  [BINDABLEFUNCTION] PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.27379482728188.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Clunanetro5.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Haukepauke1.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1.Rig.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1.Rig.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Roblox93827x.AnimatU.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Roblox93827x.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.Roblox93827x.AnimationPeding.AnimatU.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.binson922.AnimatU.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.gdfif3215.AnimatU.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.imaginesmurfinginbd.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.kinggesu.AnimatU.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.kinggesu.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.kinggesu.AnimationPeding.AnimatU.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] Workspace.warrior24445.Animate.PlayEmote (BindableFunction)
+  [BINDABLEFUNCTION] binson922.AnimatU.PlayEmote (BindableFunction)
+  [REMOTEEVENT] ReplicatedStorage.Events.AuraByBoss (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.BestPlayer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.BigBangREQ (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.BigBangVFX (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.CancelSkill (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.ChangeMusic (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Chat.Broly (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Energy (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.EnergyGui (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.EventFrame (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Explode (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Farm (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.FarmGui (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.FinishEvent (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.FlyREQ (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.FlyState (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.KamehamehaREQ (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.KamehamehaVFX (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.MaxebirthReached (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.PVPGUI (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.PlayerDiedClient (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.PutBoostEffect (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.RewardedAd2XAura (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.SelectAuraForceCon (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Shake (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.SkillButton (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.StopEnergy (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.StopFarm (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.UPDClientZones (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.UPDEventGUI (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.UPDLB (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.UpdateCodeBoost2X (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Events.Warning (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.Apex Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.Fallen Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.Forbidden Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.GOD Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.INVINCIBLE Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.Omni Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.Origin Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.Restricted Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.Samurai Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.The Last Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.X Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.ジェスター Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.死 Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.無限 Farmer (RemoteEvent)
+  [REMOTEEVENT] ReplicatedStorage.Explosions.絶望 Farmer (RemoteEvent)
+  [REMOTEFUNCTION] ReplicatedStorage.Events.GetStore (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Events.PVPStats (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Events.Rebirth (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Events.RedeemCode (RemoteFunction)
+  [REMOTEFUNCTION] ReplicatedStorage.Events.UnlockZone (RemoteFunction)
+
+── SCRIPTS (241) ──
+  [LOCALSCRIPT] AnimatU (LocalScript)
+  [LOCALSCRIPT] Animate (LocalScript)
+  [LOCALSCRIPT] Kamehameha (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Zone Titles.Calamity.Anim (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Zone Titles.Jester.Anim (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Zone Titles.Oblivion.Anim (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Zone Titles.Redemption.Anim (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Zone Titles.UNK.UIStroke.UIGradient.Anim (LocalScript)
+  [LOCALSCRIPT] ReplicatedStorage.Zone Titles.Yin & Yang.Anim (LocalScript)
+  [LOCALSCRIPT] StarterGui.AuraCounter.Aim.Key.UIStroke.SizeMo (LocalScript)
+  [LOCALSCRIPT] StarterGui.AuraCounter.AuraFrame.UIStroke.SizeMo (LocalScript)
+  [LOCALSCRIPT] StarterGui.AuraCounter.Boosts.Aura2X.UIStroke.SizeMo (LocalScript)
+  [LOCALSCRIPT] StarterGui.AuraCounter.ClientManager (LocalScript)
+  [LOCALSCRIPT] StarterGui.AuraCounter.EnergyInfo.UIStroke.SizeMo (LocalScript)
+  [LOCALSCRIPT] StarterGui.AuraCounter.MainFrame.UIStroke.SizeMo (LocalScript)
+  [LOCALSCRIPT] StarterGui.AuraCounter.Skill.Key.UIStroke.SizeMo (LocalScript)
+  [LOCALSCRIPT] StarterGui.Client_System (LocalScript)
+  [LOCALSCRIPT] StarterGui.Menu.Buttons.Rebirths.UIStroke.SizeMo (LocalScript)
+  [LOCALSCRIPT] StarterGui.Menu.Buttons.Shop.UIStroke.SizeMo (LocalScript)
+  [LOCALSCRIPT] StarterGui.Menu.Buttons.Zones.UIStroke.SizeMo (LocalScript)
+  [LOCALSCRIPT] StarterGui.Menu.Client_Side (LocalScript)
+  [LOCALSCRIPT] Workspace.27379482728188.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.27379482728188.Music (LocalScript)
+  [LOCALSCRIPT] Workspace.27379482728188.ShakeClient (LocalScript)
+  [LOCALSCRIPT] Workspace.27379482728188.Step (LocalScript)
+  [LOCALSCRIPT] Workspace.Clunanetro5.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.Clunanetro5.Music (LocalScript)
+  [LOCALSCRIPT] Workspace.Clunanetro5.ShakeClient (LocalScript)
+  [LOCALSCRIPT] Workspace.Clunanetro5.Step (LocalScript)
+  [LOCALSCRIPT] Workspace.Haukepauke1.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.Haukepauke1.Music (LocalScript)
+  [LOCALSCRIPT] Workspace.Haukepauke1.ShakeClient (LocalScript)
+  [LOCALSCRIPT] Workspace.Haukepauke1.Step (LocalScript)
+  [LOCALSCRIPT] Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1.Rig.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1.Rig.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.Roblox93827x.AnimatU (LocalScript)
+  [LOCALSCRIPT] Workspace.Roblox93827x.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.Roblox93827x.AnimationPeding.AnimatU (LocalScript)
+  [LOCALSCRIPT] Workspace.Roblox93827x.Music (LocalScript)
+  [LOCALSCRIPT] Workspace.Roblox93827x.ShakeClient (LocalScript)
+  [LOCALSCRIPT] Workspace.Roblox93827x.Step (LocalScript)
+  [LOCALSCRIPT] Workspace.binson922.AnimatU (LocalScript)
+  [LOCALSCRIPT] Workspace.binson922.Music (LocalScript)
+  [LOCALSCRIPT] Workspace.binson922.ShakeClient (LocalScript)
+  [LOCALSCRIPT] Workspace.binson922.Skills.BigBangAttack (LocalScript)
+  [LOCALSCRIPT] Workspace.binson922.Step (LocalScript)
+  [LOCALSCRIPT] Workspace.gdfif3215.AnimatU (LocalScript)
+  [LOCALSCRIPT] Workspace.gdfif3215.Music (LocalScript)
+  [LOCALSCRIPT] Workspace.gdfif3215.ShakeClient (LocalScript)
+  [LOCALSCRIPT] Workspace.gdfif3215.Skills.BigBangAttack (LocalScript)
+  [LOCALSCRIPT] Workspace.gdfif3215.Step (LocalScript)
+  [LOCALSCRIPT] Workspace.imaginesmurfinginbd.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.imaginesmurfinginbd.Music (LocalScript)
+  [LOCALSCRIPT] Workspace.imaginesmurfinginbd.ShakeClient (LocalScript)
+  [LOCALSCRIPT] Workspace.imaginesmurfinginbd.Step (LocalScript)
+  [LOCALSCRIPT] Workspace.kinggesu.AnimatU (LocalScript)
+  [LOCALSCRIPT] Workspace.kinggesu.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.kinggesu.AnimationPeding.AnimatU (LocalScript)
+  [LOCALSCRIPT] Workspace.kinggesu.Music (LocalScript)
+  [LOCALSCRIPT] Workspace.kinggesu.ShakeClient (LocalScript)
+  [LOCALSCRIPT] Workspace.kinggesu.Skills.Kamehameha (LocalScript)
+  [LOCALSCRIPT] Workspace.kinggesu.Step (LocalScript)
+  [LOCALSCRIPT] Workspace.warrior24445.Animate (LocalScript)
+  [LOCALSCRIPT] Workspace.warrior24445.Music (LocalScript)
+  [LOCALSCRIPT] Workspace.warrior24445.ShakeClient (LocalScript)
+  [LOCALSCRIPT] Workspace.warrior24445.Step (LocalScript)
+  [LOCALSCRIPT] binson922.AnimatU (LocalScript)
+  [LOCALSCRIPT] binson922.Music (LocalScript)
+  [LOCALSCRIPT] binson922.ShakeClient (LocalScript)
+  [LOCALSCRIPT] binson922.Skills.BigBangAttack (LocalScript)
+  [LOCALSCRIPT] binson922.Step (LocalScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.BigNum (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Attribute (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Elements.Caption (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Elements.Container (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Elements.Dropdown (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Elements.Indicator (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Elements.Menu (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Elements.Notice (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Elements.Selection (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Elements.Widget (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Features.Gamepad (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Features.Overflow (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Features.Themes (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Features.Themes.Classic (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Features.Themes.Default (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Packages.GoodSignal (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Packages.Janitor (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Reference (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Types (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.Utility (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Icon.VERSION (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Rebirths (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Rock (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.ShopItems (ModuleScript)
+  [MODULESCRIPT] ReplicatedStorage.ModuleScripts.Zones (ModuleScript)
+  [MODULESCRIPT] Workspace.Map.Barriers.Hexagon.DistanceFade (ModuleScript)
+  [MODULESCRIPT] Workspace.Map.Barriers.Hexagon.DistanceFadeInverse (ModuleScript)
+  [MODULESCRIPT] Workspace.Map.Lobby.Aura Leaderboard.Leaderboard.LeaderboardSystem (ModuleScript)
+  [MODULESCRIPT] Workspace.Map.Lobby.Kills Leaderboard.Leaderboard.LeaderboardSystem (ModuleScript)
+  [SCRIPT] ReplicatedStorage.Effects.RxplodeBB.Anim (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Angel.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Berserk.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Calamity.Floor.Anim (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Calamity.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Chaos.Floor.Anim (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Chaos.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Cyclone.Floor.Anim (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Cyclone.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Dead.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Demon.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Fallen Angel.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.God's Blessing.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Hell.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Infinite.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Jester.Floor.Anim (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Jester.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.King.Floor.Crown.Anim (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.King.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Oblivion.Floor.Anim (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Oblivion.Floor.Orbs.Anim (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Oblivion.Floor.Orbs2.Anim (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Oblivion.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Pain.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Reborn.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Redemption.Floor.Anim (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Redemption.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Seraphim.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.UNK.Floor.Gain.Title.UIStroke.UIGradient.Anim (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.UNK.Floor.Tag.Title.UIStroke.UIGradient.Anim (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.UNK.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Vitalico.System (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Yin & Yang.Floor.Anim (Script)
+  [SCRIPT] ReplicatedStorage.HiddenZones.Yin & Yang.System (Script)
+  [SCRIPT] ReplicatedStorage.Zone Titles.Chaos.Anim (Script)
+  [SCRIPT] ReplicatedStorage.Zone Titles.Cyclone.Anim (Script)
+  [SCRIPT] System (Script)
+  [SCRIPT] Workspace.27379482728188.Character_System (Script)
+  [SCRIPT] Workspace.27379482728188.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] Workspace.27379482728188.Health (Script)
+  [SCRIPT] Workspace.27379482728188.HumanoidRootPart.PVPThing.System (Script)
+  [SCRIPT] Workspace.Clunanetro5.Character_System (Script)
+  [SCRIPT] Workspace.Clunanetro5.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] Workspace.Clunanetro5.Health (Script)
+  [SCRIPT] Workspace.Clunanetro5.HumanoidRootPart.PVPThing.System (Script)
+  [SCRIPT] Workspace.Event.EventTouch.Anim (Script)
+  [SCRIPT] Workspace.Event.EventTouch.System (Script)
+  [SCRIPT] Workspace.Haukepauke1.Character_System (Script)
+  [SCRIPT] Workspace.Haukepauke1.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] Workspace.Haukepauke1.Health (Script)
+  [SCRIPT] Workspace.Haukepauke1.HumanoidRootPart.PVPThing.System (Script)
+  [SCRIPT] Workspace.Map.Barriers.Hexagon (Script)
+  [SCRIPT] Workspace.Map.Bosses.BrolyIsland.B.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] Workspace.Map.Bosses.BrolyIsland.B.Health (Script)
+  [SCRIPT] Workspace.Map.Bosses.BrolyIsland.B.HealthPlayers (Script)
+  [SCRIPT] Workspace.Map.Bosses.BrolyIsland.B.Move (Script)
+  [SCRIPT] Workspace.Map.Bosses.BrolyIsland.B.Ragdoll (Script)
+  [SCRIPT] Workspace.Map.Bosses.BrolyIsland.B.Skill (Script)
+  [SCRIPT] Workspace.Map.Bosses.BrolyIsland.B.Skill2 (Script)
+  [SCRIPT] Workspace.Map.Bosses.BrolyIsland.B.Transformation (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuBlackIsland.GB.GokuBlackSystem (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuBlackIsland.GB.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuBlackIsland.GB.Health (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuBlackIsland.GB.HealthPlayers (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuBlackIsland.GB.Move (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuBlackIsland.GB.Ragdoll (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuBlackIsland.GB.Skill (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuBlackIsland.GB.Skill2 (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuBlackIsland.GB.Transformation (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuIsland.G.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuIsland.G.Health (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuIsland.G.HealthPlayers (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuIsland.G.Move (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuIsland.G.PlayerHit.System (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuIsland.G.Ragdoll (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuIsland.G.Skill (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuIsland.G.Skill2 (Script)
+  [SCRIPT] Workspace.Map.Bosses.GokuIsland.G.Transformation (Script)
+  [SCRIPT] Workspace.Map.Bosses.VegetaIsland.V.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] Workspace.Map.Bosses.VegetaIsland.V.Health (Script)
+  [SCRIPT] Workspace.Map.Bosses.VegetaIsland.V.HealthPlayers (Script)
+  [SCRIPT] Workspace.Map.Bosses.VegetaIsland.V.Move (Script)
+  [SCRIPT] Workspace.Map.Bosses.VegetaIsland.V.Ragdoll (Script)
+  [SCRIPT] Workspace.Map.Bosses.VegetaIsland.V.Skill (Script)
+  [SCRIPT] Workspace.Map.Bosses.VegetaIsland.V.Skill2 (Script)
+  [SCRIPT] Workspace.Map.Bosses.VegetaIsland.V.SkillVFX (Script)
+  [SCRIPT] Workspace.Map.Bosses.VegetaIsland.V.Transformation (Script)
+  [SCRIPT] Workspace.Map.DarkGrassPart.Waves.Grass.Wave (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Angel.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Berserk.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Calamity.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Chaos.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Cyclone.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Dead.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Demon.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Fallen Angel.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.God's Blessing.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Hell.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Infinite.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Jester.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.King.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Oblivion.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Pain.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Reborn.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Redemption.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Seraphim.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.UNK.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Vitalico.System (Script)
+  [SCRIPT] Workspace.Map.ZoneLocations.Yin & Yang.System (Script)
+  [SCRIPT] Workspace.Roblox93827x.Character_System (Script)
+  [SCRIPT] Workspace.Roblox93827x.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] Workspace.Roblox93827x.Health (Script)
+  [SCRIPT] Workspace.Roblox93827x.HumanoidRootPart.PVPThing.System (Script)
+  [SCRIPT] Workspace.binson922.Character_System (Script)
+  [SCRIPT] Workspace.binson922.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] Workspace.binson922.Health (Script)
+  [SCRIPT] Workspace.binson922.HumanoidRootPart.PVPThing.System (Script)
+  [SCRIPT] Workspace.binson922.PlayerAura.Head.Tag.Anim (Script)
+  [SCRIPT] Workspace.gdfif3215.Character_System (Script)
+  [SCRIPT] Workspace.gdfif3215.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] Workspace.gdfif3215.Health (Script)
+  [SCRIPT] Workspace.gdfif3215.HumanoidRootPart.PVPThing.System (Script)
+  [SCRIPT] Workspace.gdfif3215.PlayerAura.Head.Tag.Anim (Script)
+  [SCRIPT] Workspace.imaginesmurfinginbd.Character_System (Script)
+  [SCRIPT] Workspace.imaginesmurfinginbd.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] Workspace.imaginesmurfinginbd.Health (Script)
+  [SCRIPT] Workspace.imaginesmurfinginbd.HumanoidRootPart.PVPThing.System (Script)
+  [SCRIPT] Workspace.kinggesu.Character_System (Script)
+  [SCRIPT] Workspace.kinggesu.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] Workspace.kinggesu.Health (Script)
+  [SCRIPT] Workspace.kinggesu.HumanoidRootPart.PVPThing.System (Script)
+  [SCRIPT] Workspace.warrior24445.Character_System (Script)
+  [SCRIPT] Workspace.warrior24445.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] Workspace.warrior24445.Health (Script)
+  [SCRIPT] Workspace.warrior24445.HumanoidRootPart.PVPThing.System (Script)
+  [SCRIPT] binson922.Character_System (Script)
+  [SCRIPT] binson922.Head.HealthTag.HealthTagSystem (Script)
+  [SCRIPT] binson922.Health (Script)
+  [SCRIPT] binson922.HumanoidRootPart.PVPThing.System (Script)
+  [SCRIPT] binson922.PlayerAura.Head.Tag.Anim (Script)
+
+── NPCS (15) ──
+  [NPC] Workspace.27379482728188 (Model)
+  [NPC] Workspace.Clunanetro5 (Model)
+  [NPC] Workspace.Haukepauke1 (Model)
+  [NPC] Workspace.Map.Bosses.BrolyIsland.B (Model) AuraGain=500000000000 Boss=Broly UsingSkill=false
+  [NPC] Workspace.Map.Bosses.GokuBlackIsland.GB (Model) AuraGain=500000000000 Boss=Broly UsingSkill=false
+  [NPC] Workspace.Map.Bosses.GokuIsland.G (Model) AuraGain=1000 Boss=Goku UsingSkill=false
+  [NPC] Workspace.Map.Bosses.VegetaIsland.V (Model) AuraGain=500000 Boss=Vegeta UsingSkill=false
+  [NPC] Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1.Rig (Model) NPC=true
+  [NPC] Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1.Rig (Model) NPC=true
+  [NPC] Workspace.Roblox93827x (Model)
+  [NPC] Workspace.binson922 (Model)
+  [NPC] Workspace.gdfif3215 (Model)
+  [NPC] Workspace.imaginesmurfinginbd (Model)
+  [NPC] Workspace.kinggesu (Model)
+  [NPC] Workspace.warrior24445 (Model)
+
+── VALUES (434) ──
+  [BOOLVALUE] Apex Farmer (BoolValue) = true
+  [BOOLVALUE] Fallen Farmer (BoolValue) = true
+  [BOOLVALUE] Farmer (BoolValue) = true
+  [BOOLVALUE] Forbidden Farmer (BoolValue) = true
+  [BOOLVALUE] Initial (BoolValue) = true
+  [BOOLVALUE] Orbital Farmer (BoolValue) = true
+  [BOOLVALUE] Origin Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.27379482728188.CanUseSkill (BoolValue) = false
+  [BOOLVALUE] Workspace.27379482728188.PVP (BoolValue) = false
+  [BOOLVALUE] Workspace.Clunanetro5.CanUseSkill (BoolValue) = false
+  [BOOLVALUE] Workspace.Clunanetro5.PVP (BoolValue) = false
+  [BOOLVALUE] Workspace.Haukepauke1.Auras.Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.Haukepauke1.Auras.Initial (BoolValue) = true
+  [BOOLVALUE] Workspace.Haukepauke1.Auras.Orbital Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.Haukepauke1.CanUseSkill (BoolValue) = false
+  [BOOLVALUE] Workspace.Haukepauke1.PVP (BoolValue) = false
+  [BOOLVALUE] Workspace.Map.Bosses.BrolyIsland.B.CanBeAttacked (BoolValue) = true
+  [BOOLVALUE] Workspace.Map.Bosses.BrolyIsland.B.CanRegen (BoolValue) = false
+  [BOOLVALUE] Workspace.Map.Bosses.BrolyIsland.B.PVP (BoolValue) = true
+  [BOOLVALUE] Workspace.Map.Bosses.GokuBlackIsland.GB.CanBeAttacked (BoolValue) = true
+  [BOOLVALUE] Workspace.Map.Bosses.GokuBlackIsland.GB.CanRegen (BoolValue) = false
+  [BOOLVALUE] Workspace.Map.Bosses.GokuBlackIsland.GB.PVP (BoolValue) = true
+  [BOOLVALUE] Workspace.Map.Bosses.GokuIsland.G.CanBeAttacked (BoolValue) = true
+  [BOOLVALUE] Workspace.Map.Bosses.GokuIsland.G.CanRegen (BoolValue) = false
+  [BOOLVALUE] Workspace.Map.Bosses.GokuIsland.G.PVP (BoolValue) = true
+  [BOOLVALUE] Workspace.Map.Bosses.VegetaIsland.V.CanBeAttacked (BoolValue) = true
+  [BOOLVALUE] Workspace.Map.Bosses.VegetaIsland.V.CanRegen (BoolValue) = false
+  [BOOLVALUE] Workspace.Map.Bosses.VegetaIsland.V.PVP (BoolValue) = true
+  [BOOLVALUE] Workspace.Roblox93827x.Auras.Apex Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.Roblox93827x.Auras.Fallen Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.Roblox93827x.Auras.Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.Roblox93827x.Auras.Initial (BoolValue) = true
+  [BOOLVALUE] Workspace.Roblox93827x.Auras.Orbital Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.Roblox93827x.CanUseSkill (BoolValue) = false
+  [BOOLVALUE] Workspace.Roblox93827x.PVP (BoolValue) = false
+  [BOOLVALUE] Workspace.binson922.Auras.Apex Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.binson922.Auras.Fallen Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.binson922.Auras.Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.binson922.Auras.Forbidden Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.binson922.Auras.Initial (BoolValue) = true
+  [BOOLVALUE] Workspace.binson922.Auras.Orbital Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.binson922.Auras.Origin Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.binson922.Auras.Restricted Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.binson922.Auras.Samurai Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.binson922.CanUseSkill (BoolValue) = true
+  [BOOLVALUE] Workspace.binson922.PVP (BoolValue) = false
+  [BOOLVALUE] Workspace.gdfif3215.Auras.Apex Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.gdfif3215.Auras.Fallen Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.gdfif3215.Auras.Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.gdfif3215.Auras.Forbidden Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.gdfif3215.Auras.Initial (BoolValue) = true
+  [BOOLVALUE] Workspace.gdfif3215.Auras.Orbital Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.gdfif3215.Auras.Origin Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.gdfif3215.Auras.Restricted Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.gdfif3215.Auras.Samurai Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.gdfif3215.CanUseSkill (BoolValue) = true
+  [BOOLVALUE] Workspace.gdfif3215.PVP (BoolValue) = false
+  [BOOLVALUE] Workspace.imaginesmurfinginbd.Auras.Initial (BoolValue) = true
+  [BOOLVALUE] Workspace.imaginesmurfinginbd.CanUseSkill (BoolValue) = false
+  [BOOLVALUE] Workspace.imaginesmurfinginbd.PVP (BoolValue) = false
+  [BOOLVALUE] Workspace.kinggesu.Auras.Apex Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.kinggesu.Auras.Fallen Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.kinggesu.Auras.Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.kinggesu.Auras.Forbidden Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.kinggesu.Auras.Initial (BoolValue) = true
+  [BOOLVALUE] Workspace.kinggesu.Auras.Orbital Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.kinggesu.Auras.Origin Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.kinggesu.CanUseSkill (BoolValue) = true
+  [BOOLVALUE] Workspace.kinggesu.PVP (BoolValue) = false
+  [BOOLVALUE] Workspace.warrior24445.Auras.Farmer (BoolValue) = true
+  [BOOLVALUE] Workspace.warrior24445.Auras.Initial (BoolValue) = true
+  [BOOLVALUE] Workspace.warrior24445.CanUseSkill (BoolValue) = false
+  [BOOLVALUE] Workspace.warrior24445.PVP (BoolValue) = false
+  [BOOLVALUE] binson922.Auras.Apex Farmer (BoolValue) = true
+  [BOOLVALUE] binson922.Auras.Fallen Farmer (BoolValue) = true
+  [BOOLVALUE] binson922.Auras.Farmer (BoolValue) = true
+  [BOOLVALUE] binson922.Auras.Forbidden Farmer (BoolValue) = true
+  [BOOLVALUE] binson922.Auras.Initial (BoolValue) = true
+  [BOOLVALUE] binson922.Auras.Orbital Farmer (BoolValue) = true
+  [BOOLVALUE] binson922.Auras.Origin Farmer (BoolValue) = true
+  [BOOLVALUE] binson922.Auras.Restricted Farmer (BoolValue) = true
+  [BOOLVALUE] binson922.Auras.Samurai Farmer (BoolValue) = true
+  [BOOLVALUE] binson922.CanUseSkill (BoolValue) = true
+  [BOOLVALUE] binson922.PVP (BoolValue) = false
+  [NUMBERVALUE] Rarity (NumberValue) = 3
+  [NUMBERVALUE] ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.27379482728188.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.27379482728188.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.27379482728188.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.27379482728188.Stats.JumpHeight (NumberValue) = 7.2
+  [NUMBERVALUE] Workspace.27379482728188.Stats.WalkSpeed (NumberValue) = 16
+  [NUMBERVALUE] Workspace.Clunanetro5.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Clunanetro5.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.Clunanetro5.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Clunanetro5.Stats.JumpHeight (NumberValue) = 7.2
+  [NUMBERVALUE] Workspace.Clunanetro5.Stats.WalkSpeed (NumberValue) = 16
+  [NUMBERVALUE] Workspace.Haukepauke1.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Haukepauke1.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.Haukepauke1.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Haukepauke1.PlayerAura.Rarity (NumberValue) = 2
+  [NUMBERVALUE] Workspace.Haukepauke1.Stats.JumpHeight (NumberValue) = 7.2
+  [NUMBERVALUE] Workspace.Haukepauke1.Stats.WalkSpeed (NumberValue) = 21
+  [NUMBERVALUE] Workspace.Map.Bosses.BrolyIsland.B.Move.Settings.FlySpeed (NumberValue) = 80
+  [NUMBERVALUE] Workspace.Map.Bosses.GokuBlackIsland.GB.Move.Settings.FlySpeed (NumberValue) = 80
+  [NUMBERVALUE] Workspace.Map.Bosses.GokuIsland.G.Move.Settings.FlySpeed (NumberValue) = 45
+  [NUMBERVALUE] Workspace.Map.Bosses.VegetaIsland.V.Move.Settings.FlySpeed (NumberValue) = 100
+  [NUMBERVALUE] Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1.Rig.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1.Rig.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Roblox93827x.AnimatU.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Roblox93827x.AnimatU.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.Roblox93827x.AnimatU.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Roblox93827x.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Roblox93827x.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.Roblox93827x.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Roblox93827x.AnimationPeding.AnimatU.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Roblox93827x.AnimationPeding.AnimatU.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.Roblox93827x.AnimationPeding.AnimatU.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.Roblox93827x.PlayerAura.Rarity (NumberValue) = 4
+  [NUMBERVALUE] Workspace.Roblox93827x.Stats.JumpHeight (NumberValue) = 8
+  [NUMBERVALUE] Workspace.Roblox93827x.Stats.WalkSpeed (NumberValue) = 27
+  [NUMBERVALUE] Workspace.binson922.AnimatU.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.binson922.AnimatU.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.binson922.AnimatU.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.binson922.PlayerAura.Rarity (NumberValue) = 8
+  [NUMBERVALUE] Workspace.binson922.Stats.JumpHeight (NumberValue) = 12
+  [NUMBERVALUE] Workspace.binson922.Stats.WalkSpeed (NumberValue) = 35
+  [NUMBERVALUE] Workspace.gdfif3215.AnimatU.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.gdfif3215.AnimatU.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.gdfif3215.AnimatU.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.gdfif3215.PlayerAura.Rarity (NumberValue) = 8
+  [NUMBERVALUE] Workspace.gdfif3215.Stats.JumpHeight (NumberValue) = 12
+  [NUMBERVALUE] Workspace.gdfif3215.Stats.WalkSpeed (NumberValue) = 35
+  [NUMBERVALUE] Workspace.imaginesmurfinginbd.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.imaginesmurfinginbd.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.imaginesmurfinginbd.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.imaginesmurfinginbd.Stats.JumpHeight (NumberValue) = 7.2
+  [NUMBERVALUE] Workspace.imaginesmurfinginbd.Stats.WalkSpeed (NumberValue) = 16
+  [NUMBERVALUE] Workspace.kinggesu.AnimatU.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.kinggesu.AnimatU.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.kinggesu.AnimatU.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.kinggesu.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.kinggesu.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.kinggesu.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.kinggesu.AnimationPeding.AnimatU.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.kinggesu.AnimationPeding.AnimatU.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.kinggesu.AnimationPeding.AnimatU.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.kinggesu.PlayerAura.Rarity (NumberValue) = 4
+  [NUMBERVALUE] Workspace.kinggesu.Stats.JumpHeight (NumberValue) = 10
+  [NUMBERVALUE] Workspace.kinggesu.Stats.WalkSpeed (NumberValue) = 30
+  [NUMBERVALUE] Workspace.warrior24445.Animate.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] Workspace.warrior24445.Animate.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] Workspace.warrior24445.Animate.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] Workspace.warrior24445.PlayerAura.Rarity (NumberValue) = 1
+  [NUMBERVALUE] Workspace.warrior24445.Stats.JumpHeight (NumberValue) = 7.2
+  [NUMBERVALUE] Workspace.warrior24445.Stats.WalkSpeed (NumberValue) = 18
+  [NUMBERVALUE] binson922.AnimatU.ScaleDampeningPercent (NumberValue) = 1
+  [NUMBERVALUE] binson922.AnimatU.idle.Animation1.Weight (NumberValue) = 9
+  [NUMBERVALUE] binson922.AnimatU.idle.Animation2.Weight (NumberValue) = 1
+  [NUMBERVALUE] binson922.PlayerAura.Rarity (NumberValue) = 8
+  [NUMBERVALUE] binson922.Stats.JumpHeight (NumberValue) = 12
+  [NUMBERVALUE] binson922.Stats.WalkSpeed (NumberValue) = 35
+  [OBJECTVALUE] ReplicatedStorage.TopbarPlusReference (ObjectValue) = Icon
+  [OBJECTVALUE] Workspace.Map.Bosses.BrolyIsland.B.AnimSaves (ObjectValue) = nil
+  [OBJECTVALUE] Workspace.Map.Bosses.GokuBlackIsland.GB.AnimSaves (ObjectValue) = nil
+  [OBJECTVALUE] Workspace.Map.Bosses.GokuIsland.G.AnimSaves (ObjectValue) = nil
+  [OBJECTVALUE] Workspace.Map.Bosses.VegetaIsland.V.AnimSaves (ObjectValue) = nil
+  [STRINGVALUE] PlayerHit (StringValue) = gdfif3215
+  [STRINGVALUE] Workspace.27379482728188.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.27379482728188.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.27379482728188.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.27379482728188.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.27379482728188.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.27379482728188.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.27379482728188.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.27379482728188.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.27379482728188.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Clunanetro5.Accessory (Handle1Accessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Clunanetro5.Accessory (MeshPartAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Clunanetro5.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Clunanetro5.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Clunanetro5.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Clunanetro5.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Clunanetro5.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.Clunanetro5.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Clunanetro5.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Clunanetro5.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Clunanetro5.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Haukepauke1.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Haukepauke1.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Haukepauke1.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Haukepauke1.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Haukepauke1.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.Haukepauke1.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Haukepauke1.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Haukepauke1.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Haukepauke1.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.Map.Bosses.GokuIsland.G.PlayerHit (StringValue) = gdfif3215
+  [STRINGVALUE] Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1.Rig.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1.Rig.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1.Rig.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1.Rig.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1.Rig.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1.Rig.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1.Rig.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1.Rig.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1.Rig.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1.Rig.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1.Rig.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1.Rig.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1.Rig.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1.Rig.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1.Rig.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1.Rig.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimatU.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimatU.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimatU.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimatU.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimatU.run (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimatU.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimatU.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimatU.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimationPeding.AnimatU.climb (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimationPeding.AnimatU.fall (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimationPeding.AnimatU.idle (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimationPeding.AnimatU.jump (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimationPeding.AnimatU.run (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimationPeding.AnimatU.sit (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimationPeding.AnimatU.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.AnimationPeding.AnimatU.walk (StringValue) = 
+  [STRINGVALUE] Workspace.Roblox93827x.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.binson922.AnimatU.climb (StringValue) = 
+  [STRINGVALUE] Workspace.binson922.AnimatU.fall (StringValue) = 
+  [STRINGVALUE] Workspace.binson922.AnimatU.idle (StringValue) = 
+  [STRINGVALUE] Workspace.binson922.AnimatU.jump (StringValue) = 
+  [STRINGVALUE] Workspace.binson922.AnimatU.run (StringValue) = 
+  [STRINGVALUE] Workspace.binson922.AnimatU.sit (StringValue) = 
+  [STRINGVALUE] Workspace.binson922.AnimatU.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.binson922.AnimatU.walk (StringValue) = 
+  [STRINGVALUE] Workspace.binson922.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.binson922.Slime1Accessory.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.binson922.light_fae.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.gdfif3215.AnimatU.climb (StringValue) = 
+  [STRINGVALUE] Workspace.gdfif3215.AnimatU.fall (StringValue) = 
+  [STRINGVALUE] Workspace.gdfif3215.AnimatU.idle (StringValue) = 
+  [STRINGVALUE] Workspace.gdfif3215.AnimatU.jump (StringValue) = 
+  [STRINGVALUE] Workspace.gdfif3215.AnimatU.run (StringValue) = 
+  [STRINGVALUE] Workspace.gdfif3215.AnimatU.sit (StringValue) = 
+  [STRINGVALUE] Workspace.gdfif3215.AnimatU.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.gdfif3215.AnimatU.walk (StringValue) = 
+  [STRINGVALUE] Workspace.gdfif3215.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.imaginesmurfinginbd.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.imaginesmurfinginbd.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.imaginesmurfinginbd.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.imaginesmurfinginbd.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.imaginesmurfinginbd.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.imaginesmurfinginbd.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.imaginesmurfinginbd.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.imaginesmurfinginbd.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.imaginesmurfinginbd.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.kinggesu.Accessory (Meshes/Nah Id Win Gojo head with manga text).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.kinggesu.Accessory (NewAccessory).Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.kinggesu.AnimatU.climb (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimatU.fall (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimatU.idle (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimatU.jump (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimatU.run (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimatU.sit (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimatU.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimatU.walk (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimationPeding.AnimatU.climb (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimationPeding.AnimatU.fall (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimationPeding.AnimatU.idle (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimationPeding.AnimatU.jump (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimationPeding.AnimatU.run (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimationPeding.AnimatU.sit (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimationPeding.AnimatU.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.AnimationPeding.AnimatU.walk (StringValue) = 
+  [STRINGVALUE] Workspace.kinggesu.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.warrior24445.Animate.climb (StringValue) = 
+  [STRINGVALUE] Workspace.warrior24445.Animate.fall (StringValue) = 
+  [STRINGVALUE] Workspace.warrior24445.Animate.idle (StringValue) = 
+  [STRINGVALUE] Workspace.warrior24445.Animate.jump (StringValue) = 
+  [STRINGVALUE] Workspace.warrior24445.Animate.run (StringValue) = 
+  [STRINGVALUE] Workspace.warrior24445.Animate.sit (StringValue) = 
+  [STRINGVALUE] Workspace.warrior24445.Animate.toolnone (StringValue) = 
+  [STRINGVALUE] Workspace.warrior24445.Animate.walk (StringValue) = 
+  [STRINGVALUE] Workspace.warrior24445.CampHat.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.warrior24445.GoldHorns.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.warrior24445.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] Workspace.warrior24445.light_fae.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] binson922.AnimatU.climb (StringValue) = 
+  [STRINGVALUE] binson922.AnimatU.fall (StringValue) = 
+  [STRINGVALUE] binson922.AnimatU.idle (StringValue) = 
+  [STRINGVALUE] binson922.AnimatU.jump (StringValue) = 
+  [STRINGVALUE] binson922.AnimatU.run (StringValue) = 
+  [STRINGVALUE] binson922.AnimatU.sit (StringValue) = 
+  [STRINGVALUE] binson922.AnimatU.toolnone (StringValue) = 
+  [STRINGVALUE] binson922.AnimatU.walk (StringValue) = 
+  [STRINGVALUE] binson922.Head.Mesh.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] binson922.Slime1Accessory.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] binson922.light_fae.Handle.AvatarPartScaleType (StringValue) = Classic
+  [STRINGVALUE] climb (StringValue) = 
+  [STRINGVALUE] fall (StringValue) = 
+  [STRINGVALUE] idle (StringValue) = 
+  [STRINGVALUE] jump (StringValue) = 
+  [STRINGVALUE] run (StringValue) = 
+  [STRINGVALUE] sit (StringValue) = 
+  [STRINGVALUE] toolnone (StringValue) = 
+  [STRINGVALUE] walk (StringValue) = 
+  [VECTOR3VALUE] Workspace.27379482728188.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.940733750837808e-16, -0.09522533416748047, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.27379482728188.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.03810283510265e-16, -0.015717506408691406, -0.5946589112281799
+  [VECTOR3VALUE] Workspace.27379482728188.Head.Mesh.HairAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.27379482728188.Head.Mesh.HatAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.27379482728188.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5452252626419067, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.27379482728188.Pal Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.34999990463256836, 0.2497277557849884
+  [VECTOR3VALUE] Workspace.27379482728188.Pal Hair.Handle.OriginalSize (Vector3Value) = 1, 1, 2
+  [VECTOR3VALUE] Workspace.Clunanetro5.Accessory (Handle1Accessory).Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.0007205009460449219, -0.047801971435546875, 0.18352317810058594
+  [VECTOR3VALUE] Workspace.Clunanetro5.Accessory (Handle1Accessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Clunanetro5.Accessory (MeshPartAccessory).Handle.BodyBackAttachment.OriginalPosition (Vector3Value) = 0.24988174438476562, -0.1509847640991211, -0.00034332275390625
+  [VECTOR3VALUE] Workspace.Clunanetro5.Accessory (MeshPartAccessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.Clunanetro5.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.Clunanetro5.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5944212675094604
+  [VECTOR3VALUE] Workspace.Clunanetro5.Head.Mesh.HairAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.Clunanetro5.Head.Mesh.HatAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.Clunanetro5.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.Haukepauke1.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.940733750837808e-16, -0.09522533416748047, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.Haukepauke1.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.03810283510265e-16, -0.015717506408691406, -0.5946589112281799
+  [VECTOR3VALUE] Workspace.Haukepauke1.Head.Mesh.HairAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.Haukepauke1.Head.Mesh.HatAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.Haukepauke1.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5452252626419067, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.Haukepauke1.MessyHair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.23000001907348633, 0.030727755278348923
+  [VECTOR3VALUE] Workspace.Haukepauke1.MessyHair.Handle.OriginalSize (Vector3Value) = 1.0299999713897705, 1, 1.6699999570846558
+  [VECTOR3VALUE] Workspace.Map.Barriers.Hexagon.Value (Vector3Value) = -2.453878402709961, 2.2493886947631836, 0
+  [VECTOR3VALUE] Workspace.Map.Bosses.BrolyIsland.B.Broly Hair.Handle.OriginalSize (Vector3Value) = 2.2854251861572266, 2.809290647506714, 2.3086490631103516
+  [VECTOR3VALUE] Workspace.Map.Bosses.BrolyIsland.B.Broly SSJ2.Handle.OriginalSize (Vector3Value) = 3.4329898357391357, 3.841829776763916, 3.302499771118164
+  [VECTOR3VALUE] Workspace.Map.Bosses.GokuBlackIsland.GB.Goku hair.Handle.OriginalSize (Vector3Value) = 2.799999952316284, 2.799999952316284, 2.799999952316284
+  [VECTOR3VALUE] Workspace.Map.Bosses.GokuBlackIsland.GB.Hair.Handle.OriginalSize (Vector3Value) = 2.5, 2.5, 2.5
+  [VECTOR3VALUE] Workspace.Map.Bosses.GokuIsland.G.Hair.Handle.OriginalSize (Vector3Value) = 2.799999952316284, 2.799999952316284, 2.799999952316284
+  [VECTOR3VALUE] Workspace.Map.Bosses.VegetaIsland.V.VegetaHair.Handle.OriginalSize (Vector3Value) = 1.1999995708465576, 0.800000011920929, 1.1999998092651367
+  [VECTOR3VALUE] Workspace.Map.Bosses.VegetaIsland.V.VegetaSSJHair.Handle.OriginalSize (Vector3Value) = 2.5, 2.5999999046325684, 2.5999999046325684
+  [VECTOR3VALUE] Workspace.Roblox93827x.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, -0.000019311904907226562
+  [VECTOR3VALUE] Workspace.Roblox93827x.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5946791768074036
+  [VECTOR3VALUE] Workspace.Roblox93827x.Head.Mesh.HairAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, -0.000019311904907226562
+  [VECTOR3VALUE] Workspace.Roblox93827x.Head.Mesh.HatAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, -0.000019311904907226562
+  [VECTOR3VALUE] Workspace.Roblox93827x.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, -0.000019311904907226562
+  [VECTOR3VALUE] Workspace.Roblox93827x.Kate Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.658389560878277e-09, 0.19999980926513672, -0.0002722442150115967
+  [VECTOR3VALUE] Workspace.Roblox93827x.Kate Hair.Handle.OriginalSize (Vector3Value) = 1, 1, 2
+  [VECTOR3VALUE] Workspace.binson922.BIPIBackpack.Handle.BodyBackAttachment.OriginalPosition (Vector3Value) = 0, -0.20000000298023224, 0.12999999523162842
+  [VECTOR3VALUE] Workspace.binson922.BIPIBackpack.Handle.OriginalSize (Vector3Value) = 1.6000275611877441, 0.800000011920929, 1.5999977588653564
+  [VECTOR3VALUE] Workspace.binson922.BIPIHeadphones.Handle.HatAttachment.OriginalPosition (Vector3Value) = 8.658389560878277e-09, 0.25, -0.0002722442150115967
+  [VECTOR3VALUE] Workspace.binson922.BIPIHeadphones.Handle.OriginalSize (Vector3Value) = 1.7900266647338867, 1.0499979257583618, 0.8300027847290039
+  [VECTOR3VALUE] Workspace.binson922.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, -0.000019311904907226562
+  [VECTOR3VALUE] Workspace.binson922.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5946791768074036
+  [VECTOR3VALUE] Workspace.binson922.Head.Mesh.HairAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, -0.000019311904907226562
+  [VECTOR3VALUE] Workspace.binson922.Head.Mesh.HatAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, -0.000019311904907226562
+  [VECTOR3VALUE] Workspace.binson922.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, -0.000019311904907226562
+  [VECTOR3VALUE] Workspace.binson922.NerdGlasses.Handle.FaceFrontAttachment.OriginalPosition (Vector3Value) = 3.9362930692732334e-09, -0.19999980926513672, -0.40027230978012085
+  [VECTOR3VALUE] Workspace.binson922.NerdGlasses.Handle.OriginalSize (Vector3Value) = 1.3299999237060547, 1, 1.7000000476837158
+  [VECTOR3VALUE] Workspace.binson922.Pal Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.34999990463256836, 0.2497277557849884
+  [VECTOR3VALUE] Workspace.binson922.Pal Hair.Handle.OriginalSize (Vector3Value) = 1, 1, 2
+  [VECTOR3VALUE] Workspace.binson922.Slime1Accessory.Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.00757598876953125, -0.2500438690185547, 0.0490570068359375
+  [VECTOR3VALUE] Workspace.binson922.Slime1Accessory.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.binson922.light_fae.Handle.LeftCollarAttachment.OriginalPosition (Vector3Value) = 0.3959522247314453, -0.672821044921875, -3.390665277797329e-17
+  [VECTOR3VALUE] Workspace.binson922.light_fae.Handle.OriginalSize (Vector3Value) = 0.85675048828125, 0.6283410787582397, 0.43560123443603516
+  [VECTOR3VALUE] Workspace.gdfif3215.Head.Mesh.FaceCenterAttachment (Vector3Value) = -0.00000286102294921875, 0.0761406421661377, 0.007814168930053711
+  [VECTOR3VALUE] Workspace.gdfif3215.Head.Mesh.FaceFrontAttachment (Vector3Value) = -0.00000286102294921875, 0.0761406421661377, -0.5821858048439026
+  [VECTOR3VALUE] Workspace.gdfif3215.Head.Mesh.HairAttachment (Vector3Value) = -0.00000286102294921875, 0.6661403179168701, 0.007814168930053711
+  [VECTOR3VALUE] Workspace.gdfif3215.Head.Mesh.HatAttachment (Vector3Value) = -0.00000286102294921875, 0.6661403179168701, 0.007814168930053711
+  [VECTOR3VALUE] Workspace.gdfif3215.Head.Mesh.NeckRigAttachment (Vector3Value) = -0.00000286102294921875, -0.4148595333099365, 0.007813572883605957
+  [VECTOR3VALUE] Workspace.gdfif3215.Pal Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.34999990463256836, 0.2497277557849884
+  [VECTOR3VALUE] Workspace.gdfif3215.Pal Hair.Handle.OriginalSize (Vector3Value) = 1, 1, 2
+  [VECTOR3VALUE] Workspace.imaginesmurfinginbd.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.940733750837808e-16, -0.09522533416748047, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.imaginesmurfinginbd.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.03810283510265e-16, -0.015717506408691406, -0.5946589112281799
+  [VECTOR3VALUE] Workspace.imaginesmurfinginbd.Head.Mesh.HairAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.imaginesmurfinginbd.Head.Mesh.HatAttachment (Vector3Value) = 3.7988133312132847e-16, 0.6054496765136719, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.imaginesmurfinginbd.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5452252626419067, 9.5367431640625e-07
+  [VECTOR3VALUE] Workspace.imaginesmurfinginbd.Pal Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.34999990463256836, 0.2497277557849884
+  [VECTOR3VALUE] Workspace.imaginesmurfinginbd.Pal Hair.Handle.OriginalSize (Vector3Value) = 1, 1, 2
+  [VECTOR3VALUE] Workspace.kinggesu.Accessory (Meshes/Nah Id Win Gojo head with manga text).Handle.HairAttachment.OriginalPosition (Vector3Value) = 0.2117455005645752, 0.3149418830871582, -0.128618985414505
+  [VECTOR3VALUE] Workspace.kinggesu.Accessory (Meshes/Nah Id Win Gojo head with manga text).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.kinggesu.Accessory (NewAccessory).Handle.LeftCollarAttachment.OriginalPosition (Vector3Value) = 0.20230484008789062, -0.4449639916419983, 0.000030517578125
+  [VECTOR3VALUE] Workspace.kinggesu.Accessory (NewAccessory).Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] Workspace.kinggesu.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.kinggesu.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5944212675094604
+  [VECTOR3VALUE] Workspace.kinggesu.Head.Mesh.HairAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.kinggesu.Head.Mesh.HatAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.kinggesu.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, 0.00023856759071350098
+  [VECTOR3VALUE] Workspace.warrior24445.CampHat.Handle.HatAttachment.OriginalPosition (Vector3Value) = 5.960464477539063e-08, -0.07956880331039429, 0.031917452812194824
+  [VECTOR3VALUE] Workspace.warrior24445.CampHat.Handle.OriginalSize (Vector3Value) = 2.5, 1.2999999523162842, 2.5
+  [VECTOR3VALUE] Workspace.warrior24445.GoldHorns.Handle.HatAttachment.OriginalPosition (Vector3Value) = 8.101427922183553e-29, -0.35452836751937866, 0.17085382342338562
+  [VECTOR3VALUE] Workspace.warrior24445.GoldHorns.Handle.OriginalSize (Vector3Value) = 1.7000000476837158, 1.2000000476837158, 1
+  [VECTOR3VALUE] Workspace.warrior24445.Head.Mesh.FaceCenterAttachment (Vector3Value) = 3.050594188794487e-16, 0.02475738525390625, 0.00225830078125
+  [VECTOR3VALUE] Workspace.warrior24445.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.050594188794487e-16, 0.02475738525390625, -0.5877416729927063
+  [VECTOR3VALUE] Workspace.warrior24445.Head.Mesh.HairAttachment (Vector3Value) = 3.7731357921150666e-16, 0.6147572994232178, 0.00225830078125
+  [VECTOR3VALUE] Workspace.warrior24445.Head.Mesh.HatAttachment (Vector3Value) = 3.7731357921150666e-16, 0.6147572994232178, 0.00225830078125
+  [VECTOR3VALUE] Workspace.warrior24445.Head.Mesh.NeckRigAttachment (Vector3Value) = 4.898584763362711e-16, -0.4662435054779053, 0.0022591352462768555
+  [VECTOR3VALUE] Workspace.warrior24445.MessyHair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.23000001907348633, 0.030727755278348923
+  [VECTOR3VALUE] Workspace.warrior24445.MessyHair.Handle.OriginalSize (Vector3Value) = 1.0299999713897705, 1, 1.6699999570846558
+  [VECTOR3VALUE] Workspace.warrior24445.light_fae.Handle.LeftCollarAttachment.OriginalPosition (Vector3Value) = 0.3959522247314453, -0.672821044921875, -3.390665277797329e-17
+  [VECTOR3VALUE] Workspace.warrior24445.light_fae.Handle.OriginalSize (Vector3Value) = 0.85675048828125, 0.6283410787582397, 0.43560123443603516
+  [VECTOR3VALUE] binson922.BIPIBackpack.Handle.BodyBackAttachment.OriginalPosition (Vector3Value) = 0, -0.20000000298023224, 0.12999999523162842
+  [VECTOR3VALUE] binson922.BIPIBackpack.Handle.OriginalSize (Vector3Value) = 1.6000275611877441, 0.800000011920929, 1.5999977588653564
+  [VECTOR3VALUE] binson922.BIPIHeadphones.Handle.HatAttachment.OriginalPosition (Vector3Value) = 8.658389560878277e-09, 0.25, -0.0002722442150115967
+  [VECTOR3VALUE] binson922.BIPIHeadphones.Handle.OriginalSize (Vector3Value) = 1.7900266647338867, 1.0499979257583618, 0.8300027847290039
+  [VECTOR3VALUE] binson922.Head.Mesh.FaceCenterAttachment (Vector3Value) = 2.992158973950189e-16, -0.09381890296936035, -0.000019311904907226562
+  [VECTOR3VALUE] binson922.Head.Mesh.FaceFrontAttachment (Vector3Value) = 3.089527793517235e-16, -0.014311075210571289, -0.5946791768074036
+  [VECTOR3VALUE] binson922.Head.Mesh.HairAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, -0.000019311904907226562
+  [VECTOR3VALUE] binson922.Head.Mesh.HatAttachment (Vector3Value) = 3.8502382896278694e-16, 0.606856107711792, -0.000019311904907226562
+  [VECTOR3VALUE] binson922.Head.Mesh.NeckRigAttachment (Vector3Value) = 2.3896427333489317e-16, -0.5858105421066284, -0.000019311904907226562
+  [VECTOR3VALUE] binson922.NerdGlasses.Handle.FaceFrontAttachment.OriginalPosition (Vector3Value) = 3.9362930692732334e-09, -0.19999980926513672, -0.40027230978012085
+  [VECTOR3VALUE] binson922.NerdGlasses.Handle.OriginalSize (Vector3Value) = 1.3299999237060547, 1, 1.7000000476837158
+  [VECTOR3VALUE] binson922.Pal Hair.Handle.HairAttachment.OriginalPosition (Vector3Value) = 8.657480066176504e-09, 0.34999990463256836, 0.2497277557849884
+  [VECTOR3VALUE] binson922.Pal Hair.Handle.OriginalSize (Vector3Value) = 1, 1, 2
+  [VECTOR3VALUE] binson922.Slime1Accessory.Handle.HatAttachment.OriginalPosition (Vector3Value) = 0.00757598876953125, -0.2500438690185547, 0.0490570068359375
+  [VECTOR3VALUE] binson922.Slime1Accessory.Handle.OriginalSize (Vector3Value) = 1, 1, 1
+  [VECTOR3VALUE] binson922.light_fae.Handle.LeftCollarAttachment.OriginalPosition (Vector3Value) = 0.3959522247314453, -0.672821044921875, -3.390665277797329e-17
+  [VECTOR3VALUE] binson922.light_fae.Handle.OriginalSize (Vector3Value) = 0.85675048828125, 0.6283410787582397, 0.43560123443603516
+
+── OTHER (185) ──
+  BigBangExplosion (MeshPart) IsBigBangPart=true
+  BigBangExplosionCore (MeshPart) IsBigBangPart=true
+  BigBangProjectile (MeshPart) IsBigBangPart=true
+  NpcKameBeam (MeshPart) EmitDelay=0 Transparency=0 Duration=0 Roation=0 IsKamehamehaPart=true TimeBeforeReset=0 CFrame=0 Size=0
+  NpcKameBeamCore (MeshPart) EmitDelay=0 Transparency=0 Duration=0 Roation=0 IsKamehamehaPart=true TimeBeforeReset=0 CFrame=0 Size=0
+  NpcKameExplosion (Part) IsKamehamehaPart=true
+  NpcKameExplosionCore (Part) IsKamehamehaPart=true
+  ReplicatedStorage.Effects (Folder)
+  ReplicatedStorage.Effects.Beam (MeshPart) EmitDelay=0 Transparency=0 Roation=0 CFrame=0 TimeBeforeReset=0 Duration=0 Size=0
+  ReplicatedStorage.Events (Folder)
+  ReplicatedStorage.Events.Chat (Folder)
+  ReplicatedStorage.Explosions (Folder)
+  ReplicatedStorage.HiddenZones (Folder)
+  ReplicatedStorage.HiddenZones.Angel (Folder)
+  ReplicatedStorage.HiddenZones.Berserk (Folder)
+  ReplicatedStorage.HiddenZones.Calamity (Folder)
+  ReplicatedStorage.HiddenZones.Chaos (Folder)
+  ReplicatedStorage.HiddenZones.Cyclone (Folder)
+  ReplicatedStorage.HiddenZones.Dead (Folder)
+  ReplicatedStorage.HiddenZones.Demon (Folder)
+  ReplicatedStorage.HiddenZones.Fallen Angel (Folder)
+  ReplicatedStorage.HiddenZones.God's Blessing (Folder)
+  ReplicatedStorage.HiddenZones.Hell (Folder)
+  ReplicatedStorage.HiddenZones.Infinite (Folder)
+  ReplicatedStorage.HiddenZones.Jester (Folder)
+  ReplicatedStorage.HiddenZones.King (Folder)
+  ReplicatedStorage.HiddenZones.Oblivion (Folder)
+  ReplicatedStorage.HiddenZones.Pain (Folder)
+  ReplicatedStorage.HiddenZones.Reborn (Folder)
+  ReplicatedStorage.HiddenZones.Redemption (Folder)
+  ReplicatedStorage.HiddenZones.Seraphim (Folder)
+  ReplicatedStorage.HiddenZones.UNK (Folder)
+  ReplicatedStorage.HiddenZones.Vitalico (Folder)
+  ReplicatedStorage.HiddenZones.Yin & Yang (Folder)
+  ReplicatedStorage.ModuleScripts (Folder)
+  ReplicatedStorage.ModuleScripts.Icon.Elements (Folder)
+  ReplicatedStorage.ModuleScripts.Icon.Features (Folder)
+  ReplicatedStorage.ModuleScripts.Icon.Packages (Folder)
+  ReplicatedStorage.Zone Titles (Folder)
+  Workspace.27379482728188.AnimationPeding (Folder)
+  Workspace.27379482728188.Auras (Folder)
+  Workspace.27379482728188.Pal Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.27379482728188.Skills (Folder)
+  Workspace.27379482728188.Stats (Folder)
+  Workspace.BigBangExplosion (MeshPart) IsBigBangPart=true
+  Workspace.BigBangExplosionCore (MeshPart) IsBigBangPart=true
+  Workspace.BigBangProjectile (MeshPart) IsBigBangPart=true
+  Workspace.Clunanetro5.Accessory (Handle1Accessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Clunanetro5.Accessory (MeshPartAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Clunanetro5.AnimationPeding (Folder)
+  Workspace.Clunanetro5.Auras (Folder)
+  Workspace.Clunanetro5.Skills (Folder)
+  Workspace.Clunanetro5.Stats (Folder)
+  Workspace.Debris (Folder)
+  Workspace.Debris.NpcKameBeam (MeshPart) EmitDelay=0 Transparency=0 Duration=0 Roation=0 IsKamehamehaPart=true TimeBeforeReset=0 CFrame=0 Size=0
+  Workspace.Debris.NpcKameBeamCore (MeshPart) EmitDelay=0 Transparency=0 Duration=0 Roation=0 IsKamehamehaPart=true TimeBeforeReset=0 CFrame=0 Size=0
+  Workspace.Debris.NpcKameExplosion (Part) IsKamehamehaPart=true
+  Workspace.Debris.NpcKameExplosionCore (Part) IsKamehamehaPart=true
+  Workspace.DistanceFade_SurfaceParts (Folder)
+  Workspace.Event (Folder)
+  Workspace.Haukepauke1.AnimationPeding (Folder)
+  Workspace.Haukepauke1.Auras (Folder)
+  Workspace.Haukepauke1.MessyHair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Haukepauke1.Skills (Folder)
+  Workspace.Haukepauke1.Stats (Folder)
+  Workspace.Map (Folder)
+  Workspace.Map.Barriers (Folder)
+  Workspace.Map.Berserk Island (Folder)
+  Workspace.Map.Berserk Island.DarkMount (Folder)
+  Workspace.Map.Berserk Island.DarkTree (Folder)
+  Workspace.Map.Bosses (Folder)
+  Workspace.Map.Bosses.BrolyIsland (Folder)
+  Workspace.Map.Bosses.BrolyIsland.B.Move.Settings (Configuration)
+  Workspace.Map.Bosses.BrolyIsland.Meteors (Folder)
+  Workspace.Map.Bosses.BrolyIsland.Rocks (Folder)
+  Workspace.Map.Bosses.GokuBlackIsland (Folder)
+  Workspace.Map.Bosses.GokuBlackIsland.GB.Move.Settings (Configuration)
+  Workspace.Map.Bosses.GokuBlackIsland.Swords (Folder)
+  Workspace.Map.Bosses.GokuIsland (Folder)
+  Workspace.Map.Bosses.GokuIsland.G.Move.Settings (Configuration)
+  Workspace.Map.Bosses.GokuIsland.SandMount (Folder)
+  Workspace.Map.Bosses.VegetaIsland (Folder)
+  Workspace.Map.Bosses.VegetaIsland.Meteors (Folder)
+  Workspace.Map.Bosses.VegetaIsland.V.Move.Settings (Configuration)
+  Workspace.Map.ConcretePart (Folder)
+  Workspace.Map.ConcretePart.Rocks (Folder)
+  Workspace.Map.DarkGrassPart (Folder)
+  Workspace.Map.DarkGrassPart.Grass (Folder)
+  Workspace.Map.DarkGrassPart.Waves (Folder)
+  Workspace.Map.Fog Island (Folder)
+  Workspace.Map.Fog Island.Leaves (Folder)
+  Workspace.Map.Fog Island.Rock (Folder)
+  Workspace.Map.GrassPart (Folder)
+  Workspace.Map.GrassPart.Trees (Folder)
+  Workspace.Map.Hell Island (Folder)
+  Workspace.Map.Hell Island.FlameRock (Folder)
+  Workspace.Map.IcePart (Folder)
+  Workspace.Map.IcePart.Spikes (Folder)
+  Workspace.Map.King Island (Folder)
+  Workspace.Map.King Island.Bushs (Folder)
+  Workspace.Map.King Island.Leafs (Folder)
+  Workspace.Map.King Island.Tree (Folder)
+  Workspace.Map.Lobby (Folder)
+  Workspace.Map.Lobby.Aura Leaderboard (Folder)
+  Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1 (Folder)
+  Workspace.Map.Lobby.Aura Leaderboard.TopPlayer1.Rig.Pal Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Map.Lobby.Kills Leaderboard (Folder)
+  Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1 (Folder)
+  Workspace.Map.Lobby.Kills Leaderboard.TopPlayer1.Rig.Pal Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Map.Reborn Island (Folder)
+  Workspace.Map.Reborn Island.Bushs (Folder)
+  Workspace.Map.Reborn Island.Spikes (Folder)
+  Workspace.Map.SandPart (Folder)
+  Workspace.Map.SandPart.Balls (Folder)
+  Workspace.Map.SandPart.Crabs (Folder)
+  Workspace.Map.SandPart.Sands (Folder)
+  Workspace.Map.Sea (Folder)
+  Workspace.Map.Sky Island (Folder)
+  Workspace.Map.Sky Island.Clouds (Folder)
+  Workspace.Map.Sky Island.Trees (Folder)
+  Workspace.Map.ZoneLocations (Folder)
+  Workspace.Players (Folder)
+  Workspace.Players.27379482728188 (Folder)
+  Workspace.Players.Clunanetro5 (Folder)
+  Workspace.Players.Haukepauke1 (Folder)
+  Workspace.Players.Kingcrane89998 (Folder)
+  Workspace.Players.Roblox93827x (Folder)
+  Workspace.Players.binson922 (Folder)
+  Workspace.Players.gdfif3215 (Folder)
+  Workspace.Players.imaginesmurfinginbd (Folder)
+  Workspace.Players.kinggesu (Folder)
+  Workspace.Players.warrior24445 (Folder)
+  Workspace.Roblox93827x.AnimationPeding (Folder)
+  Workspace.Roblox93827x.Auras (Folder)
+  Workspace.Roblox93827x.Kate Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.Roblox93827x.Skills (Folder)
+  Workspace.Roblox93827x.Stats (Folder)
+  Workspace.SFX (Folder)
+  Workspace.Zones (Folder)
+  Workspace.binson922.AnimationPeding (Folder)
+  Workspace.binson922.Auras (Folder)
+  Workspace.binson922.BIPIBackpack.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.binson922.BIPIHeadphones.Handle (Part) RBXRefinementScale=1.059999942779541, 1.059999942779541, 1.059999942779541
+  Workspace.binson922.NerdGlasses.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.binson922.Pal Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.binson922.Skills (Folder)
+  Workspace.binson922.Slime1Accessory.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.binson922.Stats (Folder)
+  Workspace.binson922.light_fae.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.gdfif3215.AnimationPeding (Folder)
+  Workspace.gdfif3215.Auras (Folder)
+  Workspace.gdfif3215.Pal Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.gdfif3215.Skills (Folder)
+  Workspace.gdfif3215.Stats (Folder)
+  Workspace.imaginesmurfinginbd.AnimationPeding (Folder)
+  Workspace.imaginesmurfinginbd.Auras (Folder)
+  Workspace.imaginesmurfinginbd.Pal Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.imaginesmurfinginbd.Skills (Folder)
+  Workspace.imaginesmurfinginbd.Stats (Folder)
+  Workspace.kinggesu.Accessory (Meshes/Nah Id Win Gojo head with manga text).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.kinggesu.Accessory (NewAccessory).Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.kinggesu.AnimationPeding (Folder)
+  Workspace.kinggesu.Auras (Folder)
+  Workspace.kinggesu.Skills (Folder)
+  Workspace.kinggesu.Stats (Folder)
+  Workspace.warrior24445.AnimationPeding (Folder)
+  Workspace.warrior24445.Auras (Folder)
+  Workspace.warrior24445.CampHat.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.warrior24445.GoldHorns.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.warrior24445.MessyHair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.warrior24445.Skills (Folder)
+  Workspace.warrior24445.Stats (Folder)
+  Workspace.warrior24445.light_fae.Handle (Part) RBXRefinementScale=1, 1, 1
+  [SPAWNLOCATION] Workspace.Map.Lobby.SpawnLocation (SpawnLocation)
+  binson922 (Folder)
+  binson922.AnimationPeding (Folder)
+  binson922.Auras (Folder)
+  binson922.BIPIBackpack.Handle (Part) RBXRefinementScale=1, 1, 1
+  binson922.BIPIHeadphones.Handle (Part) RBXRefinementScale=1.059999942779541, 1.059999942779541, 1.059999942779541
+  binson922.NerdGlasses.Handle (Part) RBXRefinementScale=1, 1, 1
+  binson922.Pal Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  binson922.Skills (Folder)
+  binson922.Slime1Accessory.Handle (Part) RBXRefinementScale=1, 1, 1
+  binson922.Stats (Folder)
+  binson922.light_fae.Handle (Part) RBXRefinementScale=1, 1, 1

@@ -1,0 +1,220 @@
+rch_door__Fill__Limestone__968674
+  Workspace.Lobby.Structure.Shell1.HallNorth.MapMesh_arch.M_Jambs (MeshPart) MapMesh=lb_arch_door SourceName=lb_arch_door__Jambs__Sandstone__C4B49A
+  Workspace.Lobby.Structure.Shell1.HallNorth.MapMesh_arch.M_Ring (MeshPart) MapMesh=lb_arch_door SourceName=lb_arch_door__Ring__Sandstone__C4B49A
+  Workspace.Lobby.Structure.Shell1.HallNorth.MapMesh_arch.M_StrapLow9 (MeshPart) MapMesh=lb_arch_bars SourceName=lb_arch_bars__StrapLow9__Metal__3A3633
+  Workspace.Lobby.Structure.Shell1.HallNorth.MapMesh_arch.M_StrapTop9 (MeshPart) MapMesh=lb_arch_bars SourceName=lb_arch_bars__StrapTop9__Metal__3A3633
+  Workspace.Lobby.Structure.Shell1.HallSouthPortal.MapMesh_arch (Model) MapGroup=arch MapKey=3610fd1b-7952-4324-8bf4-f6e188f2fe46 MapParams=[{"p":"Ring","s":[0.875,0.875,2],"c":"C4B49A","m":"Sandstone","f":[0,12,30,1,0,0,0,1,0,0,0,1]},{"p":"Fill","s":[0.875,0.875,2],"c":"968674","m":"Limestone","f":[0,12,30,1,0,0,0,1,0,0,0,1]},{"p":"Jambs","s":[0.875,1.12,2],"c":"C4B49A","m":"Sandstone","v":[0,-0.8,0],"f":[0,12,30,1,0,0,0,1,0,0,0,1]}] MapSwap=lb_arch_door
+  Workspace.Lobby.Structure.Shell1.HallSouthPortal.MapMesh_arch.ArchCollider (Part) MapCollider=true
+  Workspace.Lobby.Structure.Shell1.HallSouthPortal.MapMesh_arch.M_Fill (MeshPart) MapMesh=lb_arch_door SourceName=lb_arch_door__Fill__Limestone__968674
+  Workspace.Lobby.Structure.Shell1.HallSouthPortal.MapMesh_arch.M_Jambs (MeshPart) MapMesh=lb_arch_door SourceName=lb_arch_door__Jambs__Sandstone__C4B49A
+  Workspace.Lobby.Structure.Shell1.HallSouthPortal.MapMesh_arch.M_Ring (MeshPart) MapMesh=lb_arch_door SourceName=lb_arch_door__Ring__Sandstone__C4B49A
+  Workspace.Lobby.Structure.Shell1.HallWest.Keystone (Part) ArchRise=4
+  Workspace.Lobby.Structure.Shell1.HallWest.MapMesh_arch (Model) MapGroup=arch MapKey=38d1de0d-e28b-4afd-8555-ff69fb4812e3 MapParams=[{"p":"Ring","s":[1,1,1],"c":"C4B49A","m":"Sandstone","f":[-38,25,-20,0,0,-1,0,1,0,1,0,0]},{"p":"Fill","s":[1,1,1],"c":"968674","m":"Limestone","f":[-38,25,-20,0,0,-1,0,1,0,1,0,0]},{"p":"Jambs","s":[1,0.8,1],"c":"C4B49A","m":"Sandstone","v":[0,-0.8,0],"f":[-38,25,-20,0,0,-1,0,1,0,1,0,0]},{"id":"lb_arch_bars","p":"BarsLow3","s":[1,0.8,1],"c":"221F1D","m":"Metal","f":[-38,25,-20,0,0,-1,0,1,0,1,0,0]},{"id":"lb_arch_bars","p":"BarsTop3","s":[1,1,1],"c":"221F1D","m":"Metal","f":[-38,25,-20,0,0,-1,0,1,0,1,0,0]},{"id":"lb_arch_bars","p":"StrapLow3","s":[1,1,1],"c":"3A3633","m":"Metal","o":[0,-2.6,0],"f":[-38,25,-20,0,0,-1,0,1,0,1,0,0]},{"id":"lb_arch_bars","p":"StrapTop3","s":[1,1,1],"c":"3A3633","m":"Metal","f":[-38,25,-20,0,0,-1,0,1,0,1,0,0]}] MapSwap=lb_arch_window
+  Workspace.Lobby.Structure.Shell1.HallWest.MapMesh_arch.ArchCollider (Part) MapCollider=true
+  Workspace.Lobby.Structure.Shell1.HallWest.MapMesh_arch.M_BarsLow3 (MeshPart) MapMesh=lb_arch_bars SourceName=lb_arch_bars__BarsLow3__Metal__221F1D
+  Workspace.Lobby.Structure.Shell1.HallWest.MapMesh_arch.M_BarsTop3 (MeshPart) MapMesh=lb_arch_bars SourceName=lb_arch_bars__BarsTop3__Metal__221F1D
+  Workspace.Lobby.Structure.Shell1.HallWest.MapMesh_arch.M_Fill (MeshPart) MapMesh=lb_arch_window SourceName=lb_arch_window__Fill__Limestone__968674
+  Workspace.Lobby.Structure.Shell1.HallWest.MapMesh_arch.M_Jambs (MeshPart) MapMesh=lb_arch_window SourceName=lb_arch_window__Jambs__Sandstone__C4B49A
+  Workspace.Lobby.Structure.Shell1.HallWest.MapMesh_arch.M_Ring (MeshPart) MapMesh=lb_arch_window SourceName=lb_arch_window__Ring__Sandstone__C4B49A
+  Workspace.Lobby.Structure.Shell1.HallWest.MapMesh_arch.M_StrapLow3 (MeshPart) MapMesh=lb_arch_bars SourceName=lb_arch_bars__StrapLow3__Metal__3A3633
+  Workspace.Lobby.Structure.Shell1.HallWest.MapMesh_arch.M_StrapTop3 (MeshPart) MapMesh=lb_arch_bars SourceName=lb_arch_bars__StrapTop3__Metal__3A3633
+  Workspace.Lobby.Structure.Shell2 (Folder)
+  Workspace.Lobby.Structure.Shell2.MarketShell.MarketEast.MapMesh_arch (Model) MapGroup=arch MapKey=918320a0-561c-4f88-9fe3-7e2594ce4222 MapParams=[{"p":"Ring","s":[1.5,1.5,1],"c":"C4B49A","m":"Sandstone","f":[114,12,2,0,0,-1,0,1,0,1,0,0]},{"p":"Fill","s":[1.5,1.5,1],"c":"968674","m":"Limestone","f":[114,12,2,0,0,-1,0,1,0,1,0,0]},{"p":"Jambs","s":[1.5,2.8,1],"c":"C4B49A","m":"Sandstone","v":[0,-0.8,0],"f":[114,12,2,0,0,-1,0,1,0,1,0,0]}] MapSwap=lb_arch_window
+  Workspace.Lobby.Structure.Shell2.MarketShell.MarketEast.MapMesh_arch.ArchCollider (Part) MapCollider=true
+  Workspace.Lobby.Structure.Shell2.MarketShell.MarketEast.MapMesh_arch.M_Fill (MeshPart) MapMesh=lb_arch_window SourceName=lb_arch_window__Fill__Limestone__968674
+  Workspace.Lobby.Structure.Shell2.MarketShell.MarketEast.MapMesh_arch.M_Jambs (MeshPart) MapMesh=lb_arch_window SourceName=lb_arch_window__Jambs__Sandstone__C4B49A
+  Workspace.Lobby.Structure.Shell2.MarketShell.MarketEast.MapMesh_arch.M_Ring (MeshPart) MapMesh=lb_arch_window SourceName=lb_arch_window__Ring__Sandstone__C4B49A
+  Workspace.Lobby.Structure.Shell2.MarketShell.MarketNorth.MapMesh_arch (Model) MapGroup=arch MapKey=4ea28512-4e1d-4bfc-8dc4-216a995742b8 MapParams=[{"p":"Ring","s":[1.5,1.5,1],"c":"C4B49A","m":"Sandstone","f":[76,12,-46,1,0,0,0,1,0,0,0,1]},{"p":"Fill","s":[1.5,1.5,1],"c":"968674","m":"Limestone","f":[76,12,-46,1,0,0,0,1,0,0,0,1]},{"p":"Jambs","s":[1.5,2.8,1],"c":"C4B49A","m":"Sandstone","v":[0,-0.8,0],"f":[76,12,-46,1,0,0,0,1,0,0,0,1]}] MapSwap=lb_arch_window
+  Workspace.Lobby.Structure.Shell2.MarketShell.MarketNorth.MapMesh_arch.ArchCollider (Part) MapCollider=true
+  Workspace.Lobby.Structure.Shell2.MarketShell.MarketNorth.MapMesh_arch.M_Fill (MeshPart) MapMesh=lb_arch_window SourceName=lb_arch_window__Fill__Limestone__968674
+  Workspace.Lobby.Structure.Shell2.MarketShell.MarketNorth.MapMesh_arch.M_Jambs (MeshPart) MapMesh=lb_arch_window SourceName=lb_arch_window__Jambs__Sandstone__C4B49A
+  Workspace.Lobby.Structure.Shell2.MarketShell.MarketNorth.MapMesh_arch.M_Ring (MeshPart) MapMesh=lb_arch_window SourceName=lb_arch_window__Ring__Sandstone__C4B49A
+  Workspace.Lobby.TravelPoints (Folder)
+  Workspace.Sanctum (Model) Palette=warm Origin=2600, 0, 0 StreamBoundsCenter=2600, 69.5, 0 StreamBoundsSize=480, 165, 480
+  Workspace.Sanctum.AbilityAltar (Model) Station=Abilities
+  Workspace.Sanctum.AbilityAltar.Crystal (Model) MeshScale=2.4 SpinPivot=2644, 17.7999992, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1 SpinAxis=0, 1, 0 SpinSpeed=5
+  Workspace.Sanctum.AbilityAltar.RingA (Model) SpinPivot=2644, 17.7999992, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1 SpinAxis=0, 1, 0 SpinSpeed=2
+  Workspace.Sanctum.AbilityAltar.RingB (Model) SpinPivot=2644, 17.7999992, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1 SpinAxis=0, 1, 0 SpinSpeed=-3
+  Workspace.Sanctum.AbilityAltar.RingC (Model) SpinPivot=2644, 17.7999992, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1 SpinAxis=0, 1, 0 SpinSpeed=1.5
+  Workspace.Xenovibe_twitch.AbilityLook (Folder) Ability=sol_judgement
+  Workspace.Xenovibe_twitch.AbilityLook.Gem (MeshPart) SourceName=abw_sunring__Gem__Neon__FFD650
+  Workspace.Xenovibe_twitch.AbilityLook.Ring (MeshPart) SourceName=abw_sunring__Ring__Metal__E8B44C
+  Workspace.Xenovibe_twitch.AbilityLook.Spike (MeshPart) SourceName=abw_sunring__Spike__Metal__FFD678
+  Workspace.Xenovibe_twitch.Back.Handle (MeshPart) PartName=Cape SourceName=dimachaerus_chest__Cape__Fabric__9E1F28
+  Workspace.Xenovibe_twitch.Back.Hem (MeshPart) SourceName=dimachaerus_chest__Hem__Metal__D4A63C
+  Workspace.Xenovibe_twitch.Left.Handle (MeshPart) PartName=LGreave SourceName=dimachaerus_legs__LGreave__Metal__B4BAC2
+  Workspace.Xenovibe_twitch.Left.LCuff (MeshPart) SourceName=dimachaerus_gloves__LCuff__Leather__64121A
+  Workspace.Xenovibe_twitch.Left.LGold (MeshPart) SourceName=dimachaerus_legs__LGold__Metal__D4A63C
+  Workspace.Xenovibe_twitch.Left.LRims (MeshPart) SourceName=dimachaerus_gloves__LRims__Metal__D4A63C
+  Workspace.Xenovibe_twitch.Main.Baldric (MeshPart) SourceName=dimachaerus_chest__Baldric__Leather__64121A
+  Workspace.Xenovibe_twitch.Main.Gold (MeshPart) SourceName=dimachaerus_chest__Gold__Metal__D4A63C
+  Workspace.Xenovibe_twitch.Main.Grille (MeshPart) SourceName=dimachaerus_helmet__Grille__Metal__6A7079
+  Workspace.Xenovibe_twitch.Main.Handle (MeshPart) PartName=Lames SourceName=dimachaerus_chest__Lames__Metal__B4BAC2
+  Workspace.Xenovibe_twitch.Main.Plume (MeshPart) SourceName=dimachaerus_helmet__Plume__Fabric__9E1F28
+  Workspace.Xenovibe_twitch.Right.Handle (MeshPart) PartName=RGreave SourceName=dimachaerus_legs__RGreave__Metal__B4BAC2
+  Workspace.Xenovibe_twitch.Right.RCuff (MeshPart) SourceName=dimachaerus_gloves__RCuff__Leather__64121A
+  Workspace.Xenovibe_twitch.Right.RGold (MeshPart) SourceName=dimachaerus_legs__RGold__Metal__D4A63C
+  Workspace.Xenovibe_twitch.Right.RRims (MeshPart) SourceName=dimachaerus_gloves__RRims__Metal__D4A63C
+  Workspace.Xenovibe_twitch.Skirt.Enamel (MeshPart) SourceName=dimachaerus_legs__Enamel__SmoothPlastic__9E1F28
+  Workspace.Xenovibe_twitch.Skirt.Handle (MeshPart) PartName=Balteus SourceName=dimachaerus_legs__Balteus__Metal__D4A63C
+  Workspace.hhttgffsyd.AbilityLook (Folder) Ability=shadow_step
+  Workspace.hhttgffsyd.AbilityLook.Cape (MeshPart) SourceName=abw_cape__Cape__Fabric__3C1E5A
+  Workspace.hhttgffsyd.AbilityLook.Clasp (MeshPart) SourceName=abw_cape__Clasp__Metal__E8B44C
+  Workspace.hhttgffsyd.AbilityLook.Hood (MeshPart) SourceName=abw_hood__Hood__Fabric__280A3C
+  Workspace.hhttgffsyd.AbilityLook.Mantle (MeshPart) SourceName=abw_cape__Mantle__Fabric__28143C
+  Workspace.hhttgffsyd.AbilityLook.Mask (MeshPart) SourceName=abw_hood__Mask__Fabric__1C0A2A
+  Workspace.hhttgffsyd.Left.Handle (MeshPart) PartName=LGreave SourceName=praetorian_legs__LGreave__Metal__2F2C36
+  Workspace.hhttgffsyd.Left.LRivets (MeshPart) SourceName=gloves_rare__LRivets__Metal__C59244
+  Workspace.hhttgffsyd.Left.LSilver (MeshPart) SourceName=praetorian_legs__LSilver__Metal__B4B9C4
+  Workspace.hhttgffsyd.Main.Gold (MeshPart) SourceName=secutor_chest__Gold__Metal__C99A3E
+  Workspace.hhttgffsyd.Main.Grille (MeshPart) SourceName=dimachaerus_helmet__Grille__Metal__6A7079
+  Workspace.hhttgffsyd.Main.Handle (MeshPart) PartName=Lames SourceName=secutor_chest__Lames__Metal__565A64
+  Workspace.hhttgffsyd.Main.Plume (MeshPart) SourceName=dimachaerus_helmet__Plume__Fabric__9E1F28
+  Workspace.hhttgffsyd.Main.Strap (MeshPart) SourceName=secutor_chest__Strap__Leather__43163A
+  Workspace.hhttgffsyd.Right.Handle (MeshPart) PartName=RGreave SourceName=praetorian_legs__RGreave__Metal__2F2C36
+  Workspace.hhttgffsyd.Right.RRivets (MeshPart) SourceName=gloves_rare__RRivets__Metal__C59244
+  Workspace.hhttgffsyd.Right.RSilver (MeshPart) SourceName=praetorian_legs__RSilver__Metal__B4B9C4
+  Workspace.hhttgffsyd.Skirt.BeltGem (MeshPart) SourceName=praetorian_legs__BeltGem__Neon__B884FF
+  Workspace.hhttgffsyd.Skirt.Handle (MeshPart) PartName=Belt SourceName=praetorian_legs__Belt__Metal__B4B9C4
+  Workspace.noob64ha.Back.BPlates (MeshPart) SourceName=chest_rare__BPlates__Metal__8C9298
+  Workspace.noob64ha.Back.BRoll (MeshPart) SourceName=chest_rare__BRoll__Fabric__A3261B
+  Workspace.noob64ha.Back.BStraps (MeshPart) SourceName=chest_rare__BStraps__Leather__4E321E
+  Workspace.noob64ha.Back.Handle (MeshPart) PartName=BFittings SourceName=chest_rare__BFittings__Metal__C59244
+  Workspace.noob64ha.Left.Handle (MeshPart) PartName=LFur SourceName=germanus_legs__LFur__Fabric__946238
+  Workspace.noob64ha.Left.LIron (MeshPart) SourceName=germanus_legs__LIron__Metal__3A3633
+  Workspace.noob64ha.Main.Beads (MeshPart) SourceName=numidia_helmet__Beads__Plastic__E8DCC0
+  Workspace.noob64ha.Main.Brooch (MeshPart) SourceName=numidia_helmet__Brooch__Metal__B0793A
+  Workspace.noob64ha.Main.Cap (MeshPart) SourceName=numidia_helmet__Cap__Leather__5A3A22
+  Workspace.noob64ha.Main.Fittings (MeshPart) SourceName=chest_rare__Fittings__Metal__C59244
+  Workspace.noob64ha.Main.Focale (MeshPart) SourceName=chest_rare__Focale__Fabric__A3261B
+  Workspace.noob64ha.Main.Handle (MeshPart) PartName=Plates SourceName=chest_rare__Plates__Metal__8C9298
+  Workspace.noob64ha.Main.Plume (MeshPart) SourceName=numidia_helmet__Plume__Fabric__F1EDE4
+  Workspace.noob64ha.Pal Hair.Handle (Part) RBXRefinementScale=1, 1, 1 PreHelmetTransparency=0
+  Workspace.noob64ha.Right.Handle (MeshPart) PartName=RFur SourceName=germanus_legs__RFur__Fabric__946238
+  Workspace.noob64ha.Right.RIron (MeshPart) SourceName=germanus_legs__RIron__Metal__3A3633
+  Workspace.noob64ha.Skirt.Buckle (MeshPart) SourceName=germanus_legs__Buckle__Metal__3A3633
+  Workspace.noob64ha.Skirt.Handle (MeshPart) PartName=Belt SourceName=germanus_legs__Belt__Leather__4E321E
+  Workspace.noob64ha.gladius_rusty (Tool) WeaponId=gladius_rusty Source=blender:weapons WeaponModelId=gladius_rusty Kit=Gladiator BladeScale=1.35 WeaponClass=Sword Assembled=true
+  Workspace.noob64ha.gladius_rusty.Blade (MeshPart) SourceName=gladius_rusty__Blade__CorrodedMetal__7B726A
+  Workspace.noob64ha.gladius_rusty.Edge (MeshPart) SourceName=gladius_rusty__Edge__Metal__B3ACA2
+  Workspace.noob64ha.gladius_rusty.Grip (MeshPart) SourceName=gladius_rusty__Grip__Wood__A0703F
+  Workspace.noob64ha.gladius_rusty.Hilt (MeshPart) SourceName=gladius_rusty__Hilt__Wood__5C3A22
+  Workspace.noob64ha.gladius_rusty.Rust (MeshPart) SourceName=gladius_rusty__Rust__CorrodedMetal__7C4428
+  Workspace.noob64ha.scutum_rusty.Back (MeshPart) SourceName=scutum_rusty__Back__Wood__6B4526
+  Workspace.noob64ha.scutum_rusty.Boss (MeshPart) SourceName=scutum_rusty__Boss__CorrodedMetal__8A5030
+  Workspace.noob64ha.scutum_rusty.Face (MeshPart) SourceName=scutum_rusty__Face__WoodPlanks__9A3B2B
+  Workspace.noob64ha.scutum_rusty.Handle (MeshPart) PartName=Iron SourceName=scutum_rusty__Iron__CorrodedMetal__4A4642
+  Workspace.noob64ha.scutum_rusty.Paint (MeshPart) SourceName=scutum_rusty__Paint__SmoothPlastic__B89A5C
+  Workspace.patsnape132.Back.BGem (MeshPart) SourceName=chest_epic__BGem__Neon__A070D0
+  Workspace.patsnape132.Back.BGold (MeshPart) SourceName=chest_epic__BGold__Metal__D9A441
+  Workspace.patsnape132.Back.Handle (MeshPart) PartName=Cape SourceName=chest_epic__Cape__Fabric__62298F
+  Workspace.patsnape132.Left.Handle (MeshPart) PartName=LWrist SourceName=provocator_gloves__LWrist__Leather__3A2418
+  Workspace.patsnape132.Left.LKnot (MeshPart) SourceName=gloves_common__LKnot__Fabric__7A725F
+  Workspace.patsnape132.Left.LRim (MeshPart) SourceName=murmillo_legs__LRim__Metal__5B6068
+  Workspace.patsnape132.Left.LRing (MeshPart) SourceName=provocator_gloves__LRing__Metal__C99A3E
+  Workspace.patsnape132.Main.Band (MeshPart) SourceName=helmet_common__Band__Leather__4E321E
+  Workspace.patsnape132.Main.Gem (MeshPart) SourceName=chest_epic__Gem__Neon__A070D0
+  Workspace.patsnape132.Main.Handle (MeshPart) PartName=Cap SourceName=helmet_common__Cap__Leather__7A5232
+  Workspace.patsnape132.Main.Sash (MeshPart) SourceName=chest_epic__Sash__Fabric__62298F
+  Workspace.patsnape132.Main.Studs (MeshPart) SourceName=helmet_common__Studs__Metal__B0793A
+  Workspace.patsnape132.Main.Trim (MeshPart) SourceName=chest_epic__Trim__Metal__D9A441
+  Workspace.patsnape132.Right.Handle (MeshPart) PartName=RBands SourceName=provocator_gloves__RBands__Metal__4A4E58
+  Workspace.patsnape132.Right.RAnkle (MeshPart) SourceName=murmillo_legs__RAnkle__Metal__5B6068
+  Workspace.patsnape132.Right.RCuff (MeshPart) SourceName=provocator_gloves__RCuff__Leather__3A2418
+  Workspace.patsnape132.Right.RKnot (MeshPart) SourceName=gloves_common__RKnot__Fabric__7A725F
+  Workspace.patsnape132.Right.RRim (MeshPart) SourceName=provocator_gloves__RRim__Metal__C99A3E
+  Workspace.patsnape132.Skirt.Handle (MeshPart) PartName=Balteus SourceName=murmillo_legs__Balteus__Metal__A9AFB7
+  Workspace.patsnape132.Skirt.Studs (MeshPart) SourceName=murmillo_legs__Studs__Metal__C9A04E
+  Workspace.patsnape132.bow_naumachia (Tool) Rarity=Rare WeaponModelId=bow_naumachia DisplayName=Naumachia Bow Source=blender:items_v19_b Assembled=true TrailColor=0.352941, 0.705882, 0.784314 Kit=Archer WeaponId=bow_naumachia WeaponClass=Bow WeaponSet=retiarius
+  Workspace.patsnape132.bow_naumachia.BAG_NockedArrow (Model) Length=3.02 Source=blender:weapons Assembled=true
+  Workspace.patsnape132.bow_naumachia.BAG_NockedArrow.Fletching (MeshPart) SourceName=arrow__Fletching__Fabric__B8382A
+  Workspace.patsnape132.bow_naumachia.BAG_NockedArrow.ShaftMesh (MeshPart) SourceName=arrow__Shaft__Wood__C9A26B
+  Workspace.patsnape132.bow_naumachia.BAG_NockedArrow.Tip (MeshPart) SourceName=arrow__Tip__Metal__7E7B76
+  Workspace.patsnape132.bow_naumachia.Grip (MeshPart) SourceName=bow_naumachia__Grip__Plastic__E0705A
+  Workspace.patsnape132.bow_naumachia.Limbs (MeshPart) SourceName=bow_naumachia__Limbs__Plastic__1F3A5F
+  Workspace.patsnape132.bow_naumachia.Pearl (MeshPart) SourceName=bow_naumachia__Pearl__Plastic__EDEAE0
+  Workspace.patsnape132.bow_naumachia.Silver (MeshPart) SourceName=bow_naumachia__Silver__Metal__D2DBE1
+  Workspace.patsnape132.bow_naumachia.String (MeshPart) SourceName=bow_naumachia__String__Fabric__EDEAE0
+  Workspace.patsnape132.bow_naumachia.Teal (MeshPart) SourceName=bow_naumachia__Teal__Plastic__2E8B8B
+  Workspace.phoenixblazebringer.AbilityLook (Folder) Ability=frost_nova
+  Workspace.phoenixblazebringer.AbilityLook.Core (MeshPart) SourceName=abw_shard__Core__Neon__E6FFFF
+  Workspace.phoenixblazebringer.AbilityLook.Shard (MeshPart) SourceName=abw_shard__Shard__Glass__78EBFF
+  Workspace.phoenixblazebringer.Back.Floats (MeshPart) SourceName=retiarius_chest__Floats__Plastic__E0705A
+  Workspace.phoenixblazebringer.Back.Handle (MeshPart) PartName=Net SourceName=retiarius_chest__Net__Fabric__C2AE86
+  Workspace.phoenixblazebringer.Back.NStrap (MeshPart) SourceName=retiarius_chest__NStrap__Leather__1F3A5F
+  Workspace.phoenixblazebringer.Left.Handle (MeshPart) PartName=LCuff SourceName=murmillo_gloves__LCuff__Leather__4A3020
+  Workspace.phoenixblazebringer.Left.LRing (MeshPart) SourceName=murmillo_gloves__LRing__Metal__5B6068
+  Workspace.phoenixblazebringer.Main.Clasp (MeshPart) SourceName=retiarius_chest__Clasp__SmoothPlastic__EDEAE0
+  Workspace.phoenixblazebringer.Main.Float (MeshPart) SourceName=retiarius_chest__Float__SmoothPlastic__E0705A
+  Workspace.phoenixblazebringer.Main.Handle (MeshPart) PartName=Galerus SourceName=retiarius_chest__Galerus__Metal__B8C2C8
+  Workspace.phoenixblazebringer.Main.Rim (MeshPart) SourceName=retiarius_chest__Rim__Metal__B0793A
+  Workspace.phoenixblazebringer.Main.Rope (MeshPart) SourceName=retiarius_chest__Rope__Fabric__C2AE86
+  Workspace.phoenixblazebringer.Pal Hair.Handle (Part) RBXRefinementScale=1, 1, 1
+  Workspace.phoenixblazebringer.Right.Handle (MeshPart) PartName=RBands SourceName=murmillo_gloves__RBands__Metal__A9AFB7
+  Workspace.phoenixblazebringer.Right.RCord (MeshPart) SourceName=murmillo_gloves__RCord__Fabric__A8232A
+  Workspace.phoenixblazebringer.Right.RCuff (MeshPart) SourceName=murmillo_gloves__RCuff__Leather__4A3020
+  Workspace.phoenixblazebringer.Right.REdge (MeshPart) SourceName=murmillo_gloves__REdge__Metal__5B6068
+  Workspace.szuiram.Back.CloakTrim (MeshPart) SourceName=praetorian_chest__CloakTrim__Metal__B4B9C4
+  Workspace.szuiram.Back.Handle (MeshPart) PartName=Cloak SourceName=praetorian_chest__Cloak__Fabric__4E1F72
+  Workspace.szuiram.Left.Handle (MeshPart) PartName=LGreave SourceName=retiarius_legs__LGreave__Metal__B0793A
+  Workspace.szuiram.Left.LGauntlet (MeshPart) SourceName=dis_pater_gloves__LGauntlet__Basalt__17151C
+  Workspace.szuiram.Left.LGlow (MeshPart) SourceName=dis_pater_gloves__LGlow__Neon__3DF2D2
+  Workspace.szuiram.Left.LRing (MeshPart) SourceName=murmillo_gloves__LRing__Metal__5B6068
+  Workspace.szuiram.Left.LStrap (MeshPart) SourceName=retiarius_legs__LStrap__Fabric__1F3A5F
+  Workspace.szuiram.Main.Band (MeshPart) SourceName=praetorian_chest__Band__SmoothPlastic__4E1F72
+  Workspace.szuiram.Main.Crest (MeshPart) SourceName=secutor_helmet__Crest__SmoothPlastic__6A2758
+  Workspace.szuiram.Main.Gem (MeshPart) SourceName=praetorian_chest__Gem__Neon__B884FF
+  Workspace.szuiram.Main.Gold (MeshPart) SourceName=secutor_helmet__Gold__Metal__C99A3E
+  Workspace.szuiram.Main.Handle (MeshPart) PartName=Shell SourceName=secutor_helmet__Shell__Metal__565A64
+  Workspace.szuiram.Main.Relief (MeshPart) SourceName=praetorian_chest__Relief__Metal__4C4756
+  Workspace.szuiram.Main.Silver (MeshPart) SourceName=praetorian_chest__Silver__Metal__B4B9C4
+  Workspace.szuiram.Right.Handle (MeshPart) PartName=RGreave SourceName=retiarius_legs__RGreave__Metal__B0793A
+  Workspace.szuiram.Right.RCord (MeshPart) SourceName=murmillo_gloves__RCord__Fabric__A8232A
+  Workspace.szuiram.Right.RCuff (MeshPart) SourceName=murmillo_gloves__RCuff__Leather__4A3020
+  Workspace.szuiram.Right.REdge (MeshPart) SourceName=murmillo_gloves__REdge__Metal__5B6068
+  Workspace.szuiram.Right.RGauntlet (MeshPart) SourceName=dis_pater_gloves__RGauntlet__Basalt__17151C
+  Workspace.szuiram.Right.RGlow (MeshPart) SourceName=dis_pater_gloves__RGlow__Neon__3DF2D2
+  Workspace.szuiram.Right.RStrap (MeshPart) SourceName=retiarius_legs__RStrap__Fabric__1F3A5F
+  Workspace.szuiram.Skirt.Belt (MeshPart) SourceName=retiarius_legs__Belt__Metal__B8C2C8
+  Workspace.szuiram.Skirt.Handle (MeshPart) PartName=Weights SourceName=retiarius_legs__Weights__Metal__5A5550
+  Workspace.szuiram.aegis_obsidian.Back (MeshPart) SourceName=aegis_obsidian__Back__Leather__2E2430
+  Workspace.szuiram.aegis_obsidian.Face (MeshPart) SourceName=aegis_obsidian__Face__Glass__1E1A26
+  Workspace.szuiram.aegis_obsidian.Grip (MeshPart) SourceName=aegis_obsidian__Grip__Leather__6B4A2E
+  Workspace.szuiram.aegis_obsidian.Handle (MeshPart) PartName=Gold SourceName=aegis_obsidian__Gold__Metal__DDAA3C
+  Workspace.szuiram.aegis_obsidian.Runes (MeshPart) SourceName=aegis_obsidian__Runes__Neon__9050F0
+  Workspace.szuiram.gladius_praetorian (Tool) Rarity=Epic Assembled=true DisplayName=Praetorian Gladius Source=blender:weapons_v7 WeaponId=gladius_praetorian WeaponModelId=gladius_praetorian Kit=Gladiator BladeScale=1.35 WeaponClass=Sword WeaponSet=praetorian
+  Workspace.szuiram.gladius_praetorian.Blade (MeshPart) SourceName=gladius_praetorian__Blade__Metal__D0D7DF
+  Workspace.szuiram.gladius_praetorian.Edge (MeshPart) SourceName=gladius_praetorian__Edge__Metal__F4F7FA
+  Workspace.szuiram.gladius_praetorian.Gem (MeshPart) SourceName=gladius_praetorian__Gem__Neon__B884FF
+  Workspace.szuiram.gladius_praetorian.Gold (MeshPart) SourceName=gladius_praetorian__Gold__Metal__E2B23E
+  Workspace.szuiram.gladius_praetorian.Grip (MeshPart) SourceName=gladius_praetorian__Grip__Fabric__552679
+  Workspace.xuca1324.AbilityLook (Folder) Ability=iron_skin
+  Workspace.xuca1324.AbilityLook.Boss (MeshPart) SourceName=abw_lorica__Boss__Metal__E8B44C
+  Workspace.xuca1324.AbilityLook.Core (MeshPart) SourceName=abw_lorica__Core__Neon__DCF0FF
+  Workspace.xuca1324.AbilityLook.Plate (MeshPart) SourceName=abw_shoulder__Plate__Metal__828A96
+  Workspace.xuca1324.AbilityLook.Rivet (MeshPart) SourceName=abw_shoulder__Rivet__Metal__E8B44C
+  Workspace.xuca1324.AbilityLook.Seam (MeshPart) SourceName=abw_shoulder__Seam__Neon__96B4D2
+  Workspace.xuca1324.Back.CloakTrim (MeshPart) SourceName=praetorian_chest__CloakTrim__Metal__B4B9C4
+  Workspace.xuca1324.Back.Handle (MeshPart) PartName=Cloak SourceName=praetorian_chest__Cloak__Fabric__4E1F72
+  Workspace.xuca1324.Left.Handle (MeshPart) PartName=LGreave SourceName=centurion_legs__LGreave__Metal__E3E7EB
+  Workspace.xuca1324.Left.LBrass (MeshPart) SourceName=centurion_legs__LBrass__Metal__CC9C4A
+  Workspace.xuca1324.Left.LGem (MeshPart) SourceName=gloves_epic__LGem__Neon__A070D0
+  Workspace.xuca1324.Main.Band (MeshPart) SourceName=praetorian_chest__Band__SmoothPlastic__4E1F72
+  Workspace.xuca1324.Main.Gem (MeshPart) SourceName=praetorian_chest__Gem__Neon__B884FF
+  Workspace.xuca1324.Main.Handle (MeshPart) PartName=Cuirass SourceName=praetorian_chest__Cuirass__Metal__2F2C36
+  Workspace.xuca1324.Main.Plume (MeshPart) SourceName=praetorian_helmet__Plume__Fabric__6A2C9A
+  Workspace.xuca1324.Main.Relief (MeshPart) SourceName=praetorian_chest__Relief__Metal__4C4756
+  Workspace.xuca1324.Main.Silver (MeshPart) SourceName=praetorian_chest__Silver__Metal__B4B9C4
+  Workspace.xuca1324.MessyHair.Handle (Part) PreHelmetTransparency=0 RBXRefinementScale=1, 1, 1
+  Workspace.xuca1324.Right.Handle (MeshPart) PartName=RGreave SourceName=centurion_legs__RGreave__Metal__E3E7EB
+  Workspace.xuca1324.Right.RBrass (MeshPart) SourceName=centurion_legs__RBrass__Metal__CC9C4A
+  Workspace.xuca1324.Right.RGem (MeshPart) SourceName=gloves_epic__RGem__Neon__A070D0
+  Workspace.xuca1324.Skirt.Handle (MeshPart) PartName=Belt SourceName=centurion_legs__Belt__Metal__CC9C4A
+  [SPAWNLOCATION] Workspace.Lobby.JoinSpawns.Join1 (SpawnLocation)
+  [SPAWNLOCATION] Workspace.Lobby.JoinSpawns.Join2 (SpawnLocation)
+  [SPAWNLOCATION] Workspace.Lobby.JoinSpawns.Join3 (SpawnLocation)
+  [SPAWNLOCATION] Workspace.Lobby.JoinSpawns.Join4 (SpawnLocation)
+  [SPAWNLOCATION] Workspace.Lobby.JoinSpawns.Join5 (SpawnLocation)
+  [SPAWNLOCATION] Workspace.Lobby.JoinSpawns.Join6 (SpawnLocation)
+  gladius_rusty (Tool) WeaponId=gladius_rusty Source=blender:weapons WeaponModelId=gladius_rusty Kit=Gladiator BladeScale=1.35 WeaponClass=Sword Assembled=true
+  spear_hunter (Tool) Source=blender:weapons Assembled=true Kit=Lancer WeaponId=spear_hunter WeaponClass=Spear WeaponModelId=spear_hunter

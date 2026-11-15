@@ -1,12 +1,12 @@
-=== CYPHRA v10.1 SCAN ===
+=== CYPHRA HEADLESS ===
 Game: 115068315659966
 
-══ TRAFFIC & INTERACTIONS ══
+══ TRAFFIC ══
 
-  game:GetService("ReplicatedStorage").ZAP.ZAP_RELIABLE  (calls=178)
-    FireServer(...)  [x178]
+  game:GetService("ReplicatedStorage").ZAP.ZAP_RELIABLE  (calls=97)
+    FireServer(...)  [x97]
 
-══ DISCOVERED INSTANCES ══
+══ DISCOVERED ══
   [MODULESCRIPT] game:GetService("ReplicatedStorage").Shared.Packs
   [MODULESCRIPT] game:GetService("ReplicatedStorage").Shared.Roles
   [MODULESCRIPT] game:GetService("ReplicatedStorage").Shared.Cards
